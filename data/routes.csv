@@ -1,0 +1,9 @@
+route_id,route_name,from_zone,to_zone,planned_minutes
+R01,Mina-Arafat,Mina,Arafat,55
+R02,Arafat-Muzdalifah,Arafat,Muzdalifah,35
+R03,Muzdalifah-Mina,Muzdalifah,Mina,65
+R04,Mina-Jamarat,Mina,Jamarat,25
+R05,Jamarat-Mina,Jamarat,Mina,25
+R06,Mina-Internal,Mina,Mina,20
+R07,Arafat-Internal,Arafat,Arafat,15
+R08,Muzdalifah-Internal,Muzdalifah,Muzdalifah,15

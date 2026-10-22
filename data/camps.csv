@@ -1,0 +1,13 @@
+camp_id,camp_name,zone,capacity
+C01,Mina North,Mina,1200
+C02,Mina Central,Mina,1500
+C03,Mina South,Mina,1300
+C04,Mina East,Mina,1100
+C05,Arafat North,Arafat,1800
+C06,Arafat Central,Arafat,2000
+C07,Arafat South,Arafat,1600
+C08,Muzdalifah North,Muzdalifah,1400
+C09,Muzdalifah Central,Muzdalifah,1600
+C10,Muzdalifah South,Muzdalifah,1300
+C11,Jamarat East,Jamarat,1700
+C12,Jamarat West,Jamarat,1500

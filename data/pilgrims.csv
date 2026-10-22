@@ -1,0 +1,3001 @@
+pilgrim_id,region,group_type,age_group,group_id,camp_id,satisfaction_score
+P00001,Egypt,Independent,46-60,G054,C07,4.1
+P00002,Nigeria,Group C,61+,G003,C06,3.3
+P00003,Malaysia,Independent,46-60,G081,C01,4.0
+P00004,Pakistan,Independent,46-60,G055,C02,3.5
+P00005,Pakistan,Group C,31-45,G093,C08,3.9
+P00006,Nigeria,Group B,18-30,G075,C07,2.4
+P00007,Egypt,Group C,31-45,G095,C07,3.4
+P00008,Malaysia,Group B,46-60,G056,C02,5.0
+P00009,Saudi Arabia,Group C,18-30,G001,C07,4.6
+P00010,Egypt,Independent,18-30,G016,C01,5.0
+P00011,Turkey,Group B,31-45,G056,C02,5.0
+P00012,Bangladesh,Group C,61+,G048,C06,4.5
+P00013,Malaysia,Group A,46-60,G096,C08,3.8
+P00014,Nigeria,Group C,46-60,G050,C08,3.4
+P00015,Malaysia,Group B,46-60,G104,C12,4.8
+P00016,Nigeria,Group B,18-30,G023,C11,4.1
+P00017,Turkey,Group C,31-45,G047,C05,5.0
+P00018,Saudi Arabia,Group A,18-30,G091,C10,3.9
+P00019,Nigeria,Group C,61+,G015,C02,5.0
+P00020,Pakistan,Group C,61+,G039,C11,4.0
+P00021,Turkey,Group B,31-45,G091,C05,5.0
+P00022,Indonesia,Group A,31-45,G071,C10,5.0
+P00023,Saudi Arabia,Group B,31-45,G094,C12,3.4
+P00024,Bangladesh,Group A,61+,G062,C09,3.8
+P00025,Nigeria,Group B,31-45,G104,C12,3.4
+P00026,Malaysia,Group C,61+,G106,C01,3.3
+P00027,Pakistan,Group A,31-45,G117,C03,4.5
+P00028,Nigeria,Group C,46-60,G015,C08,4.0
+P00029,Turkey,Group A,46-60,G071,C07,4.1
+P00030,Pakistan,Independent,31-45,G014,C02,4.5
+P00031,Pakistan,Group C,61+,G028,C09,2.9
+P00032,Saudi Arabia,Group B,46-60,G037,C01,4.9
+P00033,Egypt,Group C,61+,G078,C12,3.9
+P00034,Turkey,Group A,61+,G052,C02,4.4
+P00035,Bangladesh,Group A,18-30,G104,C06,4.5
+P00036,Egypt,Independent,18-30,G036,C10,5.0
+P00037,Nigeria,Independent,46-60,G075,C07,4.0
+P00038,Nigeria,Group A,31-45,G092,C09,2.7
+P00039,Indonesia,Group B,31-45,G118,C09,4.1
+P00040,Malaysia,Group A,18-30,G030,C12,4.2
+P00041,Saudi Arabia,Group B,31-45,G089,C06,3.4
+P00042,Nigeria,Group B,31-45,G011,C12,4.2
+P00043,Malaysia,Group B,31-45,G066,C07,3.9
+P00044,Indonesia,Group C,46-60,G050,C11,3.2
+P00045,Egypt,Group A,46-60,G116,C09,4.5
+P00046,Bangladesh,Independent,31-45,G093,C02,3.7
+P00047,Pakistan,Group C,18-30,G112,C08,3.8
+P00048,Bangladesh,Independent,46-60,G103,C11,3.8
+P00049,Malaysia,Group A,18-30,G050,C02,4.9
+P00050,Nigeria,Group C,31-45,G089,C11,4.1
+P00051,Nigeria,Independent,31-45,G004,C02,4.2
+P00052,Saudi Arabia,Group A,18-30,G067,C11,3.8
+P00053,Indonesia,Independent,31-45,G006,C10,4.4
+P00054,Pakistan,Group B,31-45,G087,C02,5.0
+P00055,Pakistan,Independent,61+,G117,C09,4.5
+P00056,Egypt,Group B,61+,G082,C02,4.5
+P00057,Turkey,Independent,18-30,G101,C07,4.5
+P00058,Saudi Arabia,Group A,46-60,G029,C12,3.2
+P00059,Malaysia,Group B,46-60,G120,C03,3.5
+P00060,Malaysia,Group B,31-45,G067,C03,4.0
+P00061,Bangladesh,Group A,31-45,G081,C06,3.6
+P00062,Malaysia,Group B,61+,G093,C05,3.4
+P00063,Indonesia,Group B,31-45,G077,C01,2.9
+P00064,Bangladesh,Group A,18-30,G039,C06,3.2
+P00065,Pakistan,Group C,31-45,G074,C04,3.9
+P00066,Indonesia,Group C,31-45,G079,C02,4.1
+P00067,Bangladesh,Independent,31-45,G103,C04,3.6
+P00068,Indonesia,Group C,18-30,G058,C01,4.2
+P00069,Egypt,Group A,18-30,G061,C11,3.8
+P00070,Pakistan,Group A,61+,G061,C12,4.8
+P00071,Nigeria,Group B,18-30,G014,C05,4.0
+P00072,Saudi Arabia,Group B,46-60,G011,C11,4.6
+P00073,Pakistan,Group A,46-60,G003,C06,4.2
+P00074,Saudi Arabia,Independent,46-60,G080,C11,3.2
+P00075,Malaysia,Group C,61+,G051,C03,4.0
+P00076,Pakistan,Group C,18-30,G104,C04,3.3
+P00077,Indonesia,Group A,31-45,G085,C09,4.0
+P00078,Saudi Arabia,Independent,18-30,G017,C03,3.6
+P00079,Turkey,Group A,46-60,G013,C10,4.3
+P00080,Malaysia,Group B,46-60,G044,C06,3.2
+P00081,Bangladesh,Group B,61+,G111,C05,4.1
+P00082,Pakistan,Independent,31-45,G006,C06,4.5
+P00083,Saudi Arabia,Group B,18-30,G023,C10,4.7
+P00084,Nigeria,Group A,61+,G004,C01,3.6
+P00085,Malaysia,Group B,46-60,G050,C10,4.1
+P00086,Malaysia,Group B,61+,G119,C10,4.2
+P00087,Egypt,Group A,31-45,G083,C10,5.0
+P00088,Indonesia,Group A,31-45,G060,C12,3.1
+P00089,Nigeria,Group A,31-45,G018,C10,3.5
+P00090,Nigeria,Group B,46-60,G043,C07,5.0
+P00091,Pakistan,Group B,18-30,G063,C06,3.9
+P00092,Nigeria,Group B,61+,G033,C05,2.9
+P00093,Nigeria,Group C,18-30,G085,C10,3.7
+P00094,Pakistan,Group A,31-45,G118,C05,2.3
+P00095,Bangladesh,Independent,31-45,G025,C07,4.3
+P00096,Indonesia,Independent,46-60,G031,C02,4.6
+P00097,Saudi Arabia,Group A,46-60,G016,C04,3.5
+P00098,Malaysia,Group B,61+,G088,C04,3.8
+P00099,Malaysia,Group A,61+,G056,C06,4.7
+P00100,Saudi Arabia,Group B,18-30,G035,C07,3.0
+P00101,Nigeria,Group B,18-30,G027,C09,3.2
+P00102,Saudi Arabia,Group A,61+,G009,C06,4.0
+P00103,Nigeria,Group A,31-45,G058,C02,3.6
+P00104,Egypt,Group B,18-30,G082,C07,3.9
+P00105,Nigeria,Group C,61+,G029,C01,3.3
+P00106,Nigeria,Group B,46-60,G001,C11,4.2
+P00107,Nigeria,Independent,18-30,G057,C10,4.0
+P00108,Malaysia,Group B,61+,G082,C03,4.5
+P00109,Pakistan,Independent,46-60,G042,C04,4.2
+P00110,Malaysia,Group A,46-60,G031,C01,4.2
+P00111,Indonesia,Group C,61+,G019,C05,3.2
+P00112,Nigeria,Independent,31-45,G090,C01,4.4
+P00113,Turkey,Group A,31-45,G104,C12,3.9
+P00114,Pakistan,Independent,46-60,G093,C02,4.0
+P00115,Turkey,Group B,18-30,G063,C08,4.8
+P00116,Turkey,Group B,18-30,G087,C07,3.6
+P00117,Egypt,Group C,61+,G048,C03,5.0
+P00118,Saudi Arabia,Group C,18-30,G003,C10,5.0
+P00119,Saudi Arabia,Group A,46-60,G045,C02,4.6
+P00120,Egypt,Independent,31-45,G085,C11,3.5
+P00121,Pakistan,Group C,18-30,G078,C09,2.7
+P00122,Malaysia,Independent,46-60,G119,C08,4.8
+P00123,Malaysia,Group B,61+,G120,C11,4.2
+P00124,Pakistan,Group C,31-45,G030,C05,3.6
+P00125,Nigeria,Group B,18-30,G002,C04,4.9
+P00126,Turkey,Independent,18-30,G033,C02,3.5
+P00127,Egypt,Independent,18-30,G106,C12,3.8
+P00128,Nigeria,Independent,61+,G098,C05,4.4
+P00129,Turkey,Group C,31-45,G012,C10,3.4
+P00130,Malaysia,Independent,31-45,G020,C04,4.0
+P00131,Turkey,Group B,18-30,G068,C12,4.8
+P00132,Turkey,Group B,31-45,G080,C11,4.2
+P00133,Egypt,Independent,61+,G118,C04,4.9
+P00134,Turkey,Group A,31-45,G091,C06,4.8
+P00135,Nigeria,Group C,46-60,G026,C10,4.1
+P00136,Indonesia,Group A,18-30,G005,C03,2.6
+P00137,Turkey,Group C,18-30,G077,C01,3.4
+P00138,Egypt,Group B,46-60,G067,C04,4.6
+P00139,Indonesia,Group B,18-30,G111,C08,3.1
+P00140,Pakistan,Group B,31-45,G070,C02,3.9
+P00141,Bangladesh,Group B,31-45,G061,C05,4.3
+P00142,Saudi Arabia,Group B,18-30,G037,C12,5.0
+P00143,Indonesia,Group B,46-60,G011,C01,3.7
+P00144,Pakistan,Group C,61+,G106,C01,3.7
+P00145,Bangladesh,Independent,18-30,G100,C06,4.1
+P00146,Nigeria,Group C,61+,G020,C01,4.3
+P00147,Egypt,Group C,46-60,G085,C01,4.0
+P00148,Saudi Arabia,Independent,46-60,G044,C03,4.8
+P00149,Nigeria,Independent,18-30,G053,C02,3.6
+P00150,Egypt,Group A,61+,G102,C10,4.2
+P00151,Nigeria,Group C,18-30,G102,C02,4.4
+P00152,Indonesia,Group A,61+,G023,C07,3.8
+P00153,Bangladesh,Group A,46-60,G037,C09,4.6
+P00154,Indonesia,Independent,31-45,G099,C08,4.2
+P00155,Pakistan,Group A,18-30,G111,C08,4.6
+P00156,Malaysia,Independent,46-60,G010,C05,4.2
+P00157,Saudi Arabia,Independent,18-30,G101,C11,4.3
+P00158,Turkey,Independent,46-60,G059,C01,3.7
+P00159,Turkey,Group C,61+,G071,C02,3.7
+P00160,Nigeria,Independent,31-45,G010,C11,4.9
+P00161,Bangladesh,Group A,18-30,G082,C01,4.5
+P00162,Malaysia,Independent,18-30,G082,C03,3.4
+P00163,Pakistan,Group A,18-30,G080,C03,4.2
+P00164,Pakistan,Group B,18-30,G095,C01,2.6
+P00165,Pakistan,Group A,18-30,G114,C02,3.7
+P00166,Nigeria,Group B,46-60,G102,C07,4.7
+P00167,Indonesia,Group C,31-45,G090,C08,4.0
+P00168,Saudi Arabia,Group B,61+,G118,C01,4.2
+P00169,Indonesia,Independent,61+,G081,C12,2.1
+P00170,Egypt,Group C,61+,G081,C02,3.8
+P00171,Egypt,Group C,46-60,G066,C09,4.3
+P00172,Egypt,Independent,31-45,G093,C10,4.4
+P00173,Nigeria,Group B,61+,G009,C07,4.7
+P00174,Malaysia,Group B,18-30,G061,C06,4.0
+P00175,Malaysia,Independent,31-45,G052,C02,4.0
+P00176,Pakistan,Group C,31-45,G110,C03,3.2
+P00177,Malaysia,Group C,46-60,G009,C11,4.0
+P00178,Saudi Arabia,Group B,46-60,G078,C05,3.3
+P00179,Bangladesh,Group A,61+,G023,C01,2.9
+P00180,Turkey,Group A,61+,G107,C09,3.4
+P00181,Bangladesh,Group A,31-45,G103,C09,5.0
+P00182,Saudi Arabia,Group A,61+,G029,C01,3.9
+P00183,Pakistan,Group C,18-30,G105,C01,4.2
+P00184,Malaysia,Group A,61+,G060,C02,3.8
+P00185,Pakistan,Group C,18-30,G117,C01,2.9
+P00186,Pakistan,Independent,61+,G088,C08,4.7
+P00187,Saudi Arabia,Independent,31-45,G005,C02,2.7
+P00188,Pakistan,Group B,61+,G025,C08,3.7
+P00189,Saudi Arabia,Group A,18-30,G049,C03,4.1
+P00190,Indonesia,Independent,31-45,G026,C12,4.2
+P00191,Malaysia,Group A,61+,G016,C09,3.6
+P00192,Malaysia,Group C,18-30,G118,C05,2.9
+P00193,Turkey,Group C,31-45,G105,C06,3.6
+P00194,Indonesia,Group A,18-30,G053,C01,3.6
+P00195,Bangladesh,Group C,31-45,G026,C01,3.6
+P00196,Egypt,Group A,31-45,G022,C07,4.7
+P00197,Indonesia,Group A,46-60,G110,C01,3.3
+P00198,Egypt,Independent,31-45,G040,C08,4.3
+P00199,Indonesia,Independent,18-30,G002,C05,4.2
+P00200,Bangladesh,Group B,18-30,G048,C02,4.7
+P00201,Indonesia,Independent,61+,G055,C07,4.0
+P00202,Bangladesh,Independent,61+,G075,C07,4.6
+P00203,Pakistan,Independent,18-30,G041,C09,4.0
+P00204,Malaysia,Group A,18-30,G111,C03,4.4
+P00205,Pakistan,Group B,18-30,G078,C07,3.1
+P00206,Indonesia,Group C,61+,G119,C11,2.4
+P00207,Nigeria,Independent,46-60,G045,C04,4.3
+P00208,Bangladesh,Independent,61+,G079,C11,4.4
+P00209,Indonesia,Group B,31-45,G044,C09,4.4
+P00210,Nigeria,Group A,46-60,G084,C06,3.8
+P00211,Indonesia,Independent,18-30,G090,C11,5.0
+P00212,Malaysia,Group B,46-60,G039,C12,3.8
+P00213,Nigeria,Group B,46-60,G113,C03,4.4
+P00214,Pakistan,Independent,31-45,G103,C12,4.5
+P00215,Malaysia,Group C,46-60,G108,C01,5.0
+P00216,Indonesia,Group B,46-60,G027,C02,3.9
+P00217,Egypt,Group A,31-45,G087,C01,3.7
+P00218,Egypt,Group B,18-30,G013,C05,3.1
+P00219,Pakistan,Independent,18-30,G013,C12,5.0
+P00220,Bangladesh,Group B,61+,G117,C08,4.4
+P00221,Saudi Arabia,Group C,31-45,G019,C08,4.4
+P00222,Pakistan,Group B,31-45,G104,C02,5.0
+P00223,Malaysia,Independent,46-60,G052,C07,4.3
+P00224,Saudi Arabia,Independent,31-45,G037,C05,3.3
+P00225,Malaysia,Group C,31-45,G009,C06,4.0
+P00226,Indonesia,Independent,46-60,G082,C04,3.5
+P00227,Nigeria,Group C,46-60,G087,C03,3.8
+P00228,Turkey,Group B,46-60,G057,C12,3.8
+P00229,Turkey,Group C,18-30,G098,C07,3.7
+P00230,Saudi Arabia,Independent,31-45,G039,C05,3.2
+P00231,Pakistan,Independent,31-45,G067,C01,5.0
+P00232,Nigeria,Group A,46-60,G035,C10,4.3
+P00233,Egypt,Group C,18-30,G070,C06,4.0
+P00234,Nigeria,Group A,18-30,G017,C05,4.6
+P00235,Pakistan,Group C,61+,G058,C09,4.4
+P00236,Malaysia,Group C,46-60,G066,C02,4.3
+P00237,Malaysia,Group B,61+,G067,C07,4.5
+P00238,Pakistan,Independent,31-45,G054,C11,4.2
+P00239,Indonesia,Independent,61+,G078,C06,4.5
+P00240,Malaysia,Group A,31-45,G062,C01,4.6
+P00241,Saudi Arabia,Group A,46-60,G034,C03,4.2
+P00242,Turkey,Group A,18-30,G026,C01,4.0
+P00243,Egypt,Independent,61+,G078,C07,5.0
+P00244,Malaysia,Group C,31-45,G113,C05,3.8
+P00245,Malaysia,Group C,61+,G091,C02,4.4
+P00246,Egypt,Independent,31-45,G077,C09,4.4
+P00247,Nigeria,Independent,61+,G111,C03,3.7
+P00248,Pakistan,Group A,31-45,G108,C05,3.6
+P00249,Nigeria,Group A,18-30,G061,C12,3.9
+P00250,Egypt,Group B,18-30,G014,C01,3.8
+P00251,Saudi Arabia,Group B,46-60,G077,C03,3.2
+P00252,Pakistan,Group C,18-30,G075,C04,3.7
+P00253,Saudi Arabia,Group A,31-45,G034,C07,4.3
+P00254,Indonesia,Group B,46-60,G102,C03,4.9
+P00255,Malaysia,Group A,31-45,G105,C12,4.5
+P00256,Saudi Arabia,Group A,18-30,G040,C01,2.4
+P00257,Malaysia,Group A,46-60,G058,C12,4.5
+P00258,Egypt,Group A,46-60,G024,C07,3.7
+P00259,Saudi Arabia,Group C,46-60,G022,C01,4.4
+P00260,Turkey,Group B,61+,G032,C02,4.1
+P00261,Nigeria,Group B,18-30,G044,C02,4.0
+P00262,Saudi Arabia,Group B,31-45,G033,C04,4.0
+P00263,Indonesia,Group C,18-30,G019,C04,4.1
+P00264,Bangladesh,Independent,61+,G054,C08,5.0
+P00265,Bangladesh,Group C,46-60,G075,C04,4.1
+P00266,Turkey,Group C,18-30,G040,C09,4.8
+P00267,Pakistan,Group C,46-60,G065,C04,4.7
+P00268,Indonesia,Group C,18-30,G033,C04,4.5
+P00269,Turkey,Group A,31-45,G085,C04,2.9
+P00270,Turkey,Independent,46-60,G078,C04,4.8
+P00271,Indonesia,Group A,46-60,G116,C11,3.8
+P00272,Egypt,Group B,61+,G007,C03,4.6
+P00273,Saudi Arabia,Group C,46-60,G103,C04,3.5
+P00274,Bangladesh,Group B,61+,G041,C12,3.3
+P00275,Pakistan,Group A,46-60,G008,C08,5.0
+P00276,Pakistan,Independent,18-30,G083,C03,3.5
+P00277,Pakistan,Group A,18-30,G021,C11,4.8
+P00278,Nigeria,Group A,61+,G022,C03,4.2
+P00279,Egypt,Independent,18-30,G118,C02,3.8
+P00280,Egypt,Group C,31-45,G027,C06,4.1
+P00281,Indonesia,Group A,18-30,G066,C09,3.3
+P00282,Pakistan,Independent,31-45,G025,C03,4.1
+P00283,Malaysia,Independent,46-60,G015,C10,3.4
+P00284,Pakistan,Group A,18-30,G001,C02,3.8
+P00285,Pakistan,Group B,31-45,G002,C10,4.7
+P00286,Bangladesh,Group B,61+,G057,C02,4.3
+P00287,Saudi Arabia,Group A,18-30,G053,C06,3.1
+P00288,Turkey,Group A,18-30,G005,C08,4.7
+P00289,Turkey,Group A,31-45,G042,C04,4.1
+P00290,Pakistan,Group A,61+,G033,C08,3.7
+P00291,Nigeria,Group B,31-45,G069,C09,4.6
+P00292,Indonesia,Group B,46-60,G120,C08,4.0
+P00293,Bangladesh,Group A,18-30,G083,C05,3.3
+P00294,Indonesia,Group B,46-60,G111,C10,5.0
+P00295,Turkey,Group A,18-30,G024,C09,4.1
+P00296,Turkey,Independent,46-60,G026,C04,4.0
+P00297,Nigeria,Group A,18-30,G091,C09,3.8
+P00298,Pakistan,Independent,61+,G038,C12,4.9
+P00299,Indonesia,Group C,31-45,G102,C10,3.8
+P00300,Egypt,Independent,18-30,G056,C09,3.1
+P00301,Indonesia,Group C,31-45,G025,C10,3.7
+P00302,Nigeria,Group B,18-30,G102,C10,5.0
+P00303,Egypt,Group C,18-30,G067,C04,4.6
+P00304,Bangladesh,Group B,46-60,G097,C09,3.9
+P00305,Turkey,Group A,31-45,G055,C03,5.0
+P00306,Saudi Arabia,Group B,31-45,G016,C05,4.6
+P00307,Indonesia,Group B,61+,G082,C12,3.9
+P00308,Turkey,Group A,18-30,G015,C04,4.0
+P00309,Indonesia,Group A,31-45,G080,C11,4.3
+P00310,Egypt,Independent,18-30,G051,C06,3.6
+P00311,Malaysia,Group C,31-45,G095,C03,4.1
+P00312,Malaysia,Group B,31-45,G105,C02,4.3
+P00313,Egypt,Independent,18-30,G049,C07,3.0
+P00314,Indonesia,Group A,18-30,G106,C06,4.0
+P00315,Saudi Arabia,Group B,61+,G014,C07,3.9
+P00316,Malaysia,Independent,18-30,G013,C01,4.8
+P00317,Malaysia,Group C,61+,G120,C04,2.9
+P00318,Malaysia,Group B,61+,G069,C01,3.9
+P00319,Bangladesh,Group B,31-45,G055,C04,3.8
+P00320,Nigeria,Group A,31-45,G019,C12,4.7
+P00321,Indonesia,Group A,61+,G035,C02,4.1
+P00322,Egypt,Group A,61+,G083,C09,5.0
+P00323,Turkey,Independent,18-30,G099,C01,4.5
+P00324,Bangladesh,Group C,61+,G110,C07,3.8
+P00325,Bangladesh,Group B,61+,G049,C12,4.3
+P00326,Saudi Arabia,Independent,18-30,G055,C05,3.9
+P00327,Saudi Arabia,Group A,18-30,G020,C03,4.7
+P00328,Egypt,Group A,46-60,G010,C07,3.2
+P00329,Saudi Arabia,Group B,18-30,G053,C04,3.6
+P00330,Turkey,Independent,46-60,G070,C11,4.4
+P00331,Turkey,Group C,18-30,G013,C11,4.9
+P00332,Indonesia,Independent,46-60,G050,C08,2.7
+P00333,Indonesia,Group A,18-30,G077,C08,5.0
+P00334,Nigeria,Independent,18-30,G098,C08,4.0
+P00335,Pakistan,Group A,18-30,G113,C09,2.9
+P00336,Nigeria,Group A,18-30,G041,C06,2.1
+P00337,Bangladesh,Group C,46-60,G048,C12,3.1
+P00338,Indonesia,Group A,18-30,G105,C05,4.1
+P00339,Saudi Arabia,Independent,61+,G084,C01,4.1
+P00340,Bangladesh,Independent,46-60,G033,C09,4.5
+P00341,Malaysia,Group C,31-45,G083,C08,3.7
+P00342,Indonesia,Group B,61+,G019,C12,3.4
+P00343,Turkey,Group A,46-60,G054,C05,3.8
+P00344,Turkey,Group C,46-60,G037,C06,4.1
+P00345,Bangladesh,Group C,18-30,G120,C07,4.3
+P00346,Indonesia,Independent,46-60,G005,C05,3.6
+P00347,Bangladesh,Group C,46-60,G103,C10,4.7
+P00348,Bangladesh,Group A,61+,G034,C06,3.7
+P00349,Saudi Arabia,Group A,31-45,G005,C10,3.5
+P00350,Saudi Arabia,Independent,46-60,G080,C06,3.7
+P00351,Turkey,Group A,31-45,G082,C03,4.8
+P00352,Egypt,Independent,18-30,G018,C12,4.0
+P00353,Indonesia,Group A,18-30,G005,C07,3.6
+P00354,Pakistan,Group C,61+,G014,C09,4.7
+P00355,Bangladesh,Independent,46-60,G050,C08,5.0
+P00356,Bangladesh,Group B,31-45,G016,C05,4.2
+P00357,Saudi Arabia,Group A,46-60,G085,C12,4.9
+P00358,Bangladesh,Independent,18-30,G010,C05,4.8
+P00359,Egypt,Group A,18-30,G095,C12,3.7
+P00360,Malaysia,Group C,46-60,G105,C06,4.1
+P00361,Nigeria,Independent,46-60,G087,C01,3.3
+P00362,Bangladesh,Group C,61+,G114,C01,4.0
+P00363,Saudi Arabia,Group A,61+,G113,C12,3.7
+P00364,Bangladesh,Independent,31-45,G006,C07,3.8
+P00365,Egypt,Group A,61+,G042,C05,3.6
+P00366,Turkey,Group C,31-45,G092,C10,3.9
+P00367,Pakistan,Group C,61+,G041,C08,4.4
+P00368,Indonesia,Group B,18-30,G089,C08,4.0
+P00369,Egypt,Group B,18-30,G093,C09,2.9
+P00370,Nigeria,Group A,18-30,G120,C03,3.6
+P00371,Indonesia,Independent,61+,G040,C02,3.1
+P00372,Malaysia,Group A,18-30,G042,C09,4.3
+P00373,Pakistan,Group B,61+,G003,C01,4.4
+P00374,Indonesia,Group C,46-60,G035,C09,4.3
+P00375,Bangladesh,Group C,18-30,G034,C02,3.6
+P00376,Egypt,Group C,61+,G055,C04,4.3
+P00377,Malaysia,Group C,18-30,G051,C09,3.8
+P00378,Malaysia,Group C,18-30,G103,C08,3.4
+P00379,Pakistan,Independent,46-60,G093,C10,4.6
+P00380,Indonesia,Group B,31-45,G088,C08,4.6
+P00381,Egypt,Independent,31-45,G001,C01,4.7
+P00382,Bangladesh,Independent,18-30,G057,C11,3.7
+P00383,Bangladesh,Independent,46-60,G088,C03,4.9
+P00384,Saudi Arabia,Independent,18-30,G030,C02,3.8
+P00385,Egypt,Independent,18-30,G051,C11,4.5
+P00386,Egypt,Group A,46-60,G088,C03,3.8
+P00387,Egypt,Independent,31-45,G096,C07,4.0
+P00388,Nigeria,Group C,46-60,G103,C06,2.5
+P00389,Bangladesh,Group B,18-30,G052,C10,3.9
+P00390,Saudi Arabia,Group C,46-60,G048,C01,4.2
+P00391,Malaysia,Group B,61+,G046,C02,3.8
+P00392,Saudi Arabia,Group C,31-45,G081,C05,5.0
+P00393,Indonesia,Independent,31-45,G051,C06,3.3
+P00394,Turkey,Group A,46-60,G049,C10,3.7
+P00395,Malaysia,Group B,46-60,G021,C08,3.5
+P00396,Nigeria,Independent,18-30,G058,C02,3.7
+P00397,Egypt,Group B,46-60,G029,C12,4.8
+P00398,Saudi Arabia,Independent,18-30,G063,C06,5.0
+P00399,Indonesia,Group A,46-60,G107,C12,3.6
+P00400,Indonesia,Group C,61+,G094,C12,3.6
+P00401,Bangladesh,Independent,46-60,G058,C01,3.3
+P00402,Nigeria,Independent,61+,G118,C07,4.9
+P00403,Indonesia,Group A,31-45,G118,C06,4.8
+P00404,Bangladesh,Independent,61+,G054,C06,4.0
+P00405,Pakistan,Group B,61+,G092,C04,3.2
+P00406,Turkey,Group B,61+,G042,C07,3.3
+P00407,Pakistan,Group B,46-60,G106,C06,4.2
+P00408,Saudi Arabia,Group C,46-60,G045,C03,4.5
+P00409,Bangladesh,Group C,46-60,G031,C04,2.8
+P00410,Egypt,Group B,61+,G017,C02,3.9
+P00411,Saudi Arabia,Group A,61+,G102,C11,5.0
+P00412,Saudi Arabia,Independent,31-45,G036,C09,4.0
+P00413,Indonesia,Group A,18-30,G098,C05,5.0
+P00414,Saudi Arabia,Group A,18-30,G011,C05,4.5
+P00415,Egypt,Group C,18-30,G061,C01,3.4
+P00416,Malaysia,Group B,18-30,G052,C04,3.9
+P00417,Bangladesh,Group C,18-30,G053,C12,4.0
+P00418,Egypt,Independent,18-30,G021,C01,3.5
+P00419,Indonesia,Group A,61+,G009,C02,3.5
+P00420,Turkey,Group B,18-30,G042,C11,5.0
+P00421,Bangladesh,Group C,46-60,G057,C07,3.5
+P00422,Malaysia,Independent,31-45,G096,C01,4.8
+P00423,Nigeria,Group C,18-30,G056,C06,3.8
+P00424,Turkey,Group B,46-60,G030,C09,4.1
+P00425,Pakistan,Group C,61+,G032,C05,4.5
+P00426,Saudi Arabia,Independent,61+,G074,C05,3.7
+P00427,Nigeria,Group B,61+,G053,C08,4.5
+P00428,Nigeria,Independent,46-60,G109,C08,2.8
+P00429,Egypt,Independent,46-60,G053,C11,4.4
+P00430,Malaysia,Group B,18-30,G069,C03,2.5
+P00431,Egypt,Group A,61+,G008,C04,4.0
+P00432,Malaysia,Independent,46-60,G024,C02,4.7
+P00433,Nigeria,Group A,31-45,G103,C08,4.5
+P00434,Saudi Arabia,Group B,31-45,G042,C07,3.3
+P00435,Pakistan,Group A,46-60,G051,C05,3.3
+P00436,Egypt,Group C,18-30,G071,C09,3.7
+P00437,Turkey,Group B,61+,G007,C05,4.2
+P00438,Bangladesh,Group C,31-45,G061,C03,2.8
+P00439,Egypt,Independent,18-30,G042,C07,4.1
+P00440,Pakistan,Independent,31-45,G018,C06,4.3
+P00441,Bangladesh,Independent,61+,G051,C05,3.9
+P00442,Indonesia,Group A,31-45,G054,C06,4.4
+P00443,Saudi Arabia,Group B,46-60,G023,C11,4.2
+P00444,Pakistan,Group A,61+,G066,C03,3.7
+P00445,Turkey,Independent,18-30,G090,C04,2.8
+P00446,Malaysia,Group C,61+,G033,C07,4.2
+P00447,Indonesia,Group B,31-45,G116,C01,3.5
+P00448,Bangladesh,Group C,46-60,G074,C02,3.7
+P00449,Turkey,Group C,18-30,G093,C07,4.4
+P00450,Indonesia,Group B,18-30,G009,C07,5.0
+P00451,Bangladesh,Group B,61+,G093,C08,4.1
+P00452,Bangladesh,Group A,61+,G041,C02,4.5
+P00453,Pakistan,Group B,61+,G086,C11,3.2
+P00454,Egypt,Group B,46-60,G097,C06,4.3
+P00455,Turkey,Independent,31-45,G031,C02,4.1
+P00456,Turkey,Independent,18-30,G032,C04,4.9
+P00457,Saudi Arabia,Independent,31-45,G008,C03,3.7
+P00458,Malaysia,Group A,46-60,G073,C06,3.9
+P00459,Nigeria,Independent,31-45,G093,C06,4.8
+P00460,Egypt,Group B,31-45,G050,C06,4.0
+P00461,Malaysia,Group B,18-30,G020,C06,3.4
+P00462,Saudi Arabia,Independent,31-45,G038,C11,5.0
+P00463,Malaysia,Independent,18-30,G049,C12,3.4
+P00464,Pakistan,Group A,18-30,G110,C06,4.1
+P00465,Egypt,Group B,18-30,G015,C12,4.3
+P00466,Bangladesh,Group C,46-60,G042,C10,4.3
+P00467,Saudi Arabia,Group C,31-45,G077,C10,4.0
+P00468,Turkey,Group B,18-30,G029,C03,4.0
+P00469,Saudi Arabia,Group C,46-60,G107,C06,3.9
+P00470,Bangladesh,Independent,18-30,G110,C05,3.4
+P00471,Malaysia,Group A,18-30,G046,C02,5.0
+P00472,Nigeria,Group C,18-30,G090,C01,4.0
+P00473,Pakistan,Group C,31-45,G091,C08,4.5
+P00474,Pakistan,Independent,61+,G082,C06,3.9
+P00475,Malaysia,Group B,18-30,G023,C10,3.9
+P00476,Nigeria,Group A,31-45,G006,C09,3.8
+P00477,Nigeria,Group C,18-30,G042,C02,3.1
+P00478,Egypt,Group C,31-45,G016,C11,4.0
+P00479,Malaysia,Group B,46-60,G036,C06,3.8
+P00480,Egypt,Independent,31-45,G077,C07,4.9
+P00481,Indonesia,Independent,46-60,G071,C12,3.3
+P00482,Nigeria,Group A,61+,G026,C08,3.7
+P00483,Indonesia,Independent,61+,G003,C01,3.5
+P00484,Nigeria,Group A,46-60,G028,C03,5.0
+P00485,Pakistan,Group B,46-60,G055,C06,3.5
+P00486,Saudi Arabia,Group A,61+,G094,C01,4.5
+P00487,Indonesia,Group B,61+,G044,C03,4.7
+P00488,Turkey,Independent,31-45,G035,C10,4.0
+P00489,Nigeria,Group B,18-30,G067,C02,3.2
+P00490,Turkey,Group C,18-30,G009,C03,3.2
+P00491,Bangladesh,Group A,61+,G028,C07,4.7
+P00492,Nigeria,Group C,46-60,G005,C02,3.3
+P00493,Nigeria,Group B,31-45,G064,C04,4.4
+P00494,Turkey,Group C,31-45,G054,C12,4.2
+P00495,Indonesia,Independent,31-45,G070,C08,4.3
+P00496,Pakistan,Group C,61+,G075,C12,4.4
+P00497,Egypt,Group A,46-60,G048,C05,3.5
+P00498,Indonesia,Group B,61+,G105,C08,3.5
+P00499,Bangladesh,Group A,31-45,G111,C03,4.6
+P00500,Pakistan,Group B,31-45,G014,C05,3.7
+P00501,Egypt,Group A,18-30,G111,C03,2.3
+P00502,Malaysia,Group C,61+,G024,C10,4.5
+P00503,Bangladesh,Group B,46-60,G030,C03,3.4
+P00504,Nigeria,Group A,46-60,G064,C03,4.4
+P00505,Indonesia,Group A,31-45,G004,C06,5.0
+P00506,Pakistan,Independent,31-45,G044,C06,4.1
+P00507,Turkey,Independent,61+,G024,C04,4.7
+P00508,Saudi Arabia,Independent,31-45,G058,C05,4.2
+P00509,Indonesia,Group A,46-60,G098,C04,5.0
+P00510,Saudi Arabia,Group B,18-30,G111,C11,3.4
+P00511,Bangladesh,Independent,31-45,G026,C07,4.1
+P00512,Malaysia,Group C,61+,G066,C12,4.5
+P00513,Nigeria,Group A,18-30,G057,C12,4.0
+P00514,Nigeria,Group A,18-30,G050,C08,4.8
+P00515,Bangladesh,Group B,61+,G076,C10,3.8
+P00516,Egypt,Independent,31-45,G119,C02,5.0
+P00517,Bangladesh,Group A,31-45,G049,C12,5.0
+P00518,Egypt,Independent,46-60,G008,C06,4.3
+P00519,Pakistan,Group C,18-30,G110,C09,4.5
+P00520,Turkey,Independent,18-30,G112,C03,4.9
+P00521,Indonesia,Independent,18-30,G039,C02,3.3
+P00522,Saudi Arabia,Group B,18-30,G061,C11,3.2
+P00523,Saudi Arabia,Independent,18-30,G104,C06,4.9
+P00524,Nigeria,Group A,46-60,G061,C02,4.3
+P00525,Indonesia,Group B,31-45,G058,C08,4.0
+P00526,Indonesia,Group A,18-30,G111,C01,4.1
+P00527,Bangladesh,Group A,18-30,G100,C06,2.5
+P00528,Saudi Arabia,Group A,31-45,G061,C09,4.0
+P00529,Bangladesh,Group A,61+,G020,C09,3.6
+P00530,Bangladesh,Group A,31-45,G053,C06,4.7
+P00531,Turkey,Group B,18-30,G082,C05,4.7
+P00532,Saudi Arabia,Group A,18-30,G033,C11,4.5
+P00533,Saudi Arabia,Group A,31-45,G065,C03,4.4
+P00534,Indonesia,Independent,18-30,G080,C01,3.1
+P00535,Turkey,Group A,61+,G011,C02,4.5
+P00536,Saudi Arabia,Group A,61+,G069,C10,4.5
+P00537,Pakistan,Group A,31-45,G089,C06,4.9
+P00538,Egypt,Group A,61+,G026,C01,5.0
+P00539,Turkey,Group C,31-45,G066,C03,3.0
+P00540,Egypt,Independent,18-30,G086,C01,3.8
+P00541,Malaysia,Group C,61+,G006,C10,3.6
+P00542,Egypt,Group C,61+,G078,C06,4.2
+P00543,Saudi Arabia,Group A,31-45,G032,C01,4.1
+P00544,Saudi Arabia,Independent,46-60,G048,C03,3.9
+P00545,Nigeria,Group A,18-30,G078,C08,4.8
+P00546,Egypt,Group C,46-60,G001,C08,3.4
+P00547,Pakistan,Group B,46-60,G003,C10,3.4
+P00548,Turkey,Independent,46-60,G054,C01,3.4
+P00549,Turkey,Group B,46-60,G114,C01,3.9
+P00550,Malaysia,Group C,46-60,G001,C01,3.3
+P00551,Nigeria,Group B,46-60,G095,C05,4.1
+P00552,Pakistan,Group C,61+,G009,C09,4.0
+P00553,Nigeria,Independent,18-30,G059,C08,3.6
+P00554,Indonesia,Group C,31-45,G052,C03,4.7
+P00555,Bangladesh,Group B,31-45,G057,C08,4.1
+P00556,Turkey,Group B,46-60,G010,C08,4.8
+P00557,Malaysia,Group C,18-30,G091,C03,4.0
+P00558,Bangladesh,Group B,31-45,G034,C09,4.1
+P00559,Nigeria,Group A,61+,G093,C06,3.7
+P00560,Nigeria,Group B,18-30,G079,C01,4.1
+P00561,Turkey,Group A,46-60,G067,C05,4.6
+P00562,Egypt,Group A,46-60,G038,C10,3.8
+P00563,Pakistan,Group B,31-45,G079,C09,4.4
+P00564,Saudi Arabia,Independent,18-30,G120,C04,3.6
+P00565,Bangladesh,Independent,18-30,G111,C10,4.6
+P00566,Saudi Arabia,Group B,31-45,G110,C05,3.7
+P00567,Saudi Arabia,Group B,18-30,G027,C06,4.7
+P00568,Saudi Arabia,Group A,18-30,G071,C02,4.1
+P00569,Malaysia,Independent,18-30,G048,C12,5.0
+P00570,Turkey,Group A,18-30,G117,C11,3.3
+P00571,Bangladesh,Independent,61+,G115,C03,3.1
+P00572,Pakistan,Independent,46-60,G105,C07,3.7
+P00573,Indonesia,Group C,18-30,G020,C10,3.2
+P00574,Egypt,Group B,46-60,G039,C07,3.2
+P00575,Egypt,Independent,18-30,G086,C03,4.5
+P00576,Indonesia,Group C,31-45,G090,C12,4.1
+P00577,Bangladesh,Group C,18-30,G043,C04,3.8
+P00578,Turkey,Independent,18-30,G017,C05,3.8
+P00579,Bangladesh,Independent,18-30,G017,C05,3.7
+P00580,Egypt,Group A,31-45,G083,C11,5.0
+P00581,Egypt,Independent,31-45,G055,C07,3.6
+P00582,Nigeria,Independent,31-45,G059,C09,3.2
+P00583,Egypt,Group A,46-60,G098,C11,4.6
+P00584,Egypt,Group B,46-60,G003,C12,4.0
+P00585,Pakistan,Independent,46-60,G091,C11,5.0
+P00586,Bangladesh,Group A,46-60,G033,C11,3.8
+P00587,Malaysia,Group B,46-60,G112,C12,4.6
+P00588,Egypt,Group C,31-45,G115,C12,4.8
+P00589,Nigeria,Group C,18-30,G061,C08,3.8
+P00590,Nigeria,Independent,31-45,G038,C02,3.6
+P00591,Nigeria,Group A,18-30,G028,C02,4.6
+P00592,Bangladesh,Group B,61+,G022,C10,4.5
+P00593,Saudi Arabia,Independent,31-45,G120,C04,3.2
+P00594,Bangladesh,Group C,61+,G023,C10,3.4
+P00595,Indonesia,Group A,61+,G054,C12,2.5
+P00596,Nigeria,Group B,31-45,G058,C08,4.5
+P00597,Turkey,Group B,61+,G082,C10,3.9
+P00598,Nigeria,Group C,31-45,G102,C04,4.0
+P00599,Malaysia,Group B,18-30,G067,C06,3.0
+P00600,Malaysia,Group C,18-30,G091,C12,3.4
+P00601,Turkey,Group B,18-30,G069,C10,3.8
+P00602,Nigeria,Group C,61+,G053,C03,3.7
+P00603,Malaysia,Group A,31-45,G019,C12,4.2
+P00604,Saudi Arabia,Group C,31-45,G026,C06,4.5
+P00605,Nigeria,Independent,31-45,G052,C11,5.0
+P00606,Turkey,Group A,31-45,G006,C07,4.1
+P00607,Indonesia,Group B,61+,G038,C08,4.8
+P00608,Turkey,Group C,61+,G056,C02,3.6
+P00609,Bangladesh,Group C,18-30,G057,C05,3.0
+P00610,Nigeria,Group C,46-60,G098,C09,3.9
+P00611,Nigeria,Group C,31-45,G117,C11,3.1
+P00612,Pakistan,Group C,18-30,G088,C02,4.1
+P00613,Nigeria,Group C,61+,G010,C01,3.6
+P00614,Pakistan,Group A,18-30,G050,C09,2.8
+P00615,Malaysia,Independent,18-30,G088,C06,5.0
+P00616,Malaysia,Group B,18-30,G072,C11,3.8
+P00617,Saudi Arabia,Group A,31-45,G055,C01,3.0
+P00618,Indonesia,Group B,46-60,G053,C05,4.7
+P00619,Egypt,Group B,31-45,G049,C01,3.6
+P00620,Saudi Arabia,Group A,18-30,G070,C09,4.8
+P00621,Pakistan,Independent,18-30,G022,C11,3.6
+P00622,Pakistan,Group A,61+,G063,C02,3.7
+P00623,Saudi Arabia,Group B,61+,G025,C04,4.3
+P00624,Pakistan,Group B,61+,G082,C11,4.5
+P00625,Turkey,Independent,46-60,G104,C01,4.6
+P00626,Saudi Arabia,Group C,46-60,G061,C12,4.0
+P00627,Indonesia,Independent,61+,G047,C11,4.4
+P00628,Indonesia,Group A,46-60,G113,C02,4.6
+P00629,Turkey,Independent,31-45,G080,C02,4.2
+P00630,Indonesia,Independent,31-45,G052,C09,4.0
+P00631,Malaysia,Group B,31-45,G004,C01,3.2
+P00632,Indonesia,Group C,18-30,G002,C07,4.5
+P00633,Pakistan,Group A,18-30,G027,C01,4.1
+P00634,Pakistan,Independent,46-60,G029,C07,3.8
+P00635,Saudi Arabia,Independent,61+,G087,C05,4.9
+P00636,Malaysia,Group B,18-30,G061,C09,3.2
+P00637,Saudi Arabia,Group C,18-30,G120,C11,5.0
+P00638,Indonesia,Group B,18-30,G065,C06,4.1
+P00639,Nigeria,Group A,61+,G109,C08,4.3
+P00640,Bangladesh,Group C,31-45,G067,C08,3.8
+P00641,Malaysia,Group C,31-45,G043,C12,3.0
+P00642,Bangladesh,Independent,18-30,G086,C03,4.0
+P00643,Nigeria,Independent,61+,G054,C03,4.3
+P00644,Pakistan,Group B,31-45,G033,C05,4.5
+P00645,Nigeria,Independent,61+,G057,C09,4.0
+P00646,Indonesia,Group C,46-60,G080,C11,2.7
+P00647,Pakistan,Group C,18-30,G046,C04,3.1
+P00648,Turkey,Group C,61+,G085,C02,5.0
+P00649,Bangladesh,Independent,46-60,G118,C08,3.4
+P00650,Nigeria,Group C,46-60,G050,C08,5.0
+P00651,Pakistan,Group A,18-30,G036,C05,3.5
+P00652,Malaysia,Group A,61+,G049,C03,4.0
+P00653,Saudi Arabia,Group B,61+,G101,C11,4.5
+P00654,Nigeria,Group C,31-45,G022,C11,3.6
+P00655,Turkey,Group C,18-30,G117,C09,5.0
+P00656,Turkey,Group B,61+,G050,C07,4.1
+P00657,Nigeria,Group C,61+,G101,C04,4.4
+P00658,Malaysia,Independent,46-60,G095,C05,3.9
+P00659,Egypt,Group B,46-60,G095,C01,4.5
+P00660,Indonesia,Group B,18-30,G110,C03,5.0
+P00661,Saudi Arabia,Group C,18-30,G023,C06,4.0
+P00662,Malaysia,Group B,61+,G072,C06,5.0
+P00663,Egypt,Independent,31-45,G012,C01,3.7
+P00664,Saudi Arabia,Independent,31-45,G036,C12,4.6
+P00665,Turkey,Group C,46-60,G005,C04,4.4
+P00666,Malaysia,Group B,18-30,G082,C07,3.4
+P00667,Turkey,Group C,18-30,G073,C06,4.2
+P00668,Nigeria,Group A,18-30,G089,C06,4.1
+P00669,Bangladesh,Group B,31-45,G022,C11,3.5
+P00670,Saudi Arabia,Group A,31-45,G040,C09,4.3
+P00671,Bangladesh,Group A,18-30,G082,C11,4.2
+P00672,Turkey,Group A,31-45,G100,C05,4.1
+P00673,Malaysia,Group C,31-45,G107,C04,4.1
+P00674,Egypt,Group A,46-60,G009,C06,4.0
+P00675,Turkey,Group C,46-60,G049,C07,3.9
+P00676,Malaysia,Group B,61+,G002,C05,4.2
+P00677,Turkey,Group B,61+,G099,C06,3.7
+P00678,Egypt,Independent,31-45,G015,C02,5.0
+P00679,Turkey,Group C,61+,G099,C08,3.2
+P00680,Bangladesh,Group C,46-60,G019,C09,3.7
+P00681,Malaysia,Group C,18-30,G002,C07,3.8
+P00682,Saudi Arabia,Group A,31-45,G106,C11,5.0
+P00683,Bangladesh,Group A,46-60,G053,C12,3.2
+P00684,Bangladesh,Group C,61+,G051,C11,4.4
+P00685,Saudi Arabia,Independent,31-45,G078,C02,4.3
+P00686,Nigeria,Group A,18-30,G033,C11,4.3
+P00687,Pakistan,Group A,18-30,G083,C05,4.9
+P00688,Turkey,Independent,18-30,G052,C06,4.9
+P00689,Pakistan,Independent,46-60,G033,C05,3.8
+P00690,Nigeria,Group A,46-60,G048,C04,4.2
+P00691,Bangladesh,Group B,31-45,G001,C11,2.9
+P00692,Nigeria,Group C,46-60,G037,C08,4.2
+P00693,Bangladesh,Group A,61+,G071,C12,3.6
+P00694,Bangladesh,Group B,61+,G017,C12,4.0
+P00695,Egypt,Group B,18-30,G015,C06,3.0
+P00696,Indonesia,Group C,46-60,G079,C09,4.4
+P00697,Malaysia,Group B,61+,G052,C07,3.0
+P00698,Turkey,Group B,61+,G017,C06,4.2
+P00699,Egypt,Group B,31-45,G090,C09,3.3
+P00700,Egypt,Independent,31-45,G094,C09,3.5
+P00701,Turkey,Group A,61+,G005,C11,4.9
+P00702,Turkey,Group A,18-30,G025,C10,4.5
+P00703,Saudi Arabia,Group A,46-60,G045,C08,4.8
+P00704,Saudi Arabia,Independent,18-30,G088,C12,5.0
+P00705,Saudi Arabia,Independent,61+,G009,C02,3.6
+P00706,Turkey,Group C,18-30,G097,C10,5.0
+P00707,Egypt,Group A,18-30,G039,C05,3.1
+P00708,Turkey,Independent,31-45,G016,C06,4.6
+P00709,Pakistan,Group B,18-30,G104,C10,3.8
+P00710,Pakistan,Independent,31-45,G011,C04,3.5
+P00711,Malaysia,Group B,31-45,G016,C11,4.5
+P00712,Turkey,Independent,31-45,G114,C06,4.7
+P00713,Malaysia,Independent,46-60,G063,C05,4.7
+P00714,Nigeria,Group A,46-60,G056,C04,4.2
+P00715,Bangladesh,Group C,61+,G083,C06,4.2
+P00716,Nigeria,Group B,31-45,G076,C12,4.4
+P00717,Turkey,Group B,46-60,G074,C02,4.3
+P00718,Pakistan,Group B,46-60,G003,C07,4.5
+P00719,Saudi Arabia,Group C,18-30,G067,C11,4.2
+P00720,Turkey,Group B,46-60,G034,C06,4.6
+P00721,Saudi Arabia,Group C,61+,G097,C07,3.0
+P00722,Bangladesh,Group C,31-45,G061,C05,4.0
+P00723,Nigeria,Independent,18-30,G015,C02,3.2
+P00724,Egypt,Independent,31-45,G107,C08,4.3
+P00725,Nigeria,Group A,31-45,G035,C12,5.0
+P00726,Egypt,Independent,46-60,G033,C07,3.8
+P00727,Malaysia,Group A,61+,G113,C06,4.2
+P00728,Egypt,Group C,46-60,G094,C02,4.6
+P00729,Pakistan,Group B,18-30,G104,C12,2.8
+P00730,Malaysia,Group C,31-45,G080,C11,3.8
+P00731,Malaysia,Group C,46-60,G110,C11,4.3
+P00732,Pakistan,Independent,31-45,G014,C05,2.2
+P00733,Bangladesh,Group B,46-60,G072,C08,3.5
+P00734,Nigeria,Independent,46-60,G036,C06,4.8
+P00735,Saudi Arabia,Group B,31-45,G048,C03,4.8
+P00736,Malaysia,Group A,46-60,G029,C03,4.3
+P00737,Malaysia,Group B,31-45,G025,C05,4.7
+P00738,Indonesia,Group C,18-30,G054,C07,4.2
+P00739,Malaysia,Group C,31-45,G111,C02,4.5
+P00740,Bangladesh,Independent,31-45,G077,C09,3.9
+P00741,Nigeria,Group A,18-30,G042,C06,4.2
+P00742,Nigeria,Group B,61+,G053,C11,3.7
+P00743,Malaysia,Independent,46-60,G064,C04,4.9
+P00744,Indonesia,Group B,18-30,G030,C01,5.0
+P00745,Nigeria,Group A,61+,G063,C04,5.0
+P00746,Indonesia,Independent,61+,G084,C12,3.8
+P00747,Turkey,Group B,18-30,G030,C04,3.5
+P00748,Indonesia,Independent,18-30,G071,C09,4.9
+P00749,Indonesia,Independent,31-45,G086,C11,4.5
+P00750,Saudi Arabia,Independent,46-60,G063,C04,4.3
+P00751,Bangladesh,Group C,46-60,G036,C08,3.7
+P00752,Saudi Arabia,Independent,31-45,G067,C03,4.4
+P00753,Egypt,Independent,46-60,G096,C05,3.4
+P00754,Bangladesh,Group B,18-30,G027,C04,4.5
+P00755,Turkey,Group A,46-60,G069,C09,5.0
+P00756,Pakistan,Group B,61+,G082,C11,5.0
+P00757,Malaysia,Group C,46-60,G039,C04,4.6
+P00758,Pakistan,Group C,31-45,G047,C04,3.2
+P00759,Saudi Arabia,Group A,31-45,G107,C10,4.2
+P00760,Malaysia,Group C,61+,G044,C06,5.0
+P00761,Saudi Arabia,Group A,18-30,G072,C07,3.5
+P00762,Turkey,Group C,31-45,G018,C09,4.1
+P00763,Bangladesh,Group C,18-30,G112,C02,5.0
+P00764,Bangladesh,Group C,61+,G072,C11,4.5
+P00765,Indonesia,Group B,31-45,G092,C05,5.0
+P00766,Nigeria,Group B,61+,G073,C08,3.6
+P00767,Turkey,Group C,46-60,G043,C06,3.5
+P00768,Pakistan,Group C,46-60,G041,C10,4.9
+P00769,Saudi Arabia,Independent,46-60,G085,C08,3.3
+P00770,Pakistan,Group B,18-30,G104,C03,4.0
+P00771,Malaysia,Group B,46-60,G016,C03,4.1
+P00772,Bangladesh,Group B,46-60,G102,C11,4.8
+P00773,Egypt,Group C,61+,G100,C07,4.5
+P00774,Malaysia,Group A,46-60,G014,C04,4.4
+P00775,Nigeria,Group B,61+,G013,C02,3.8
+P00776,Bangladesh,Group A,61+,G084,C02,4.9
+P00777,Pakistan,Group C,46-60,G102,C12,5.0
+P00778,Egypt,Independent,31-45,G048,C12,4.5
+P00779,Indonesia,Independent,18-30,G077,C05,4.2
+P00780,Nigeria,Group B,31-45,G120,C03,3.3
+P00781,Bangladesh,Group A,61+,G039,C06,3.7
+P00782,Malaysia,Group A,18-30,G028,C02,4.0
+P00783,Egypt,Group A,31-45,G119,C07,3.8
+P00784,Egypt,Independent,46-60,G034,C08,4.1
+P00785,Pakistan,Independent,18-30,G057,C12,5.0
+P00786,Turkey,Group C,61+,G054,C04,4.9
+P00787,Egypt,Group A,46-60,G063,C03,4.0
+P00788,Malaysia,Group A,18-30,G033,C02,3.3
+P00789,Turkey,Independent,18-30,G082,C05,5.0
+P00790,Egypt,Group B,46-60,G084,C08,4.1
+P00791,Egypt,Group A,61+,G025,C01,3.0
+P00792,Pakistan,Group A,61+,G058,C10,4.6
+P00793,Malaysia,Group B,61+,G007,C06,4.8
+P00794,Nigeria,Group C,18-30,G027,C10,2.5
+P00795,Pakistan,Independent,46-60,G119,C06,3.6
+P00796,Indonesia,Group B,18-30,G061,C02,4.0
+P00797,Bangladesh,Group C,18-30,G075,C01,4.6
+P00798,Pakistan,Group A,46-60,G107,C07,3.8
+P00799,Indonesia,Group A,31-45,G086,C07,3.6
+P00800,Pakistan,Group A,46-60,G096,C10,4.6
+P00801,Egypt,Independent,61+,G086,C11,3.8
+P00802,Indonesia,Group C,18-30,G060,C02,4.5
+P00803,Turkey,Independent,46-60,G076,C04,3.4
+P00804,Bangladesh,Group A,61+,G035,C03,3.2
+P00805,Malaysia,Group A,31-45,G107,C02,4.6
+P00806,Nigeria,Independent,46-60,G022,C01,4.3
+P00807,Turkey,Group A,31-45,G107,C01,4.7
+P00808,Egypt,Group A,61+,G106,C07,3.8
+P00809,Pakistan,Group C,18-30,G018,C02,3.6
+P00810,Bangladesh,Group C,61+,G086,C03,5.0
+P00811,Egypt,Group A,61+,G119,C02,3.1
+P00812,Bangladesh,Group B,61+,G069,C09,4.9
+P00813,Malaysia,Group C,31-45,G041,C08,5.0
+P00814,Indonesia,Group B,46-60,G106,C12,4.7
+P00815,Nigeria,Group B,31-45,G062,C02,3.7
+P00816,Nigeria,Group A,31-45,G015,C03,3.6
+P00817,Egypt,Group B,61+,G030,C06,4.0
+P00818,Egypt,Independent,46-60,G082,C08,3.3
+P00819,Malaysia,Group C,46-60,G055,C02,3.5
+P00820,Bangladesh,Independent,18-30,G027,C03,4.5
+P00821,Egypt,Group A,61+,G096,C06,4.5
+P00822,Malaysia,Group A,46-60,G015,C01,3.4
+P00823,Saudi Arabia,Group C,61+,G027,C05,4.5
+P00824,Malaysia,Group A,18-30,G056,C10,4.4
+P00825,Turkey,Group C,46-60,G005,C07,5.0
+P00826,Egypt,Independent,46-60,G047,C06,4.5
+P00827,Malaysia,Group B,46-60,G110,C06,4.8
+P00828,Bangladesh,Group C,18-30,G113,C12,4.4
+P00829,Nigeria,Group C,31-45,G105,C07,4.7
+P00830,Egypt,Group A,31-45,G039,C07,3.3
+P00831,Saudi Arabia,Independent,46-60,G008,C12,4.0
+P00832,Saudi Arabia,Group A,18-30,G098,C02,4.1
+P00833,Pakistan,Independent,31-45,G045,C02,3.9
+P00834,Saudi Arabia,Group C,46-60,G090,C06,4.4
+P00835,Nigeria,Group A,18-30,G015,C04,4.5
+P00836,Nigeria,Group C,61+,G081,C03,4.4
+P00837,Nigeria,Group A,46-60,G071,C02,4.0
+P00838,Saudi Arabia,Group C,18-30,G111,C11,3.6
+P00839,Egypt,Independent,18-30,G013,C08,4.8
+P00840,Bangladesh,Independent,61+,G049,C09,4.3
+P00841,Indonesia,Independent,31-45,G119,C02,3.4
+P00842,Malaysia,Group B,61+,G047,C05,4.0
+P00843,Bangladesh,Group C,31-45,G079,C08,3.0
+P00844,Egypt,Group B,31-45,G020,C07,4.1
+P00845,Egypt,Independent,31-45,G088,C09,4.0
+P00846,Egypt,Group B,46-60,G034,C09,3.7
+P00847,Saudi Arabia,Independent,18-30,G069,C05,5.0
+P00848,Egypt,Group B,31-45,G106,C10,3.3
+P00849,Nigeria,Group C,31-45,G080,C04,4.6
+P00850,Turkey,Group A,18-30,G057,C01,5.0
+P00851,Bangladesh,Group C,31-45,G023,C11,4.8
+P00852,Nigeria,Group A,46-60,G041,C01,4.1
+P00853,Bangladesh,Group A,46-60,G102,C04,3.4
+P00854,Saudi Arabia,Group B,18-30,G026,C02,3.2
+P00855,Indonesia,Group B,61+,G079,C03,3.8
+P00856,Nigeria,Group C,61+,G059,C05,3.7
+P00857,Saudi Arabia,Group B,46-60,G039,C02,3.6
+P00858,Egypt,Group A,61+,G086,C06,3.9
+P00859,Malaysia,Group B,31-45,G044,C12,4.0
+P00860,Nigeria,Group B,61+,G035,C02,4.4
+P00861,Bangladesh,Group C,46-60,G064,C12,3.3
+P00862,Bangladesh,Group C,46-60,G091,C05,3.7
+P00863,Egypt,Group A,18-30,G104,C08,4.0
+P00864,Nigeria,Group C,46-60,G076,C06,4.0
+P00865,Nigeria,Group C,61+,G080,C04,5.0
+P00866,Malaysia,Independent,61+,G095,C02,4.3
+P00867,Nigeria,Group C,31-45,G033,C08,3.1
+P00868,Nigeria,Independent,18-30,G031,C11,4.4
+P00869,Pakistan,Group A,46-60,G059,C07,4.5
+P00870,Egypt,Group C,18-30,G076,C08,4.0
+P00871,Pakistan,Group A,18-30,G078,C08,3.3
+P00872,Saudi Arabia,Group A,46-60,G019,C05,5.0
+P00873,Egypt,Independent,61+,G094,C02,3.4
+P00874,Egypt,Group B,31-45,G044,C07,4.5
+P00875,Malaysia,Group C,31-45,G106,C11,4.2
+P00876,Turkey,Group C,31-45,G087,C04,4.5
+P00877,Turkey,Group C,31-45,G118,C11,5.0
+P00878,Malaysia,Group A,18-30,G076,C11,4.5
+P00879,Turkey,Group A,46-60,G064,C03,3.7
+P00880,Malaysia,Group A,46-60,G023,C07,4.8
+P00881,Egypt,Independent,31-45,G048,C09,3.7
+P00882,Nigeria,Group A,31-45,G104,C06,4.2
+P00883,Pakistan,Group C,61+,G046,C09,3.3
+P00884,Saudi Arabia,Group B,18-30,G007,C11,3.4
+P00885,Nigeria,Group A,18-30,G030,C08,4.1
+P00886,Malaysia,Group B,18-30,G072,C11,4.3
+P00887,Egypt,Group A,61+,G076,C10,3.0
+P00888,Saudi Arabia,Group A,31-45,G119,C10,4.4
+P00889,Egypt,Group A,18-30,G113,C11,3.6
+P00890,Indonesia,Independent,61+,G064,C03,4.9
+P00891,Egypt,Group C,18-30,G067,C01,3.9
+P00892,Malaysia,Independent,31-45,G097,C02,3.4
+P00893,Turkey,Group B,18-30,G006,C03,4.1
+P00894,Bangladesh,Group A,46-60,G072,C09,3.5
+P00895,Malaysia,Group C,46-60,G057,C07,4.9
+P00896,Turkey,Independent,61+,G094,C06,4.1
+P00897,Turkey,Group C,31-45,G097,C01,4.0
+P00898,Egypt,Group A,31-45,G079,C09,4.5
+P00899,Egypt,Group B,61+,G079,C05,3.4
+P00900,Turkey,Independent,61+,G083,C10,3.3
+P00901,Egypt,Group C,18-30,G070,C02,4.4
+P00902,Egypt,Independent,46-60,G028,C04,3.4
+P00903,Saudi Arabia,Group C,61+,G035,C01,3.4
+P00904,Bangladesh,Group A,46-60,G090,C04,4.6
+P00905,Pakistan,Independent,46-60,G075,C12,4.4
+P00906,Malaysia,Independent,18-30,G029,C06,3.3
+P00907,Pakistan,Group C,18-30,G106,C06,3.7
+P00908,Saudi Arabia,Independent,18-30,G118,C04,3.5
+P00909,Indonesia,Group A,18-30,G076,C04,5.0
+P00910,Egypt,Independent,61+,G028,C09,4.7
+P00911,Nigeria,Group A,46-60,G113,C12,3.8
+P00912,Saudi Arabia,Independent,61+,G029,C09,4.5
+P00913,Pakistan,Group A,31-45,G052,C09,3.2
+P00914,Bangladesh,Group C,61+,G104,C06,3.7
+P00915,Turkey,Independent,18-30,G063,C02,4.2
+P00916,Pakistan,Group A,61+,G030,C09,4.4
+P00917,Turkey,Group A,18-30,G010,C10,4.0
+P00918,Nigeria,Independent,18-30,G044,C07,4.3
+P00919,Indonesia,Group A,18-30,G081,C02,4.2
+P00920,Malaysia,Group C,61+,G086,C09,4.0
+P00921,Nigeria,Independent,31-45,G027,C12,3.9
+P00922,Turkey,Group C,31-45,G020,C03,3.8
+P00923,Pakistan,Group B,31-45,G085,C02,4.3
+P00924,Saudi Arabia,Group B,61+,G020,C09,4.4
+P00925,Saudi Arabia,Group C,31-45,G008,C04,4.2
+P00926,Bangladesh,Group C,18-30,G059,C09,3.3
+P00927,Turkey,Group C,31-45,G069,C09,3.5
+P00928,Indonesia,Group A,31-45,G030,C04,4.4
+P00929,Pakistan,Group C,46-60,G026,C01,5.0
+P00930,Turkey,Group C,61+,G029,C07,4.2
+P00931,Turkey,Group C,18-30,G042,C05,3.8
+P00932,Malaysia,Group A,61+,G002,C11,4.2
+P00933,Indonesia,Group C,18-30,G002,C05,3.4
+P00934,Malaysia,Group C,46-60,G045,C03,5.0
+P00935,Pakistan,Group A,31-45,G003,C11,4.2
+P00936,Bangladesh,Independent,31-45,G039,C09,3.7
+P00937,Saudi Arabia,Group C,31-45,G070,C08,4.0
+P00938,Saudi Arabia,Group B,31-45,G004,C12,3.8
+P00939,Pakistan,Group C,61+,G075,C10,5.0
+P00940,Turkey,Group C,61+,G075,C11,4.0
+P00941,Malaysia,Group C,61+,G069,C10,4.2
+P00942,Pakistan,Group B,31-45,G076,C05,4.5
+P00943,Bangladesh,Independent,46-60,G098,C01,3.6
+P00944,Pakistan,Independent,31-45,G009,C08,4.2
+P00945,Saudi Arabia,Group A,61+,G021,C10,4.3
+P00946,Egypt,Group C,46-60,G039,C12,3.1
+P00947,Bangladesh,Group A,31-45,G083,C09,4.3
+P00948,Saudi Arabia,Group B,31-45,G105,C07,4.1
+P00949,Bangladesh,Independent,31-45,G111,C07,4.2
+P00950,Indonesia,Group A,46-60,G070,C02,4.1
+P00951,Egypt,Group B,46-60,G050,C01,4.3
+P00952,Indonesia,Group A,31-45,G050,C01,5.0
+P00953,Turkey,Group C,61+,G008,C11,3.3
+P00954,Pakistan,Group B,61+,G056,C10,3.9
+P00955,Nigeria,Group C,31-45,G062,C04,4.5
+P00956,Turkey,Independent,61+,G025,C06,4.4
+P00957,Pakistan,Group C,18-30,G093,C06,4.4
+P00958,Malaysia,Group C,61+,G098,C03,5.0
+P00959,Bangladesh,Group A,31-45,G037,C06,4.5
+P00960,Pakistan,Group A,46-60,G110,C05,4.8
+P00961,Saudi Arabia,Independent,31-45,G013,C09,3.9
+P00962,Pakistan,Independent,31-45,G110,C10,3.5
+P00963,Nigeria,Group C,31-45,G093,C02,3.9
+P00964,Saudi Arabia,Group B,46-60,G027,C06,4.6
+P00965,Bangladesh,Group A,18-30,G079,C12,4.4
+P00966,Turkey,Independent,61+,G038,C11,4.4
+P00967,Turkey,Independent,61+,G096,C10,4.0
+P00968,Indonesia,Group A,46-60,G020,C09,3.9
+P00969,Bangladesh,Group C,46-60,G030,C01,4.0
+P00970,Egypt,Group C,46-60,G037,C12,4.6
+P00971,Indonesia,Group B,18-30,G024,C09,4.6
+P00972,Pakistan,Independent,46-60,G040,C11,3.4
+P00973,Pakistan,Group A,18-30,G073,C11,4.6
+P00974,Pakistan,Group B,46-60,G076,C04,3.7
+P00975,Saudi Arabia,Group A,31-45,G067,C01,4.4
+P00976,Saudi Arabia,Group C,46-60,G023,C08,4.0
+P00977,Egypt,Group C,61+,G025,C06,5.0
+P00978,Turkey,Independent,18-30,G111,C01,3.8
+P00979,Indonesia,Group C,46-60,G031,C04,4.2
+P00980,Turkey,Group A,31-45,G013,C12,4.5
+P00981,Turkey,Group B,31-45,G055,C05,3.5
+P00982,Malaysia,Group A,46-60,G001,C04,4.1
+P00983,Turkey,Group C,61+,G042,C08,3.9
+P00984,Malaysia,Group C,18-30,G103,C08,3.8
+P00985,Turkey,Independent,61+,G033,C04,3.8
+P00986,Malaysia,Group B,61+,G085,C11,4.8
+P00987,Turkey,Group B,46-60,G059,C07,3.7
+P00988,Indonesia,Group A,46-60,G043,C02,4.5
+P00989,Saudi Arabia,Group B,31-45,G080,C04,4.3
+P00990,Nigeria,Group B,18-30,G072,C11,3.2
+P00991,Indonesia,Independent,46-60,G039,C02,4.4
+P00992,Turkey,Independent,61+,G027,C01,3.2
+P00993,Saudi Arabia,Group A,18-30,G111,C08,4.5
+P00994,Pakistan,Group B,46-60,G021,C06,3.8
+P00995,Turkey,Group C,46-60,G116,C04,4.1
+P00996,Malaysia,Group B,61+,G057,C06,3.3
+P00997,Turkey,Group A,31-45,G120,C03,4.2
+P00998,Indonesia,Independent,31-45,G043,C05,4.7
+P00999,Bangladesh,Group C,31-45,G068,C03,3.6
+P01000,Turkey,Group C,61+,G074,C08,3.7
+P01001,Nigeria,Group B,61+,G041,C09,4.4
+P01002,Malaysia,Independent,31-45,G027,C11,4.4
+P01003,Turkey,Group A,61+,G063,C01,2.5
+P01004,Bangladesh,Group B,46-60,G080,C04,5.0
+P01005,Saudi Arabia,Independent,31-45,G032,C04,4.4
+P01006,Bangladesh,Independent,18-30,G093,C07,4.6
+P01007,Nigeria,Group B,46-60,G077,C07,4.0
+P01008,Turkey,Group C,46-60,G020,C11,2.9
+P01009,Malaysia,Group A,61+,G113,C12,4.5
+P01010,Turkey,Group A,46-60,G006,C10,3.7
+P01011,Indonesia,Group B,18-30,G079,C03,4.5
+P01012,Nigeria,Independent,46-60,G053,C01,4.0
+P01013,Saudi Arabia,Group C,46-60,G079,C11,4.3
+P01014,Indonesia,Group B,31-45,G093,C12,3.6
+P01015,Turkey,Group B,31-45,G083,C04,4.7
+P01016,Nigeria,Group A,61+,G079,C01,3.3
+P01017,Pakistan,Group B,46-60,G101,C09,5.0
+P01018,Pakistan,Group A,46-60,G085,C08,5.0
+P01019,Egypt,Group A,31-45,G098,C11,5.0
+P01020,Egypt,Group C,31-45,G049,C07,4.9
+P01021,Egypt,Group A,46-60,G025,C10,4.0
+P01022,Egypt,Group A,61+,G029,C10,4.9
+P01023,Nigeria,Group C,46-60,G074,C01,4.0
+P01024,Nigeria,Group B,46-60,G064,C02,3.1
+P01025,Nigeria,Group B,18-30,G010,C10,5.0
+P01026,Egypt,Group A,61+,G025,C03,4.8
+P01027,Egypt,Group A,18-30,G117,C03,4.1
+P01028,Indonesia,Group B,61+,G088,C10,3.3
+P01029,Turkey,Group C,31-45,G091,C03,3.7
+P01030,Indonesia,Group B,61+,G024,C02,2.9
+P01031,Pakistan,Group C,61+,G008,C01,4.7
+P01032,Saudi Arabia,Group C,61+,G035,C06,3.1
+P01033,Malaysia,Group B,61+,G103,C08,4.3
+P01034,Indonesia,Group B,46-60,G061,C09,3.6
+P01035,Egypt,Group B,61+,G095,C11,3.2
+P01036,Malaysia,Group A,18-30,G059,C08,4.3
+P01037,Bangladesh,Group C,18-30,G059,C10,3.9
+P01038,Egypt,Group C,46-60,G073,C03,4.6
+P01039,Pakistan,Group B,61+,G116,C05,3.3
+P01040,Nigeria,Group B,61+,G053,C04,3.6
+P01041,Malaysia,Group B,46-60,G072,C01,2.5
+P01042,Nigeria,Group C,46-60,G111,C12,2.7
+P01043,Pakistan,Independent,46-60,G045,C03,5.0
+P01044,Indonesia,Group A,61+,G101,C06,5.0
+P01045,Malaysia,Group B,61+,G065,C05,4.2
+P01046,Saudi Arabia,Group A,18-30,G106,C01,3.6
+P01047,Saudi Arabia,Group B,46-60,G057,C11,3.9
+P01048,Turkey,Group A,31-45,G076,C03,4.7
+P01049,Malaysia,Group B,61+,G039,C02,3.8
+P01050,Egypt,Group B,46-60,G077,C05,4.3
+P01051,Turkey,Group B,61+,G040,C02,4.1
+P01052,Indonesia,Group B,31-45,G074,C12,3.7
+P01053,Turkey,Independent,46-60,G095,C03,3.8
+P01054,Bangladesh,Independent,18-30,G053,C04,4.3
+P01055,Egypt,Group A,61+,G052,C04,3.5
+P01056,Bangladesh,Group B,18-30,G039,C01,4.4
+P01057,Pakistan,Independent,31-45,G088,C01,3.8
+P01058,Nigeria,Group C,61+,G072,C07,4.2
+P01059,Pakistan,Group A,61+,G062,C03,5.0
+P01060,Indonesia,Group C,31-45,G004,C02,4.0
+P01061,Nigeria,Group A,31-45,G014,C04,4.7
+P01062,Malaysia,Group A,18-30,G001,C04,2.9
+P01063,Saudi Arabia,Group C,61+,G103,C06,3.8
+P01064,Malaysia,Group C,18-30,G103,C12,4.1
+P01065,Nigeria,Independent,18-30,G009,C04,5.0
+P01066,Pakistan,Group B,31-45,G006,C09,2.8
+P01067,Bangladesh,Independent,18-30,G094,C10,4.0
+P01068,Malaysia,Group B,18-30,G063,C01,5.0
+P01069,Indonesia,Group C,46-60,G038,C07,3.6
+P01070,Egypt,Group A,46-60,G074,C06,4.0
+P01071,Malaysia,Group A,31-45,G029,C07,4.3
+P01072,Saudi Arabia,Independent,61+,G024,C03,4.2
+P01073,Nigeria,Independent,46-60,G045,C06,5.0
+P01074,Turkey,Independent,18-30,G108,C02,4.4
+P01075,Pakistan,Group B,46-60,G093,C12,5.0
+P01076,Saudi Arabia,Group A,46-60,G023,C08,3.9
+P01077,Malaysia,Independent,61+,G068,C01,3.6
+P01078,Saudi Arabia,Group C,18-30,G107,C07,4.0
+P01079,Pakistan,Group A,18-30,G115,C12,3.3
+P01080,Nigeria,Independent,31-45,G092,C09,4.4
+P01081,Bangladesh,Independent,31-45,G016,C04,3.8
+P01082,Bangladesh,Group B,61+,G029,C11,3.7
+P01083,Bangladesh,Independent,46-60,G027,C03,4.4
+P01084,Turkey,Independent,46-60,G019,C03,3.4
+P01085,Saudi Arabia,Group C,46-60,G022,C02,4.6
+P01086,Nigeria,Group C,61+,G038,C12,3.8
+P01087,Nigeria,Group B,31-45,G067,C09,4.9
+P01088,Bangladesh,Independent,18-30,G048,C07,3.8
+P01089,Malaysia,Independent,18-30,G051,C09,4.5
+P01090,Saudi Arabia,Independent,31-45,G030,C04,4.2
+P01091,Turkey,Group C,46-60,G019,C01,4.6
+P01092,Pakistan,Group A,31-45,G120,C11,4.2
+P01093,Nigeria,Group B,31-45,G072,C12,3.0
+P01094,Pakistan,Group B,31-45,G028,C01,4.8
+P01095,Indonesia,Independent,61+,G098,C01,4.0
+P01096,Egypt,Group C,61+,G100,C07,4.6
+P01097,Nigeria,Group C,18-30,G117,C01,4.5
+P01098,Nigeria,Group A,18-30,G020,C09,3.6
+P01099,Egypt,Independent,18-30,G077,C12,3.5
+P01100,Pakistan,Group B,61+,G118,C04,4.5
+P01101,Pakistan,Group A,31-45,G097,C04,3.9
+P01102,Pakistan,Independent,61+,G028,C11,4.7
+P01103,Bangladesh,Group A,46-60,G108,C05,4.0
+P01104,Saudi Arabia,Group A,46-60,G051,C03,4.8
+P01105,Indonesia,Group A,31-45,G059,C02,4.4
+P01106,Saudi Arabia,Group B,31-45,G068,C11,4.3
+P01107,Saudi Arabia,Group A,18-30,G093,C12,3.9
+P01108,Bangladesh,Independent,46-60,G015,C01,4.3
+P01109,Bangladesh,Group C,31-45,G065,C10,4.9
+P01110,Egypt,Group B,31-45,G099,C02,4.1
+P01111,Malaysia,Group A,18-30,G066,C02,4.4
+P01112,Saudi Arabia,Group B,61+,G033,C05,4.1
+P01113,Saudi Arabia,Group A,61+,G007,C06,4.2
+P01114,Indonesia,Independent,31-45,G066,C11,5.0
+P01115,Saudi Arabia,Group B,46-60,G085,C09,4.9
+P01116,Pakistan,Group B,61+,G066,C02,4.2
+P01117,Bangladesh,Group A,46-60,G118,C08,4.2
+P01118,Turkey,Group A,46-60,G073,C11,3.6
+P01119,Malaysia,Group A,31-45,G061,C08,4.0
+P01120,Pakistan,Group A,46-60,G007,C03,4.3
+P01121,Egypt,Group C,46-60,G068,C02,4.7
+P01122,Egypt,Independent,46-60,G021,C06,4.6
+P01123,Indonesia,Independent,46-60,G087,C06,3.4
+P01124,Saudi Arabia,Group B,46-60,G020,C05,4.7
+P01125,Nigeria,Independent,18-30,G109,C02,4.0
+P01126,Nigeria,Group C,61+,G037,C02,3.5
+P01127,Nigeria,Group A,61+,G053,C07,5.0
+P01128,Malaysia,Group A,18-30,G018,C12,5.0
+P01129,Turkey,Group C,31-45,G026,C08,4.3
+P01130,Malaysia,Group B,61+,G111,C06,4.6
+P01131,Pakistan,Group A,31-45,G035,C12,4.6
+P01132,Malaysia,Independent,61+,G062,C09,5.0
+P01133,Nigeria,Group C,61+,G118,C09,4.6
+P01134,Nigeria,Group C,61+,G075,C07,3.2
+P01135,Turkey,Independent,18-30,G005,C10,5.0
+P01136,Egypt,Independent,31-45,G043,C07,4.8
+P01137,Malaysia,Independent,46-60,G047,C08,3.8
+P01138,Indonesia,Group B,61+,G034,C08,3.4
+P01139,Malaysia,Independent,18-30,G029,C10,4.4
+P01140,Turkey,Group C,31-45,G061,C11,3.9
+P01141,Bangladesh,Group C,18-30,G046,C04,4.3
+P01142,Indonesia,Independent,61+,G036,C09,4.6
+P01143,Bangladesh,Group A,61+,G050,C01,3.7
+P01144,Nigeria,Group B,18-30,G042,C07,3.4
+P01145,Indonesia,Group A,18-30,G028,C11,4.4
+P01146,Pakistan,Group B,31-45,G055,C08,3.8
+P01147,Turkey,Group B,61+,G114,C04,4.2
+P01148,Nigeria,Independent,31-45,G061,C08,3.2
+P01149,Malaysia,Independent,31-45,G072,C05,3.9
+P01150,Nigeria,Group B,31-45,G119,C06,4.6
+P01151,Indonesia,Group B,46-60,G074,C03,4.5
+P01152,Turkey,Group C,31-45,G027,C08,3.6
+P01153,Pakistan,Independent,18-30,G048,C03,3.3
+P01154,Bangladesh,Independent,61+,G059,C06,4.1
+P01155,Indonesia,Group A,31-45,G057,C12,4.5
+P01156,Turkey,Group A,31-45,G018,C10,4.4
+P01157,Egypt,Group C,46-60,G013,C05,3.8
+P01158,Nigeria,Group B,46-60,G042,C12,4.3
+P01159,Pakistan,Group A,18-30,G110,C01,5.0
+P01160,Indonesia,Group A,18-30,G087,C12,4.2
+P01161,Turkey,Group B,18-30,G102,C05,3.0
+P01162,Pakistan,Group B,61+,G021,C10,4.2
+P01163,Nigeria,Group C,46-60,G050,C12,5.0
+P01164,Turkey,Group A,61+,G070,C08,3.3
+P01165,Turkey,Group C,46-60,G053,C08,4.1
+P01166,Egypt,Group C,31-45,G051,C09,4.0
+P01167,Egypt,Group B,46-60,G044,C03,4.2
+P01168,Pakistan,Group A,46-60,G007,C03,4.2
+P01169,Bangladesh,Group C,31-45,G103,C05,4.8
+P01170,Bangladesh,Group C,61+,G112,C06,4.2
+P01171,Malaysia,Group B,61+,G010,C09,4.9
+P01172,Malaysia,Group B,61+,G050,C04,4.0
+P01173,Pakistan,Group C,61+,G063,C07,3.9
+P01174,Saudi Arabia,Group B,31-45,G095,C01,3.7
+P01175,Egypt,Group B,18-30,G119,C01,2.9
+P01176,Indonesia,Group B,31-45,G050,C12,4.3
+P01177,Indonesia,Group B,46-60,G090,C11,5.0
+P01178,Saudi Arabia,Group C,61+,G113,C11,4.4
+P01179,Indonesia,Group B,31-45,G100,C04,4.5
+P01180,Egypt,Group B,31-45,G035,C07,3.8
+P01181,Turkey,Group C,31-45,G099,C09,3.9
+P01182,Bangladesh,Group B,61+,G050,C04,4.7
+P01183,Malaysia,Group A,18-30,G003,C09,5.0
+P01184,Pakistan,Independent,31-45,G092,C09,5.0
+P01185,Pakistan,Group A,18-30,G101,C05,4.6
+P01186,Indonesia,Group C,61+,G042,C06,4.1
+P01187,Saudi Arabia,Group B,31-45,G055,C04,4.2
+P01188,Turkey,Group A,18-30,G044,C10,3.6
+P01189,Turkey,Group A,31-45,G015,C12,3.2
+P01190,Egypt,Independent,18-30,G120,C12,3.4
+P01191,Pakistan,Group B,31-45,G003,C10,4.1
+P01192,Indonesia,Group B,61+,G067,C05,3.9
+P01193,Saudi Arabia,Group C,46-60,G002,C10,3.1
+P01194,Malaysia,Group A,61+,G083,C03,4.1
+P01195,Turkey,Group C,46-60,G109,C11,3.9
+P01196,Malaysia,Group B,61+,G078,C04,3.3
+P01197,Malaysia,Group C,31-45,G073,C05,3.9
+P01198,Bangladesh,Group A,61+,G100,C02,3.9
+P01199,Nigeria,Independent,18-30,G117,C01,3.7
+P01200,Turkey,Group A,31-45,G104,C05,4.7
+P01201,Bangladesh,Group C,46-60,G028,C07,2.9
+P01202,Pakistan,Group C,31-45,G068,C01,2.8
+P01203,Bangladesh,Group B,31-45,G099,C11,4.1
+P01204,Nigeria,Group A,18-30,G036,C02,4.2
+P01205,Malaysia,Group B,18-30,G082,C12,4.4
+P01206,Bangladesh,Independent,46-60,G003,C04,3.7
+P01207,Turkey,Independent,61+,G106,C05,3.5
+P01208,Malaysia,Independent,18-30,G074,C02,4.1
+P01209,Indonesia,Group A,31-45,G090,C10,3.8
+P01210,Bangladesh,Group C,61+,G100,C09,5.0
+P01211,Turkey,Group A,61+,G027,C01,3.9
+P01212,Nigeria,Group C,18-30,G055,C02,4.1
+P01213,Pakistan,Group B,46-60,G104,C08,5.0
+P01214,Nigeria,Group C,18-30,G020,C11,4.0
+P01215,Egypt,Group C,18-30,G099,C02,4.5
+P01216,Egypt,Independent,18-30,G035,C03,4.5
+P01217,Turkey,Group B,46-60,G070,C07,4.6
+P01218,Malaysia,Group B,18-30,G062,C02,4.3
+P01219,Nigeria,Group C,31-45,G083,C04,4.2
+P01220,Pakistan,Group A,18-30,G101,C01,4.2
+P01221,Malaysia,Group A,31-45,G042,C06,3.7
+P01222,Turkey,Group C,46-60,G021,C09,4.3
+P01223,Bangladesh,Independent,31-45,G051,C05,5.0
+P01224,Malaysia,Group C,31-45,G074,C04,4.9
+P01225,Pakistan,Independent,46-60,G091,C06,4.3
+P01226,Bangladesh,Group A,46-60,G091,C07,4.7
+P01227,Egypt,Group B,18-30,G041,C02,3.5
+P01228,Bangladesh,Group C,61+,G113,C02,3.9
+P01229,Saudi Arabia,Group B,61+,G010,C03,4.7
+P01230,Indonesia,Group A,46-60,G015,C12,5.0
+P01231,Nigeria,Group A,46-60,G003,C09,3.6
+P01232,Malaysia,Independent,46-60,G112,C02,3.8
+P01233,Bangladesh,Group C,31-45,G022,C04,5.0
+P01234,Malaysia,Group B,31-45,G073,C05,4.2
+P01235,Malaysia,Group B,31-45,G098,C03,5.0
+P01236,Indonesia,Group A,18-30,G093,C11,4.2
+P01237,Egypt,Independent,61+,G114,C12,4.3
+P01238,Egypt,Group A,31-45,G007,C03,3.9
+P01239,Indonesia,Independent,31-45,G049,C01,4.7
+P01240,Egypt,Group A,61+,G061,C04,5.0
+P01241,Turkey,Group B,46-60,G084,C07,3.4
+P01242,Nigeria,Group B,46-60,G075,C10,3.9
+P01243,Bangladesh,Independent,18-30,G068,C05,4.7
+P01244,Pakistan,Group A,31-45,G037,C04,4.0
+P01245,Bangladesh,Group B,46-60,G013,C03,3.8
+P01246,Bangladesh,Group B,31-45,G052,C01,4.8
+P01247,Nigeria,Group B,18-30,G032,C01,4.8
+P01248,Pakistan,Group A,61+,G067,C06,3.8
+P01249,Indonesia,Independent,31-45,G096,C08,4.2
+P01250,Bangladesh,Group B,46-60,G067,C01,3.3
+P01251,Saudi Arabia,Group B,31-45,G070,C03,3.5
+P01252,Pakistan,Group B,46-60,G006,C11,4.2
+P01253,Egypt,Independent,61+,G078,C12,4.1
+P01254,Nigeria,Group B,61+,G053,C08,3.5
+P01255,Malaysia,Group B,18-30,G015,C07,3.6
+P01256,Egypt,Group B,46-60,G026,C07,3.4
+P01257,Saudi Arabia,Group B,61+,G094,C05,4.4
+P01258,Turkey,Group A,46-60,G111,C03,2.8
+P01259,Turkey,Group C,18-30,G061,C05,3.4
+P01260,Nigeria,Group A,18-30,G118,C09,2.9
+P01261,Indonesia,Group A,18-30,G022,C08,4.4
+P01262,Bangladesh,Group A,18-30,G036,C09,2.9
+P01263,Pakistan,Group B,61+,G112,C08,4.1
+P01264,Nigeria,Independent,61+,G022,C01,5.0
+P01265,Saudi Arabia,Group C,46-60,G080,C08,5.0
+P01266,Egypt,Independent,46-60,G027,C11,2.9
+P01267,Egypt,Group B,61+,G040,C08,4.3
+P01268,Indonesia,Independent,31-45,G058,C07,3.5
+P01269,Bangladesh,Group A,31-45,G044,C03,3.3
+P01270,Egypt,Group C,46-60,G105,C10,4.0
+P01271,Indonesia,Independent,31-45,G117,C06,4.9
+P01272,Egypt,Group C,18-30,G061,C04,4.5
+P01273,Bangladesh,Independent,46-60,G064,C06,3.6
+P01274,Malaysia,Group B,61+,G007,C02,4.6
+P01275,Nigeria,Group A,18-30,G029,C12,2.6
+P01276,Malaysia,Independent,18-30,G005,C09,3.6
+P01277,Malaysia,Group A,31-45,G103,C04,3.6
+P01278,Nigeria,Independent,61+,G028,C10,4.2
+P01279,Egypt,Group C,46-60,G041,C01,4.0
+P01280,Nigeria,Independent,46-60,G102,C05,4.0
+P01281,Malaysia,Group B,46-60,G086,C08,4.0
+P01282,Malaysia,Independent,31-45,G075,C01,4.1
+P01283,Pakistan,Group A,46-60,G005,C09,4.5
+P01284,Nigeria,Group B,18-30,G068,C10,4.2
+P01285,Pakistan,Group A,18-30,G068,C08,3.9
+P01286,Egypt,Independent,61+,G039,C03,4.4
+P01287,Bangladesh,Group C,46-60,G090,C09,4.6
+P01288,Saudi Arabia,Independent,18-30,G112,C05,3.7
+P01289,Egypt,Independent,31-45,G032,C09,4.1
+P01290,Turkey,Group B,18-30,G040,C08,4.9
+P01291,Saudi Arabia,Group A,46-60,G039,C02,3.4
+P01292,Nigeria,Independent,61+,G101,C02,5.0
+P01293,Pakistan,Group B,31-45,G010,C01,3.2
+P01294,Egypt,Group A,31-45,G108,C01,3.9
+P01295,Bangladesh,Independent,18-30,G094,C04,3.5
+P01296,Turkey,Independent,31-45,G059,C01,5.0
+P01297,Indonesia,Group B,31-45,G071,C12,3.8
+P01298,Malaysia,Independent,18-30,G108,C11,3.8
+P01299,Turkey,Group A,31-45,G093,C03,3.9
+P01300,Egypt,Group A,61+,G034,C04,4.2
+P01301,Nigeria,Group B,61+,G007,C09,3.9
+P01302,Pakistan,Group C,31-45,G080,C08,4.0
+P01303,Malaysia,Group A,61+,G018,C07,1.8
+P01304,Bangladesh,Group A,18-30,G011,C12,4.1
+P01305,Turkey,Group C,61+,G118,C08,4.1
+P01306,Malaysia,Independent,31-45,G057,C09,4.8
+P01307,Indonesia,Group C,46-60,G079,C07,5.0
+P01308,Saudi Arabia,Independent,18-30,G027,C07,4.0
+P01309,Pakistan,Independent,61+,G013,C04,4.6
+P01310,Nigeria,Group C,31-45,G008,C07,3.4
+P01311,Turkey,Group C,61+,G043,C12,4.6
+P01312,Indonesia,Independent,18-30,G001,C05,3.7
+P01313,Nigeria,Group B,46-60,G051,C02,3.3
+P01314,Nigeria,Group A,18-30,G039,C08,4.0
+P01315,Bangladesh,Independent,61+,G064,C10,5.0
+P01316,Indonesia,Group B,31-45,G071,C12,4.2
+P01317,Malaysia,Independent,46-60,G038,C07,5.0
+P01318,Turkey,Group B,61+,G055,C10,3.6
+P01319,Pakistan,Independent,46-60,G010,C04,4.8
+P01320,Pakistan,Group A,18-30,G037,C06,3.7
+P01321,Egypt,Group C,18-30,G118,C06,4.2
+P01322,Indonesia,Group B,18-30,G119,C04,4.2
+P01323,Turkey,Group B,61+,G059,C09,4.5
+P01324,Bangladesh,Group B,61+,G113,C11,4.3
+P01325,Nigeria,Independent,31-45,G061,C04,3.6
+P01326,Saudi Arabia,Group B,61+,G016,C02,4.7
+P01327,Malaysia,Independent,18-30,G105,C10,5.0
+P01328,Egypt,Group B,46-60,G050,C11,3.7
+P01329,Malaysia,Group A,31-45,G074,C12,2.9
+P01330,Indonesia,Independent,18-30,G078,C04,4.4
+P01331,Pakistan,Group A,31-45,G037,C09,3.9
+P01332,Malaysia,Group B,31-45,G089,C09,4.0
+P01333,Pakistan,Independent,31-45,G061,C10,4.5
+P01334,Nigeria,Independent,18-30,G044,C10,3.8
+P01335,Turkey,Independent,31-45,G036,C12,3.9
+P01336,Bangladesh,Group B,18-30,G090,C06,4.0
+P01337,Malaysia,Independent,61+,G030,C01,5.0
+P01338,Indonesia,Group B,31-45,G015,C03,4.1
+P01339,Nigeria,Group C,18-30,G106,C11,3.3
+P01340,Pakistan,Group C,46-60,G040,C11,3.3
+P01341,Turkey,Group A,61+,G077,C01,4.2
+P01342,Saudi Arabia,Group B,31-45,G086,C05,3.4
+P01343,Egypt,Group B,61+,G101,C03,3.1
+P01344,Turkey,Group B,46-60,G076,C04,4.5
+P01345,Saudi Arabia,Group B,46-60,G085,C08,4.5
+P01346,Bangladesh,Group C,31-45,G101,C07,3.9
+P01347,Nigeria,Group A,18-30,G114,C06,4.3
+P01348,Malaysia,Group A,31-45,G006,C06,4.2
+P01349,Malaysia,Independent,61+,G090,C08,4.5
+P01350,Turkey,Group B,61+,G021,C09,4.5
+P01351,Egypt,Group C,61+,G107,C01,2.4
+P01352,Pakistan,Group C,61+,G006,C02,3.9
+P01353,Pakistan,Group C,31-45,G030,C05,4.4
+P01354,Bangladesh,Group B,31-45,G024,C06,3.8
+P01355,Saudi Arabia,Group B,61+,G073,C12,4.1
+P01356,Pakistan,Independent,46-60,G001,C11,4.6
+P01357,Indonesia,Independent,31-45,G003,C08,4.2
+P01358,Saudi Arabia,Group B,31-45,G061,C01,5.0
+P01359,Egypt,Group C,61+,G117,C02,4.8
+P01360,Indonesia,Independent,18-30,G064,C06,4.0
+P01361,Egypt,Group A,18-30,G054,C08,4.0
+P01362,Egypt,Independent,46-60,G079,C08,2.2
+P01363,Indonesia,Group B,18-30,G067,C02,3.9
+P01364,Saudi Arabia,Independent,18-30,G047,C11,3.2
+P01365,Turkey,Group C,61+,G071,C06,4.2
+P01366,Egypt,Independent,31-45,G001,C08,4.2
+P01367,Indonesia,Group A,46-60,G030,C01,4.6
+P01368,Pakistan,Group A,31-45,G081,C10,5.0
+P01369,Bangladesh,Independent,18-30,G041,C07,4.1
+P01370,Malaysia,Group C,18-30,G007,C03,5.0
+P01371,Bangladesh,Group C,61+,G015,C04,4.3
+P01372,Indonesia,Group A,18-30,G104,C05,3.2
+P01373,Pakistan,Group A,46-60,G040,C01,3.7
+P01374,Pakistan,Independent,31-45,G003,C12,3.9
+P01375,Bangladesh,Group B,31-45,G088,C10,4.5
+P01376,Bangladesh,Group C,61+,G064,C11,3.5
+P01377,Bangladesh,Group B,46-60,G055,C05,3.9
+P01378,Nigeria,Group B,46-60,G108,C07,4.0
+P01379,Turkey,Group A,31-45,G038,C06,3.8
+P01380,Turkey,Independent,31-45,G069,C06,4.6
+P01381,Bangladesh,Independent,46-60,G090,C08,4.5
+P01382,Indonesia,Group A,18-30,G074,C06,4.9
+P01383,Indonesia,Group B,18-30,G025,C10,3.9
+P01384,Bangladesh,Group C,46-60,G082,C01,4.9
+P01385,Pakistan,Group B,46-60,G090,C03,3.2
+P01386,Saudi Arabia,Group C,18-30,G015,C11,3.2
+P01387,Turkey,Group B,61+,G020,C11,3.3
+P01388,Indonesia,Group A,46-60,G081,C10,4.1
+P01389,Bangladesh,Group B,18-30,G015,C05,4.9
+P01390,Bangladesh,Group C,61+,G106,C06,3.7
+P01391,Indonesia,Group A,61+,G014,C01,3.8
+P01392,Turkey,Independent,31-45,G117,C04,4.0
+P01393,Bangladesh,Group A,31-45,G081,C09,4.5
+P01394,Malaysia,Group A,31-45,G054,C05,3.8
+P01395,Saudi Arabia,Group C,46-60,G033,C06,3.8
+P01396,Turkey,Group C,18-30,G042,C02,3.2
+P01397,Turkey,Group B,31-45,G090,C06,3.7
+P01398,Malaysia,Group B,18-30,G091,C09,4.9
+P01399,Egypt,Group A,18-30,G026,C07,4.2
+P01400,Indonesia,Group C,31-45,G066,C07,3.6
+P01401,Nigeria,Group B,46-60,G120,C11,4.9
+P01402,Saudi Arabia,Group A,61+,G031,C03,3.7
+P01403,Indonesia,Group B,18-30,G084,C04,5.0
+P01404,Indonesia,Independent,18-30,G021,C08,5.0
+P01405,Saudi Arabia,Group B,31-45,G101,C06,4.1
+P01406,Saudi Arabia,Independent,46-60,G021,C12,3.1
+P01407,Indonesia,Group B,61+,G036,C01,5.0
+P01408,Nigeria,Group A,46-60,G056,C02,4.4
+P01409,Egypt,Group B,46-60,G045,C05,3.9
+P01410,Indonesia,Group B,18-30,G021,C06,4.7
+P01411,Egypt,Group A,18-30,G077,C11,4.6
+P01412,Turkey,Group C,18-30,G003,C06,5.0
+P01413,Indonesia,Group B,46-60,G119,C06,3.7
+P01414,Nigeria,Group C,31-45,G007,C03,4.3
+P01415,Turkey,Group B,18-30,G041,C06,3.3
+P01416,Nigeria,Group B,46-60,G112,C07,4.5
+P01417,Malaysia,Group B,61+,G019,C08,4.1
+P01418,Pakistan,Group A,31-45,G009,C08,4.3
+P01419,Nigeria,Group C,61+,G090,C06,4.0
+P01420,Pakistan,Group A,46-60,G009,C02,3.9
+P01421,Bangladesh,Group C,46-60,G108,C02,3.5
+P01422,Bangladesh,Independent,61+,G055,C02,4.6
+P01423,Turkey,Independent,18-30,G105,C08,5.0
+P01424,Malaysia,Group B,61+,G030,C11,3.7
+P01425,Indonesia,Group B,61+,G017,C11,4.5
+P01426,Nigeria,Independent,61+,G116,C04,4.4
+P01427,Malaysia,Group B,46-60,G092,C01,4.1
+P01428,Bangladesh,Group B,61+,G110,C08,3.1
+P01429,Indonesia,Independent,61+,G039,C01,3.3
+P01430,Nigeria,Independent,61+,G049,C08,3.6
+P01431,Pakistan,Independent,61+,G070,C05,2.7
+P01432,Saudi Arabia,Group A,61+,G054,C11,5.0
+P01433,Saudi Arabia,Independent,31-45,G030,C08,4.3
+P01434,Turkey,Group A,46-60,G046,C09,4.1
+P01435,Indonesia,Group C,31-45,G074,C05,2.7
+P01436,Egypt,Independent,61+,G005,C11,2.9
+P01437,Pakistan,Group C,61+,G041,C07,4.1
+P01438,Malaysia,Independent,61+,G036,C08,5.0
+P01439,Indonesia,Group B,46-60,G009,C05,3.6
+P01440,Bangladesh,Group B,31-45,G015,C06,4.7
+P01441,Nigeria,Group B,18-30,G060,C11,3.8
+P01442,Turkey,Group B,46-60,G013,C05,4.1
+P01443,Bangladesh,Group C,46-60,G042,C01,4.9
+P01444,Pakistan,Group B,46-60,G068,C05,3.9
+P01445,Saudi Arabia,Group C,46-60,G105,C05,3.7
+P01446,Egypt,Group B,61+,G012,C06,5.0
+P01447,Bangladesh,Group B,18-30,G053,C01,4.1
+P01448,Bangladesh,Group A,31-45,G013,C02,4.8
+P01449,Malaysia,Group C,46-60,G052,C04,3.7
+P01450,Egypt,Independent,61+,G058,C06,5.0
+P01451,Indonesia,Independent,61+,G096,C01,4.3
+P01452,Egypt,Group B,61+,G054,C05,4.4
+P01453,Egypt,Group B,61+,G113,C04,4.2
+P01454,Saudi Arabia,Group C,61+,G017,C01,3.8
+P01455,Turkey,Group C,46-60,G007,C04,4.1
+P01456,Egypt,Group A,18-30,G001,C04,3.8
+P01457,Bangladesh,Group C,46-60,G043,C02,4.7
+P01458,Pakistan,Group A,46-60,G024,C10,4.0
+P01459,Indonesia,Group A,18-30,G011,C01,3.1
+P01460,Turkey,Group C,61+,G029,C07,3.0
+P01461,Nigeria,Group A,46-60,G117,C08,3.0
+P01462,Indonesia,Group B,61+,G097,C10,4.5
+P01463,Egypt,Group C,18-30,G003,C07,3.4
+P01464,Egypt,Group C,61+,G110,C07,4.3
+P01465,Nigeria,Group B,31-45,G025,C10,4.2
+P01466,Egypt,Group A,46-60,G049,C11,4.1
+P01467,Malaysia,Independent,46-60,G040,C03,4.4
+P01468,Pakistan,Independent,46-60,G049,C10,4.2
+P01469,Nigeria,Independent,61+,G092,C06,2.3
+P01470,Egypt,Group C,18-30,G086,C02,3.9
+P01471,Bangladesh,Group B,46-60,G072,C08,4.4
+P01472,Malaysia,Independent,61+,G076,C12,5.0
+P01473,Pakistan,Group B,18-30,G088,C02,5.0
+P01474,Saudi Arabia,Group A,31-45,G023,C01,3.2
+P01475,Bangladesh,Independent,31-45,G048,C11,3.9
+P01476,Indonesia,Group B,46-60,G013,C08,3.1
+P01477,Pakistan,Independent,61+,G085,C03,5.0
+P01478,Pakistan,Group B,61+,G053,C10,4.8
+P01479,Saudi Arabia,Independent,61+,G077,C05,4.3
+P01480,Pakistan,Group C,31-45,G068,C04,4.2
+P01481,Saudi Arabia,Group B,46-60,G033,C04,5.0
+P01482,Egypt,Group B,18-30,G017,C08,4.9
+P01483,Indonesia,Independent,31-45,G117,C02,4.9
+P01484,Egypt,Group A,18-30,G036,C05,4.4
+P01485,Pakistan,Group B,18-30,G014,C04,3.9
+P01486,Nigeria,Group B,61+,G037,C01,4.6
+P01487,Saudi Arabia,Group C,61+,G109,C10,4.6
+P01488,Egypt,Group B,46-60,G032,C01,4.0
+P01489,Egypt,Group C,18-30,G119,C12,3.9
+P01490,Turkey,Group B,18-30,G056,C02,4.8
+P01491,Indonesia,Group A,18-30,G104,C05,5.0
+P01492,Pakistan,Group A,46-60,G079,C02,3.6
+P01493,Egypt,Group C,18-30,G006,C05,3.9
+P01494,Indonesia,Group B,31-45,G062,C08,4.3
+P01495,Pakistan,Group B,61+,G051,C02,4.4
+P01496,Pakistan,Group C,61+,G025,C07,3.8
+P01497,Turkey,Group B,61+,G066,C10,5.0
+P01498,Nigeria,Group B,31-45,G013,C06,4.4
+P01499,Pakistan,Group A,46-60,G084,C02,4.4
+P01500,Nigeria,Group B,18-30,G099,C09,5.0
+P01501,Turkey,Group C,61+,G012,C03,3.8
+P01502,Indonesia,Group C,18-30,G058,C01,4.0
+P01503,Saudi Arabia,Independent,46-60,G079,C06,3.3
+P01504,Indonesia,Independent,46-60,G008,C04,4.0
+P01505,Turkey,Group A,61+,G047,C01,3.1
+P01506,Saudi Arabia,Group B,31-45,G031,C10,4.6
+P01507,Bangladesh,Group B,18-30,G005,C08,4.4
+P01508,Pakistan,Group C,61+,G097,C11,3.9
+P01509,Nigeria,Group B,46-60,G054,C06,4.0
+P01510,Malaysia,Independent,31-45,G091,C06,4.6
+P01511,Indonesia,Group B,31-45,G071,C11,3.4
+P01512,Saudi Arabia,Group C,31-45,G106,C01,4.2
+P01513,Malaysia,Group A,31-45,G120,C05,4.6
+P01514,Indonesia,Independent,31-45,G073,C10,2.9
+P01515,Saudi Arabia,Independent,31-45,G043,C04,4.5
+P01516,Bangladesh,Independent,31-45,G051,C11,3.0
+P01517,Pakistan,Group B,18-30,G100,C04,4.0
+P01518,Egypt,Group A,61+,G052,C05,3.3
+P01519,Pakistan,Group C,18-30,G063,C11,5.0
+P01520,Pakistan,Group B,18-30,G024,C03,3.3
+P01521,Nigeria,Independent,18-30,G119,C12,3.0
+P01522,Malaysia,Group C,61+,G079,C01,4.2
+P01523,Saudi Arabia,Group C,31-45,G040,C04,3.8
+P01524,Saudi Arabia,Independent,31-45,G071,C08,3.1
+P01525,Turkey,Independent,31-45,G049,C08,4.4
+P01526,Egypt,Group B,18-30,G019,C11,2.8
+P01527,Indonesia,Group A,31-45,G105,C12,3.4
+P01528,Saudi Arabia,Group A,18-30,G107,C09,3.7
+P01529,Egypt,Group B,61+,G101,C08,4.6
+P01530,Bangladesh,Group C,18-30,G045,C04,4.9
+P01531,Egypt,Group A,31-45,G031,C10,4.8
+P01532,Egypt,Group A,61+,G006,C08,4.0
+P01533,Bangladesh,Group C,61+,G088,C01,2.5
+P01534,Saudi Arabia,Independent,46-60,G040,C10,4.4
+P01535,Nigeria,Group A,18-30,G108,C05,5.0
+P01536,Egypt,Group C,31-45,G105,C06,4.9
+P01537,Saudi Arabia,Group A,18-30,G016,C06,4.4
+P01538,Egypt,Group C,46-60,G111,C10,3.3
+P01539,Malaysia,Independent,31-45,G017,C04,3.8
+P01540,Turkey,Independent,46-60,G059,C05,5.0
+P01541,Pakistan,Group C,46-60,G057,C01,3.2
+P01542,Saudi Arabia,Group C,61+,G115,C05,3.4
+P01543,Egypt,Independent,31-45,G079,C02,4.7
+P01544,Turkey,Group C,61+,G106,C07,3.8
+P01545,Saudi Arabia,Group B,31-45,G072,C11,3.3
+P01546,Turkey,Independent,46-60,G100,C06,5.0
+P01547,Malaysia,Group C,46-60,G103,C11,4.4
+P01548,Nigeria,Independent,61+,G104,C12,3.9
+P01549,Pakistan,Group C,31-45,G050,C01,3.4
+P01550,Egypt,Independent,61+,G046,C07,5.0
+P01551,Indonesia,Group A,31-45,G119,C07,4.1
+P01552,Nigeria,Group A,31-45,G091,C05,5.0
+P01553,Turkey,Group A,31-45,G111,C10,4.7
+P01554,Turkey,Group C,46-60,G070,C05,3.8
+P01555,Pakistan,Group C,46-60,G112,C01,3.8
+P01556,Saudi Arabia,Group A,18-30,G087,C07,5.0
+P01557,Bangladesh,Group A,61+,G090,C03,5.0
+P01558,Nigeria,Independent,61+,G022,C05,2.9
+P01559,Bangladesh,Independent,18-30,G069,C07,4.5
+P01560,Nigeria,Group C,61+,G088,C09,4.0
+P01561,Indonesia,Group B,46-60,G092,C04,3.4
+P01562,Indonesia,Group B,18-30,G115,C05,4.3
+P01563,Saudi Arabia,Group A,31-45,G040,C01,3.2
+P01564,Bangladesh,Group A,61+,G037,C05,3.8
+P01565,Turkey,Independent,31-45,G117,C07,3.6
+P01566,Pakistan,Group B,61+,G119,C08,3.8
+P01567,Bangladesh,Group C,31-45,G022,C04,4.1
+P01568,Turkey,Group C,18-30,G046,C01,3.4
+P01569,Bangladesh,Group B,31-45,G114,C07,5.0
+P01570,Bangladesh,Group A,46-60,G024,C08,4.4
+P01571,Egypt,Group C,46-60,G094,C02,5.0
+P01572,Indonesia,Group A,61+,G014,C07,4.0
+P01573,Malaysia,Group B,18-30,G022,C02,3.7
+P01574,Nigeria,Independent,61+,G095,C06,5.0
+P01575,Saudi Arabia,Group C,46-60,G073,C08,3.7
+P01576,Indonesia,Independent,18-30,G067,C09,4.0
+P01577,Turkey,Group A,61+,G103,C09,4.6
+P01578,Nigeria,Group A,31-45,G037,C10,3.3
+P01579,Egypt,Group B,46-60,G061,C03,4.6
+P01580,Turkey,Group B,46-60,G074,C11,4.5
+P01581,Indonesia,Group A,18-30,G089,C05,4.9
+P01582,Saudi Arabia,Independent,18-30,G040,C05,4.7
+P01583,Turkey,Group A,46-60,G077,C10,4.9
+P01584,Pakistan,Group C,31-45,G054,C04,4.0
+P01585,Malaysia,Group C,18-30,G066,C01,3.5
+P01586,Indonesia,Group C,18-30,G104,C09,5.0
+P01587,Nigeria,Group A,61+,G048,C08,3.1
+P01588,Egypt,Group B,18-30,G081,C07,3.2
+P01589,Nigeria,Group C,18-30,G114,C02,4.5
+P01590,Egypt,Group B,46-60,G092,C08,5.0
+P01591,Malaysia,Group C,18-30,G119,C03,4.2
+P01592,Indonesia,Group A,46-60,G071,C07,4.7
+P01593,Pakistan,Group A,46-60,G034,C07,2.8
+P01594,Egypt,Group C,46-60,G119,C10,3.8
+P01595,Malaysia,Group C,31-45,G078,C12,2.9
+P01596,Saudi Arabia,Group A,61+,G029,C03,4.6
+P01597,Malaysia,Independent,46-60,G039,C02,3.1
+P01598,Malaysia,Group A,31-45,G032,C07,3.3
+P01599,Nigeria,Independent,18-30,G101,C12,4.4
+P01600,Malaysia,Group C,31-45,G012,C02,4.8
+P01601,Indonesia,Independent,18-30,G089,C06,4.0
+P01602,Malaysia,Independent,18-30,G067,C05,4.5
+P01603,Nigeria,Group B,31-45,G009,C04,4.4
+P01604,Indonesia,Independent,18-30,G074,C08,4.0
+P01605,Egypt,Group A,18-30,G091,C04,3.4
+P01606,Bangladesh,Group B,31-45,G088,C06,4.5
+P01607,Saudi Arabia,Group A,46-60,G064,C11,4.5
+P01608,Turkey,Group B,18-30,G041,C05,4.7
+P01609,Saudi Arabia,Independent,31-45,G020,C01,4.3
+P01610,Saudi Arabia,Group B,18-30,G002,C11,3.3
+P01611,Nigeria,Group A,18-30,G044,C04,4.5
+P01612,Saudi Arabia,Group B,18-30,G076,C10,4.1
+P01613,Malaysia,Independent,31-45,G005,C10,3.8
+P01614,Malaysia,Group C,46-60,G120,C07,3.9
+P01615,Egypt,Group C,61+,G071,C02,3.7
+P01616,Saudi Arabia,Group B,46-60,G036,C12,4.7
+P01617,Nigeria,Group B,46-60,G116,C09,3.2
+P01618,Turkey,Group C,61+,G023,C06,3.5
+P01619,Egypt,Group C,31-45,G115,C11,3.9
+P01620,Bangladesh,Independent,61+,G034,C10,5.0
+P01621,Indonesia,Group C,61+,G046,C10,4.8
+P01622,Egypt,Independent,46-60,G052,C03,3.0
+P01623,Bangladesh,Independent,61+,G120,C08,5.0
+P01624,Egypt,Group A,18-30,G031,C04,5.0
+P01625,Turkey,Group B,61+,G117,C01,3.3
+P01626,Bangladesh,Group B,46-60,G042,C05,2.5
+P01627,Turkey,Group A,18-30,G035,C02,4.1
+P01628,Turkey,Group A,18-30,G077,C02,4.8
+P01629,Pakistan,Independent,46-60,G084,C09,5.0
+P01630,Saudi Arabia,Group B,31-45,G042,C07,3.5
+P01631,Turkey,Group A,31-45,G017,C05,5.0
+P01632,Bangladesh,Group B,31-45,G048,C03,2.7
+P01633,Egypt,Group B,61+,G065,C10,3.9
+P01634,Bangladesh,Group A,31-45,G005,C08,3.8
+P01635,Pakistan,Group A,18-30,G010,C08,4.8
+P01636,Turkey,Independent,31-45,G111,C03,4.9
+P01637,Saudi Arabia,Independent,18-30,G005,C02,4.7
+P01638,Turkey,Group B,46-60,G049,C02,3.2
+P01639,Saudi Arabia,Group C,61+,G092,C01,4.7
+P01640,Indonesia,Independent,61+,G040,C12,4.4
+P01641,Malaysia,Independent,46-60,G060,C05,3.0
+P01642,Egypt,Group A,61+,G011,C08,2.8
+P01643,Pakistan,Independent,31-45,G096,C12,4.8
+P01644,Turkey,Group A,46-60,G077,C12,4.0
+P01645,Saudi Arabia,Group A,18-30,G103,C04,3.3
+P01646,Indonesia,Group B,46-60,G104,C06,4.0
+P01647,Indonesia,Group C,46-60,G043,C06,4.3
+P01648,Malaysia,Group A,18-30,G005,C01,4.0
+P01649,Bangladesh,Group B,46-60,G042,C10,3.1
+P01650,Nigeria,Group B,46-60,G018,C07,5.0
+P01651,Saudi Arabia,Group B,31-45,G064,C05,4.8
+P01652,Egypt,Independent,46-60,G018,C07,3.9
+P01653,Egypt,Group B,31-45,G111,C09,3.9
+P01654,Turkey,Group A,31-45,G073,C01,4.3
+P01655,Saudi Arabia,Group A,18-30,G031,C08,3.4
+P01656,Saudi Arabia,Group A,31-45,G111,C11,4.3
+P01657,Nigeria,Group A,61+,G093,C09,3.2
+P01658,Nigeria,Group C,61+,G053,C08,4.1
+P01659,Nigeria,Group B,46-60,G018,C02,3.3
+P01660,Indonesia,Group B,46-60,G042,C09,3.4
+P01661,Turkey,Independent,46-60,G071,C10,5.0
+P01662,Turkey,Group C,31-45,G092,C06,4.1
+P01663,Saudi Arabia,Group A,31-45,G032,C07,4.2
+P01664,Turkey,Group B,46-60,G090,C08,2.8
+P01665,Turkey,Group B,61+,G034,C02,3.7
+P01666,Pakistan,Independent,31-45,G030,C04,4.4
+P01667,Nigeria,Group B,46-60,G054,C10,4.2
+P01668,Malaysia,Group A,31-45,G020,C12,2.7
+P01669,Turkey,Group C,31-45,G049,C04,4.2
+P01670,Malaysia,Group B,31-45,G043,C05,4.3
+P01671,Nigeria,Group A,18-30,G034,C11,4.9
+P01672,Turkey,Group C,31-45,G094,C02,3.7
+P01673,Indonesia,Group A,46-60,G040,C04,2.6
+P01674,Nigeria,Independent,46-60,G084,C01,3.5
+P01675,Malaysia,Independent,61+,G087,C03,3.4
+P01676,Bangladesh,Group B,18-30,G080,C08,4.6
+P01677,Saudi Arabia,Group C,61+,G033,C05,2.3
+P01678,Pakistan,Group C,61+,G100,C12,3.8
+P01679,Bangladesh,Group C,31-45,G029,C11,5.0
+P01680,Turkey,Group A,31-45,G034,C11,4.1
+P01681,Bangladesh,Group B,31-45,G105,C09,4.7
+P01682,Egypt,Group A,46-60,G041,C09,3.0
+P01683,Egypt,Group C,61+,G084,C07,3.1
+P01684,Nigeria,Group A,46-60,G006,C12,5.0
+P01685,Indonesia,Group C,46-60,G074,C02,4.2
+P01686,Turkey,Group C,46-60,G105,C09,4.2
+P01687,Pakistan,Independent,18-30,G086,C02,3.4
+P01688,Pakistan,Group B,46-60,G070,C05,4.2
+P01689,Bangladesh,Group A,18-30,G102,C04,3.4
+P01690,Egypt,Group C,61+,G036,C08,4.9
+P01691,Nigeria,Group A,61+,G046,C10,5.0
+P01692,Bangladesh,Group A,46-60,G009,C01,4.4
+P01693,Malaysia,Independent,31-45,G084,C08,3.7
+P01694,Pakistan,Independent,46-60,G087,C03,2.5
+P01695,Saudi Arabia,Group C,46-60,G091,C01,3.0
+P01696,Malaysia,Independent,46-60,G090,C06,5.0
+P01697,Pakistan,Group A,46-60,G016,C07,3.4
+P01698,Saudi Arabia,Group A,18-30,G080,C03,3.9
+P01699,Indonesia,Group B,18-30,G092,C05,4.5
+P01700,Bangladesh,Group A,31-45,G025,C12,5.0
+P01701,Indonesia,Independent,46-60,G058,C05,4.0
+P01702,Saudi Arabia,Group A,31-45,G110,C12,3.8
+P01703,Malaysia,Group C,46-60,G050,C11,4.1
+P01704,Saudi Arabia,Independent,31-45,G091,C05,3.7
+P01705,Bangladesh,Group C,61+,G064,C07,3.7
+P01706,Nigeria,Group A,31-45,G079,C09,4.4
+P01707,Bangladesh,Group B,61+,G076,C06,4.2
+P01708,Bangladesh,Group C,31-45,G079,C05,5.0
+P01709,Saudi Arabia,Independent,31-45,G094,C04,4.4
+P01710,Saudi Arabia,Group B,46-60,G109,C02,4.8
+P01711,Indonesia,Group B,31-45,G036,C01,3.4
+P01712,Pakistan,Independent,18-30,G112,C05,4.4
+P01713,Bangladesh,Independent,31-45,G076,C10,3.6
+P01714,Malaysia,Group B,61+,G072,C03,4.4
+P01715,Malaysia,Group A,18-30,G040,C03,4.5
+P01716,Bangladesh,Group C,31-45,G051,C04,4.1
+P01717,Malaysia,Independent,46-60,G079,C08,5.0
+P01718,Pakistan,Independent,46-60,G044,C03,5.0
+P01719,Pakistan,Group B,31-45,G035,C03,4.9
+P01720,Turkey,Group A,18-30,G099,C02,4.6
+P01721,Egypt,Group C,18-30,G050,C04,5.0
+P01722,Malaysia,Independent,31-45,G078,C03,3.2
+P01723,Malaysia,Independent,61+,G004,C10,5.0
+P01724,Malaysia,Group A,18-30,G010,C11,3.5
+P01725,Turkey,Group B,61+,G102,C05,3.7
+P01726,Nigeria,Group B,46-60,G018,C02,4.5
+P01727,Bangladesh,Group A,18-30,G096,C02,4.9
+P01728,Turkey,Independent,31-45,G109,C04,3.4
+P01729,Pakistan,Group A,18-30,G058,C06,3.8
+P01730,Egypt,Group C,61+,G107,C07,4.2
+P01731,Nigeria,Independent,46-60,G052,C04,4.0
+P01732,Bangladesh,Group C,31-45,G115,C05,4.7
+P01733,Malaysia,Independent,31-45,G029,C04,5.0
+P01734,Nigeria,Group B,46-60,G052,C07,4.4
+P01735,Nigeria,Independent,18-30,G047,C09,3.6
+P01736,Nigeria,Group B,31-45,G095,C01,3.3
+P01737,Turkey,Group A,18-30,G006,C06,3.9
+P01738,Egypt,Group B,46-60,G100,C08,3.5
+P01739,Egypt,Group B,46-60,G003,C09,4.4
+P01740,Saudi Arabia,Group C,31-45,G038,C07,4.4
+P01741,Pakistan,Group B,18-30,G072,C07,3.8
+P01742,Malaysia,Group B,31-45,G018,C09,5.0
+P01743,Pakistan,Group B,61+,G059,C05,3.6
+P01744,Egypt,Group B,18-30,G120,C07,4.0
+P01745,Saudi Arabia,Group C,18-30,G099,C04,4.5
+P01746,Bangladesh,Group B,18-30,G004,C06,4.7
+P01747,Bangladesh,Independent,61+,G072,C02,4.9
+P01748,Pakistan,Group B,18-30,G072,C05,4.4
+P01749,Nigeria,Independent,46-60,G009,C02,4.8
+P01750,Malaysia,Group B,61+,G079,C03,3.7
+P01751,Bangladesh,Group A,46-60,G063,C06,4.7
+P01752,Bangladesh,Group A,31-45,G082,C07,4.7
+P01753,Malaysia,Independent,18-30,G036,C12,5.0
+P01754,Pakistan,Independent,18-30,G031,C01,3.0
+P01755,Malaysia,Group A,18-30,G089,C11,3.5
+P01756,Indonesia,Group C,61+,G087,C04,4.6
+P01757,Indonesia,Group C,18-30,G020,C09,2.4
+P01758,Turkey,Group A,18-30,G026,C09,4.4
+P01759,Turkey,Group B,61+,G071,C12,4.8
+P01760,Turkey,Group C,31-45,G100,C02,3.7
+P01761,Pakistan,Independent,31-45,G025,C12,3.8
+P01762,Pakistan,Independent,46-60,G027,C01,3.4
+P01763,Egypt,Group A,46-60,G097,C11,3.8
+P01764,Turkey,Group A,61+,G084,C08,3.8
+P01765,Turkey,Group B,31-45,G109,C06,3.7
+P01766,Bangladesh,Group A,46-60,G095,C05,3.6
+P01767,Turkey,Group C,61+,G115,C02,3.9
+P01768,Pakistan,Group A,31-45,G023,C10,3.9
+P01769,Egypt,Group A,31-45,G033,C09,5.0
+P01770,Saudi Arabia,Group A,61+,G029,C12,3.8
+P01771,Indonesia,Group B,18-30,G007,C09,4.3
+P01772,Pakistan,Independent,18-30,G094,C12,3.7
+P01773,Indonesia,Group A,46-60,G080,C11,3.7
+P01774,Pakistan,Independent,61+,G011,C06,3.0
+P01775,Nigeria,Group B,18-30,G024,C09,3.1
+P01776,Saudi Arabia,Group A,61+,G023,C04,3.3
+P01777,Indonesia,Group B,61+,G049,C10,4.2
+P01778,Saudi Arabia,Group C,61+,G055,C08,4.8
+P01779,Indonesia,Group A,31-45,G035,C06,2.9
+P01780,Malaysia,Group A,31-45,G112,C08,3.7
+P01781,Egypt,Independent,46-60,G026,C04,3.2
+P01782,Indonesia,Group C,18-30,G068,C08,3.9
+P01783,Egypt,Group B,61+,G053,C06,4.8
+P01784,Bangladesh,Independent,46-60,G047,C04,3.8
+P01785,Malaysia,Independent,31-45,G100,C12,4.1
+P01786,Saudi Arabia,Group B,46-60,G118,C01,5.0
+P01787,Saudi Arabia,Group C,46-60,G001,C10,4.4
+P01788,Egypt,Group A,46-60,G056,C03,3.6
+P01789,Pakistan,Group B,61+,G015,C03,4.2
+P01790,Nigeria,Group C,61+,G053,C02,3.6
+P01791,Turkey,Group A,61+,G075,C02,4.4
+P01792,Bangladesh,Independent,46-60,G050,C02,4.4
+P01793,Indonesia,Independent,46-60,G038,C10,3.2
+P01794,Indonesia,Group B,31-45,G038,C12,4.2
+P01795,Pakistan,Group B,18-30,G036,C08,4.0
+P01796,Saudi Arabia,Group A,31-45,G040,C01,4.5
+P01797,Bangladesh,Group C,61+,G045,C11,4.6
+P01798,Saudi Arabia,Group A,18-30,G083,C08,4.4
+P01799,Pakistan,Group B,46-60,G012,C07,3.9
+P01800,Turkey,Group C,18-30,G005,C12,4.7
+P01801,Egypt,Group C,31-45,G063,C05,3.5
+P01802,Pakistan,Group C,18-30,G082,C05,3.2
+P01803,Pakistan,Group A,46-60,G032,C10,2.0
+P01804,Indonesia,Independent,61+,G025,C07,4.1
+P01805,Saudi Arabia,Group C,61+,G075,C09,3.6
+P01806,Egypt,Independent,46-60,G047,C09,4.4
+P01807,Egypt,Group B,18-30,G089,C11,2.8
+P01808,Pakistan,Independent,46-60,G018,C04,3.7
+P01809,Egypt,Group B,18-30,G015,C01,4.4
+P01810,Bangladesh,Independent,31-45,G067,C06,3.4
+P01811,Saudi Arabia,Group A,46-60,G048,C08,4.4
+P01812,Malaysia,Group A,46-60,G088,C10,3.7
+P01813,Malaysia,Group C,18-30,G061,C04,4.1
+P01814,Pakistan,Group C,61+,G043,C09,4.5
+P01815,Bangladesh,Group C,31-45,G020,C10,4.7
+P01816,Egypt,Group B,61+,G020,C10,4.2
+P01817,Saudi Arabia,Independent,46-60,G091,C10,3.6
+P01818,Indonesia,Group B,46-60,G028,C12,3.8
+P01819,Saudi Arabia,Group C,46-60,G061,C08,4.5
+P01820,Indonesia,Independent,61+,G099,C05,3.4
+P01821,Indonesia,Group C,18-30,G108,C06,4.0
+P01822,Nigeria,Group C,46-60,G033,C09,3.8
+P01823,Indonesia,Independent,18-30,G014,C03,4.0
+P01824,Bangladesh,Independent,31-45,G093,C08,3.4
+P01825,Nigeria,Group B,61+,G083,C07,2.9
+P01826,Bangladesh,Group B,61+,G040,C08,4.4
+P01827,Egypt,Group A,31-45,G072,C06,4.7
+P01828,Bangladesh,Group C,31-45,G023,C09,2.9
+P01829,Turkey,Independent,46-60,G085,C01,4.3
+P01830,Bangladesh,Group B,31-45,G088,C09,4.8
+P01831,Indonesia,Group B,18-30,G036,C10,4.5
+P01832,Bangladesh,Group A,31-45,G057,C11,3.8
+P01833,Turkey,Group B,31-45,G041,C12,3.5
+P01834,Egypt,Group A,46-60,G004,C05,4.2
+P01835,Pakistan,Independent,61+,G016,C01,4.3
+P01836,Saudi Arabia,Group C,46-60,G116,C08,4.2
+P01837,Bangladesh,Group A,31-45,G055,C02,4.0
+P01838,Indonesia,Group A,46-60,G018,C04,3.4
+P01839,Saudi Arabia,Independent,61+,G006,C09,4.4
+P01840,Turkey,Independent,31-45,G043,C08,4.4
+P01841,Pakistan,Independent,31-45,G118,C08,4.2
+P01842,Egypt,Group A,18-30,G047,C10,4.2
+P01843,Nigeria,Group A,61+,G120,C02,5.0
+P01844,Nigeria,Group A,61+,G059,C10,3.7
+P01845,Malaysia,Independent,18-30,G092,C08,4.9
+P01846,Turkey,Independent,31-45,G095,C06,3.6
+P01847,Pakistan,Independent,31-45,G004,C06,4.8
+P01848,Turkey,Group A,61+,G001,C07,4.9
+P01849,Turkey,Group A,18-30,G111,C07,3.9
+P01850,Saudi Arabia,Independent,18-30,G112,C05,5.0
+P01851,Egypt,Independent,31-45,G016,C03,4.4
+P01852,Indonesia,Group C,46-60,G078,C03,3.5
+P01853,Pakistan,Group A,18-30,G111,C05,3.9
+P01854,Saudi Arabia,Group A,46-60,G115,C04,4.8
+P01855,Egypt,Group A,46-60,G036,C07,4.7
+P01856,Nigeria,Group C,61+,G099,C11,3.4
+P01857,Indonesia,Independent,18-30,G078,C02,4.0
+P01858,Turkey,Group C,18-30,G112,C04,4.2
+P01859,Turkey,Group B,18-30,G018,C01,3.8
+P01860,Malaysia,Independent,61+,G073,C12,5.0
+P01861,Malaysia,Group A,46-60,G003,C09,4.3
+P01862,Indonesia,Independent,46-60,G043,C03,4.1
+P01863,Nigeria,Independent,61+,G002,C05,4.9
+P01864,Indonesia,Group C,46-60,G054,C09,3.9
+P01865,Nigeria,Independent,18-30,G098,C12,4.8
+P01866,Pakistan,Group C,46-60,G079,C07,3.0
+P01867,Egypt,Group B,46-60,G039,C04,3.8
+P01868,Nigeria,Group B,18-30,G052,C09,4.8
+P01869,Egypt,Independent,46-60,G045,C09,5.0
+P01870,Nigeria,Group C,31-45,G088,C08,3.6
+P01871,Egypt,Group A,18-30,G032,C01,3.5
+P01872,Saudi Arabia,Independent,31-45,G012,C09,4.5
+P01873,Turkey,Group A,31-45,G061,C01,3.7
+P01874,Bangladesh,Group C,31-45,G100,C11,3.9
+P01875,Pakistan,Group A,31-45,G058,C11,4.7
+P01876,Egypt,Group C,46-60,G025,C07,3.7
+P01877,Saudi Arabia,Group B,31-45,G006,C08,2.8
+P01878,Bangladesh,Group B,31-45,G114,C01,3.3
+P01879,Malaysia,Group C,61+,G092,C11,4.1
+P01880,Egypt,Independent,18-30,G019,C04,2.9
+P01881,Pakistan,Group B,31-45,G009,C04,3.9
+P01882,Indonesia,Independent,18-30,G016,C09,3.2
+P01883,Saudi Arabia,Group B,61+,G046,C12,5.0
+P01884,Nigeria,Group A,18-30,G098,C06,5.0
+P01885,Turkey,Group A,61+,G020,C07,3.4
+P01886,Saudi Arabia,Group A,18-30,G099,C07,4.3
+P01887,Malaysia,Group C,31-45,G001,C04,3.5
+P01888,Pakistan,Group C,46-60,G089,C08,3.9
+P01889,Egypt,Group B,61+,G034,C12,5.0
+P01890,Pakistan,Group B,18-30,G116,C05,3.8
+P01891,Saudi Arabia,Independent,18-30,G058,C10,3.9
+P01892,Saudi Arabia,Group C,61+,G033,C10,3.5
+P01893,Bangladesh,Group A,31-45,G030,C11,4.8
+P01894,Malaysia,Group A,18-30,G100,C09,2.0
+P01895,Saudi Arabia,Group B,46-60,G049,C12,3.8
+P01896,Nigeria,Group B,18-30,G043,C09,4.1
+P01897,Turkey,Independent,61+,G089,C12,3.7
+P01898,Nigeria,Group C,61+,G065,C09,4.7
+P01899,Malaysia,Independent,61+,G080,C11,4.9
+P01900,Indonesia,Group C,31-45,G054,C11,3.2
+P01901,Turkey,Group B,18-30,G008,C12,5.0
+P01902,Turkey,Group C,31-45,G001,C08,3.2
+P01903,Malaysia,Group C,31-45,G005,C09,4.9
+P01904,Saudi Arabia,Group C,61+,G069,C12,4.2
+P01905,Indonesia,Group A,46-60,G062,C05,3.8
+P01906,Saudi Arabia,Group C,61+,G090,C02,3.8
+P01907,Indonesia,Group B,61+,G108,C11,4.1
+P01908,Saudi Arabia,Independent,46-60,G021,C08,4.2
+P01909,Egypt,Independent,18-30,G115,C06,3.5
+P01910,Bangladesh,Group C,18-30,G112,C09,3.9
+P01911,Egypt,Independent,18-30,G074,C01,3.6
+P01912,Bangladesh,Group C,46-60,G064,C06,3.3
+P01913,Egypt,Group A,18-30,G022,C04,3.6
+P01914,Nigeria,Group C,61+,G022,C04,3.4
+P01915,Indonesia,Independent,18-30,G003,C12,3.8
+P01916,Turkey,Group A,61+,G078,C07,4.4
+P01917,Indonesia,Group A,46-60,G052,C02,4.2
+P01918,Pakistan,Group B,18-30,G024,C05,5.0
+P01919,Pakistan,Independent,18-30,G017,C03,2.7
+P01920,Turkey,Group C,31-45,G008,C11,4.4
+P01921,Pakistan,Independent,31-45,G077,C04,4.1
+P01922,Turkey,Independent,31-45,G083,C05,4.6
+P01923,Nigeria,Group C,46-60,G076,C05,4.6
+P01924,Pakistan,Group C,18-30,G014,C03,4.0
+P01925,Indonesia,Group B,18-30,G005,C10,4.2
+P01926,Saudi Arabia,Group A,46-60,G013,C07,3.6
+P01927,Indonesia,Group B,61+,G091,C06,4.5
+P01928,Saudi Arabia,Group C,31-45,G089,C05,2.9
+P01929,Saudi Arabia,Group A,61+,G036,C09,4.6
+P01930,Bangladesh,Group A,31-45,G007,C02,4.1
+P01931,Egypt,Group A,31-45,G039,C12,3.8
+P01932,Pakistan,Group C,18-30,G098,C07,3.9
+P01933,Nigeria,Independent,31-45,G018,C03,4.0
+P01934,Bangladesh,Independent,31-45,G096,C07,4.9
+P01935,Saudi Arabia,Group B,46-60,G056,C11,5.0
+P01936,Saudi Arabia,Group C,18-30,G017,C03,4.9
+P01937,Indonesia,Independent,18-30,G113,C07,3.7
+P01938,Turkey,Group C,31-45,G063,C08,4.5
+P01939,Bangladesh,Group B,18-30,G081,C10,4.5
+P01940,Saudi Arabia,Group B,18-30,G012,C07,3.5
+P01941,Saudi Arabia,Group C,46-60,G045,C09,3.3
+P01942,Indonesia,Group B,61+,G076,C10,4.1
+P01943,Nigeria,Independent,46-60,G078,C11,4.6
+P01944,Egypt,Independent,18-30,G008,C05,3.1
+P01945,Pakistan,Group A,61+,G073,C09,3.6
+P01946,Egypt,Group C,46-60,G114,C03,4.5
+P01947,Saudi Arabia,Group B,46-60,G095,C11,4.1
+P01948,Bangladesh,Group C,18-30,G025,C12,5.0
+P01949,Egypt,Group B,46-60,G110,C04,3.2
+P01950,Indonesia,Group B,18-30,G082,C07,5.0
+P01951,Bangladesh,Group B,46-60,G007,C10,3.1
+P01952,Turkey,Group A,18-30,G016,C01,2.8
+P01953,Egypt,Independent,61+,G111,C09,4.1
+P01954,Pakistan,Group A,18-30,G026,C10,3.4
+P01955,Bangladesh,Group B,46-60,G012,C11,4.1
+P01956,Pakistan,Group A,18-30,G055,C03,4.1
+P01957,Turkey,Group A,46-60,G064,C10,4.0
+P01958,Turkey,Group B,31-45,G069,C10,3.6
+P01959,Malaysia,Independent,61+,G080,C01,4.4
+P01960,Saudi Arabia,Independent,46-60,G120,C09,3.9
+P01961,Nigeria,Group B,31-45,G092,C08,4.8
+P01962,Bangladesh,Group C,18-30,G004,C12,4.0
+P01963,Saudi Arabia,Independent,46-60,G011,C01,3.5
+P01964,Nigeria,Group A,31-45,G001,C12,3.0
+P01965,Nigeria,Independent,18-30,G048,C07,4.0
+P01966,Malaysia,Group A,46-60,G043,C04,3.3
+P01967,Indonesia,Group A,18-30,G113,C05,3.2
+P01968,Pakistan,Group B,18-30,G044,C10,4.4
+P01969,Nigeria,Group A,18-30,G004,C12,2.9
+P01970,Saudi Arabia,Independent,31-45,G107,C04,5.0
+P01971,Nigeria,Independent,18-30,G032,C12,4.2
+P01972,Bangladesh,Group B,18-30,G110,C08,4.1
+P01973,Malaysia,Independent,31-45,G093,C03,3.4
+P01974,Indonesia,Independent,18-30,G106,C08,4.6
+P01975,Turkey,Independent,18-30,G099,C10,4.1
+P01976,Egypt,Independent,31-45,G018,C01,3.7
+P01977,Bangladesh,Group C,18-30,G076,C01,4.2
+P01978,Indonesia,Group A,61+,G050,C01,3.0
+P01979,Egypt,Independent,31-45,G076,C07,3.0
+P01980,Nigeria,Group C,61+,G090,C01,3.4
+P01981,Malaysia,Independent,61+,G061,C12,4.3
+P01982,Turkey,Independent,61+,G038,C02,4.1
+P01983,Egypt,Group A,46-60,G110,C01,4.8
+P01984,Nigeria,Group B,31-45,G080,C04,3.5
+P01985,Malaysia,Group A,46-60,G107,C10,4.5
+P01986,Nigeria,Group A,18-30,G029,C11,4.0
+P01987,Nigeria,Independent,61+,G101,C04,3.5
+P01988,Saudi Arabia,Independent,31-45,G039,C07,4.4
+P01989,Saudi Arabia,Independent,18-30,G056,C10,4.1
+P01990,Bangladesh,Independent,18-30,G104,C10,3.7
+P01991,Turkey,Group C,18-30,G043,C02,4.1
+P01992,Pakistan,Group C,18-30,G031,C11,4.0
+P01993,Indonesia,Independent,46-60,G110,C11,4.0
+P01994,Malaysia,Group C,18-30,G116,C09,3.8
+P01995,Nigeria,Group C,61+,G038,C07,3.3
+P01996,Egypt,Group A,31-45,G037,C05,4.1
+P01997,Turkey,Group C,46-60,G028,C11,3.6
+P01998,Bangladesh,Independent,31-45,G003,C11,3.4
+P01999,Indonesia,Group C,18-30,G067,C07,3.9
+P02000,Indonesia,Group B,18-30,G031,C09,4.6
+P02001,Bangladesh,Group A,46-60,G102,C05,4.2
+P02002,Egypt,Group A,46-60,G021,C09,3.8
+P02003,Pakistan,Group C,31-45,G077,C02,3.7
+P02004,Pakistan,Group C,31-45,G061,C11,4.5
+P02005,Nigeria,Independent,61+,G074,C07,2.5
+P02006,Saudi Arabia,Independent,61+,G014,C08,4.6
+P02007,Pakistan,Group B,31-45,G056,C03,2.9
+P02008,Saudi Arabia,Independent,18-30,G076,C07,3.2
+P02009,Nigeria,Group C,31-45,G041,C01,3.8
+P02010,Malaysia,Group B,46-60,G105,C11,5.0
+P02011,Pakistan,Independent,46-60,G064,C09,5.0
+P02012,Pakistan,Group A,18-30,G044,C06,4.6
+P02013,Saudi Arabia,Group C,18-30,G004,C11,4.3
+P02014,Bangladesh,Independent,31-45,G021,C10,2.9
+P02015,Malaysia,Group C,61+,G058,C02,4.2
+P02016,Indonesia,Independent,18-30,G049,C01,3.7
+P02017,Pakistan,Group A,31-45,G105,C04,3.6
+P02018,Malaysia,Group C,18-30,G095,C01,4.2
+P02019,Malaysia,Independent,18-30,G020,C07,3.8
+P02020,Pakistan,Group C,46-60,G071,C07,4.7
+P02021,Indonesia,Independent,31-45,G055,C07,2.8
+P02022,Malaysia,Group B,31-45,G013,C01,4.1
+P02023,Malaysia,Group C,61+,G080,C12,3.5
+P02024,Turkey,Group B,18-30,G065,C12,3.8
+P02025,Egypt,Independent,18-30,G011,C08,4.3
+P02026,Pakistan,Group A,61+,G057,C01,3.4
+P02027,Turkey,Group B,46-60,G088,C05,4.2
+P02028,Bangladesh,Group A,18-30,G040,C09,4.0
+P02029,Turkey,Group C,31-45,G043,C09,3.7
+P02030,Indonesia,Group A,46-60,G014,C03,3.8
+P02031,Turkey,Group B,31-45,G025,C10,4.0
+P02032,Saudi Arabia,Independent,46-60,G118,C12,3.6
+P02033,Egypt,Group B,46-60,G075,C07,4.1
+P02034,Malaysia,Group A,31-45,G022,C05,3.9
+P02035,Bangladesh,Group A,61+,G058,C07,3.7
+P02036,Nigeria,Group A,31-45,G024,C01,5.0
+P02037,Turkey,Independent,61+,G054,C07,4.4
+P02038,Egypt,Group C,18-30,G018,C01,3.9
+P02039,Bangladesh,Independent,31-45,G075,C01,4.2
+P02040,Pakistan,Group A,46-60,G069,C07,3.4
+P02041,Indonesia,Group B,61+,G077,C07,3.8
+P02042,Bangladesh,Group A,18-30,G054,C12,3.9
+P02043,Malaysia,Group B,61+,G035,C07,3.3
+P02044,Malaysia,Group C,18-30,G030,C12,4.4
+P02045,Indonesia,Independent,31-45,G026,C10,3.8
+P02046,Bangladesh,Group B,31-45,G052,C05,3.9
+P02047,Pakistan,Independent,31-45,G055,C12,3.7
+P02048,Turkey,Group C,61+,G081,C06,5.0
+P02049,Nigeria,Group B,46-60,G007,C08,3.7
+P02050,Malaysia,Independent,61+,G034,C02,2.8
+P02051,Saudi Arabia,Group B,31-45,G103,C03,3.1
+P02052,Indonesia,Group A,61+,G110,C07,4.6
+P02053,Indonesia,Independent,31-45,G112,C04,5.0
+P02054,Bangladesh,Independent,46-60,G037,C08,3.7
+P02055,Malaysia,Group A,46-60,G017,C01,4.9
+P02056,Indonesia,Independent,46-60,G024,C04,4.6
+P02057,Malaysia,Independent,46-60,G016,C08,4.0
+P02058,Malaysia,Independent,31-45,G115,C08,3.9
+P02059,Pakistan,Group B,46-60,G107,C12,4.2
+P02060,Pakistan,Group C,61+,G098,C11,4.7
+P02061,Bangladesh,Group C,31-45,G088,C10,4.4
+P02062,Turkey,Group C,46-60,G042,C01,3.7
+P02063,Saudi Arabia,Group C,18-30,G058,C08,4.0
+P02064,Malaysia,Group C,31-45,G101,C03,5.0
+P02065,Turkey,Group C,61+,G098,C04,4.3
+P02066,Turkey,Group C,46-60,G063,C03,4.7
+P02067,Malaysia,Group C,18-30,G101,C06,4.5
+P02068,Bangladesh,Group A,46-60,G042,C02,4.3
+P02069,Indonesia,Group A,61+,G050,C07,4.2
+P02070,Pakistan,Independent,18-30,G101,C02,4.7
+P02071,Saudi Arabia,Independent,18-30,G046,C07,4.6
+P02072,Malaysia,Group C,31-45,G091,C08,4.3
+P02073,Pakistan,Group A,46-60,G055,C03,3.6
+P02074,Indonesia,Independent,31-45,G036,C02,4.4
+P02075,Malaysia,Group A,61+,G027,C10,4.1
+P02076,Pakistan,Group B,61+,G073,C09,3.9
+P02077,Pakistan,Group B,46-60,G058,C04,5.0
+P02078,Pakistan,Group A,31-45,G045,C11,3.1
+P02079,Indonesia,Independent,18-30,G090,C03,4.7
+P02080,Saudi Arabia,Group C,61+,G001,C12,3.5
+P02081,Nigeria,Group B,61+,G012,C02,4.2
+P02082,Egypt,Group C,31-45,G116,C08,5.0
+P02083,Indonesia,Group A,46-60,G080,C01,3.5
+P02084,Malaysia,Group B,61+,G066,C03,3.6
+P02085,Saudi Arabia,Group C,46-60,G002,C05,4.1
+P02086,Malaysia,Group B,18-30,G072,C02,3.5
+P02087,Malaysia,Independent,46-60,G053,C06,4.7
+P02088,Malaysia,Group A,61+,G072,C03,3.8
+P02089,Indonesia,Group A,61+,G005,C02,4.5
+P02090,Egypt,Group C,31-45,G067,C12,3.2
+P02091,Bangladesh,Independent,46-60,G070,C12,2.9
+P02092,Indonesia,Group B,31-45,G035,C12,4.0
+P02093,Nigeria,Group A,46-60,G007,C02,3.1
+P02094,Saudi Arabia,Independent,18-30,G117,C05,5.0
+P02095,Saudi Arabia,Group B,31-45,G086,C04,3.1
+P02096,Nigeria,Group A,31-45,G075,C04,3.4
+P02097,Bangladesh,Group C,31-45,G093,C05,4.4
+P02098,Nigeria,Group B,31-45,G081,C07,3.7
+P02099,Nigeria,Independent,18-30,G017,C06,3.1
+P02100,Saudi Arabia,Group B,46-60,G055,C04,5.0
+P02101,Bangladesh,Group C,31-45,G107,C12,3.4
+P02102,Malaysia,Group C,61+,G035,C12,4.0
+P02103,Saudi Arabia,Group A,18-30,G117,C04,4.0
+P02104,Saudi Arabia,Group B,46-60,G008,C03,4.6
+P02105,Nigeria,Group A,18-30,G040,C07,4.4
+P02106,Indonesia,Group C,46-60,G043,C05,3.6
+P02107,Nigeria,Independent,31-45,G075,C12,3.9
+P02108,Saudi Arabia,Independent,31-45,G022,C06,4.0
+P02109,Indonesia,Group B,46-60,G028,C01,4.6
+P02110,Indonesia,Group B,61+,G080,C02,3.3
+P02111,Indonesia,Group C,31-45,G035,C01,5.0
+P02112,Malaysia,Group C,61+,G106,C05,3.6
+P02113,Bangladesh,Independent,18-30,G105,C04,4.1
+P02114,Bangladesh,Group A,31-45,G037,C11,3.3
+P02115,Malaysia,Group A,31-45,G068,C11,3.3
+P02116,Saudi Arabia,Group B,61+,G040,C02,3.5
+P02117,Bangladesh,Group B,18-30,G042,C12,3.5
+P02118,Turkey,Group B,31-45,G081,C08,3.8
+P02119,Turkey,Independent,31-45,G036,C04,3.5
+P02120,Malaysia,Group A,61+,G018,C05,4.6
+P02121,Nigeria,Independent,31-45,G032,C06,3.6
+P02122,Bangladesh,Group C,61+,G112,C03,3.5
+P02123,Turkey,Group C,46-60,G032,C11,3.8
+P02124,Turkey,Group C,46-60,G044,C01,4.7
+P02125,Malaysia,Group A,61+,G076,C01,4.2
+P02126,Indonesia,Group C,18-30,G013,C04,4.0
+P02127,Indonesia,Group A,31-45,G033,C02,3.2
+P02128,Malaysia,Group C,46-60,G021,C01,3.4
+P02129,Egypt,Group C,18-30,G111,C05,3.3
+P02130,Indonesia,Group C,18-30,G112,C05,4.9
+P02131,Malaysia,Group B,18-30,G091,C02,4.4
+P02132,Bangladesh,Group B,61+,G030,C10,3.5
+P02133,Turkey,Group B,46-60,G074,C11,3.7
+P02134,Pakistan,Group A,31-45,G080,C09,3.6
+P02135,Pakistan,Group C,46-60,G105,C07,3.5
+P02136,Malaysia,Group A,46-60,G019,C12,4.4
+P02137,Turkey,Group B,61+,G089,C05,3.9
+P02138,Egypt,Group C,61+,G024,C06,5.0
+P02139,Turkey,Group A,61+,G069,C01,4.9
+P02140,Pakistan,Independent,18-30,G106,C09,5.0
+P02141,Malaysia,Group B,61+,G008,C02,4.5
+P02142,Bangladesh,Group A,31-45,G018,C08,3.8
+P02143,Bangladesh,Group C,31-45,G098,C10,4.5
+P02144,Turkey,Group C,46-60,G003,C03,3.9
+P02145,Indonesia,Group C,46-60,G083,C08,5.0
+P02146,Pakistan,Independent,31-45,G061,C04,4.4
+P02147,Saudi Arabia,Group B,61+,G042,C05,4.3
+P02148,Bangladesh,Independent,18-30,G104,C07,4.2
+P02149,Nigeria,Group B,18-30,G102,C03,5.0
+P02150,Nigeria,Group C,18-30,G040,C10,3.2
+P02151,Indonesia,Group A,61+,G001,C05,5.0
+P02152,Indonesia,Group C,31-45,G016,C06,4.0
+P02153,Nigeria,Group B,31-45,G013,C10,3.2
+P02154,Turkey,Group C,46-60,G118,C03,3.6
+P02155,Malaysia,Independent,31-45,G072,C06,3.0
+P02156,Pakistan,Independent,46-60,G082,C12,4.5
+P02157,Pakistan,Independent,18-30,G028,C05,3.4
+P02158,Malaysia,Group A,18-30,G103,C02,4.2
+P02159,Nigeria,Group A,61+,G087,C04,4.8
+P02160,Indonesia,Independent,31-45,G091,C12,3.7
+P02161,Nigeria,Group B,18-30,G057,C10,3.9
+P02162,Saudi Arabia,Group A,31-45,G084,C10,3.3
+P02163,Pakistan,Group B,31-45,G066,C04,3.8
+P02164,Bangladesh,Independent,31-45,G047,C11,5.0
+P02165,Bangladesh,Group B,31-45,G072,C05,4.6
+P02166,Bangladesh,Group A,46-60,G039,C10,3.9
+P02167,Indonesia,Group C,18-30,G115,C11,3.7
+P02168,Nigeria,Group A,31-45,G087,C03,4.1
+P02169,Bangladesh,Group B,31-45,G089,C12,4.2
+P02170,Bangladesh,Group A,46-60,G087,C08,3.8
+P02171,Egypt,Group C,61+,G054,C09,4.4
+P02172,Malaysia,Group B,61+,G115,C10,3.5
+P02173,Bangladesh,Independent,31-45,G025,C03,3.5
+P02174,Nigeria,Group B,46-60,G069,C09,4.3
+P02175,Saudi Arabia,Group A,18-30,G009,C03,3.3
+P02176,Nigeria,Group A,46-60,G036,C04,4.6
+P02177,Egypt,Group A,18-30,G069,C02,4.1
+P02178,Pakistan,Group B,18-30,G059,C03,2.9
+P02179,Malaysia,Group A,46-60,G113,C12,4.2
+P02180,Pakistan,Group B,18-30,G074,C04,3.0
+P02181,Malaysia,Independent,31-45,G050,C05,4.6
+P02182,Saudi Arabia,Independent,18-30,G052,C06,3.9
+P02183,Turkey,Group C,46-60,G074,C09,5.0
+P02184,Malaysia,Independent,61+,G095,C07,4.8
+P02185,Malaysia,Independent,46-60,G034,C07,3.4
+P02186,Indonesia,Group C,61+,G071,C11,2.8
+P02187,Indonesia,Independent,31-45,G069,C06,3.6
+P02188,Indonesia,Group A,18-30,G002,C10,3.3
+P02189,Pakistan,Independent,18-30,G110,C11,5.0
+P02190,Turkey,Group B,18-30,G069,C09,4.1
+P02191,Indonesia,Group C,18-30,G030,C01,4.7
+P02192,Pakistan,Independent,31-45,G077,C04,3.9
+P02193,Indonesia,Group B,18-30,G082,C08,4.0
+P02194,Saudi Arabia,Group A,46-60,G110,C06,4.1
+P02195,Malaysia,Group B,18-30,G005,C04,4.8
+P02196,Nigeria,Group B,46-60,G050,C05,4.3
+P02197,Indonesia,Independent,31-45,G022,C01,3.4
+P02198,Nigeria,Independent,46-60,G069,C03,5.0
+P02199,Turkey,Group C,46-60,G061,C10,3.9
+P02200,Saudi Arabia,Independent,61+,G057,C01,3.8
+P02201,Indonesia,Group B,31-45,G118,C11,2.3
+P02202,Egypt,Group B,31-45,G064,C05,4.5
+P02203,Egypt,Independent,46-60,G050,C10,4.2
+P02204,Indonesia,Group C,46-60,G009,C04,4.2
+P02205,Pakistan,Group C,31-45,G035,C10,3.8
+P02206,Nigeria,Group B,46-60,G108,C07,3.7
+P02207,Saudi Arabia,Group C,31-45,G055,C11,3.9
+P02208,Nigeria,Independent,31-45,G110,C01,4.4
+P02209,Saudi Arabia,Group B,31-45,G064,C10,4.5
+P02210,Saudi Arabia,Group A,61+,G066,C04,3.9
+P02211,Malaysia,Group A,46-60,G052,C05,4.7
+P02212,Nigeria,Group A,18-30,G067,C01,4.0
+P02213,Turkey,Group B,61+,G009,C12,3.8
+P02214,Egypt,Group C,46-60,G007,C08,4.2
+P02215,Egypt,Independent,18-30,G058,C12,3.2
+P02216,Pakistan,Group A,46-60,G072,C07,4.3
+P02217,Pakistan,Independent,46-60,G067,C02,3.1
+P02218,Bangladesh,Group C,61+,G052,C05,3.4
+P02219,Indonesia,Group A,31-45,G036,C06,2.8
+P02220,Saudi Arabia,Group B,46-60,G086,C02,4.0
+P02221,Bangladesh,Group B,31-45,G073,C12,5.0
+P02222,Saudi Arabia,Independent,31-45,G006,C12,4.0
+P02223,Egypt,Independent,46-60,G055,C07,4.5
+P02224,Pakistan,Independent,61+,G086,C08,5.0
+P02225,Pakistan,Group C,61+,G095,C09,4.4
+P02226,Turkey,Group B,61+,G035,C09,3.6
+P02227,Bangladesh,Group B,46-60,G111,C01,3.7
+P02228,Bangladesh,Independent,46-60,G079,C07,4.1
+P02229,Indonesia,Group A,31-45,G053,C10,3.7
+P02230,Bangladesh,Group B,61+,G076,C10,3.7
+P02231,Malaysia,Group A,31-45,G105,C08,4.7
+P02232,Egypt,Group B,31-45,G028,C11,4.8
+P02233,Bangladesh,Group B,61+,G019,C08,3.0
+P02234,Saudi Arabia,Group A,46-60,G053,C05,3.6
+P02235,Turkey,Group B,31-45,G011,C06,3.8
+P02236,Nigeria,Independent,61+,G101,C09,4.5
+P02237,Saudi Arabia,Group C,61+,G117,C11,4.8
+P02238,Indonesia,Independent,31-45,G073,C03,5.0
+P02239,Pakistan,Independent,46-60,G118,C04,3.8
+P02240,Bangladesh,Independent,31-45,G009,C08,3.8
+P02241,Saudi Arabia,Group B,46-60,G076,C10,4.5
+P02242,Malaysia,Independent,61+,G054,C05,3.7
+P02243,Pakistan,Independent,46-60,G034,C08,4.0
+P02244,Egypt,Independent,61+,G038,C01,3.8
+P02245,Malaysia,Group B,46-60,G066,C04,2.4
+P02246,Nigeria,Group A,61+,G077,C12,4.2
+P02247,Turkey,Group C,31-45,G020,C07,4.0
+P02248,Saudi Arabia,Independent,31-45,G074,C11,4.9
+P02249,Saudi Arabia,Independent,31-45,G112,C03,4.1
+P02250,Pakistan,Group C,61+,G002,C04,3.3
+P02251,Turkey,Group A,46-60,G106,C12,3.9
+P02252,Turkey,Group B,18-30,G073,C12,2.7
+P02253,Saudi Arabia,Group C,18-30,G042,C11,3.3
+P02254,Turkey,Group C,46-60,G089,C04,4.5
+P02255,Indonesia,Group B,61+,G075,C10,3.9
+P02256,Malaysia,Group B,31-45,G093,C06,4.7
+P02257,Nigeria,Group A,46-60,G010,C11,2.8
+P02258,Malaysia,Group B,61+,G008,C11,3.9
+P02259,Egypt,Group C,46-60,G078,C06,3.8
+P02260,Bangladesh,Group A,61+,G037,C04,4.7
+P02261,Egypt,Independent,46-60,G029,C12,4.5
+P02262,Bangladesh,Group A,46-60,G051,C06,4.5
+P02263,Egypt,Group C,61+,G088,C06,5.0
+P02264,Turkey,Group B,46-60,G022,C08,3.9
+P02265,Egypt,Independent,18-30,G117,C12,5.0
+P02266,Egypt,Independent,31-45,G051,C02,3.4
+P02267,Malaysia,Group C,18-30,G019,C12,3.4
+P02268,Malaysia,Group C,46-60,G009,C06,4.6
+P02269,Egypt,Group C,18-30,G103,C01,3.1
+P02270,Bangladesh,Group C,46-60,G014,C04,4.5
+P02271,Indonesia,Group A,31-45,G051,C06,4.2
+P02272,Indonesia,Group B,18-30,G081,C09,4.8
+P02273,Indonesia,Group A,18-30,G062,C07,4.1
+P02274,Pakistan,Group B,46-60,G032,C02,4.1
+P02275,Saudi Arabia,Group C,18-30,G013,C06,4.4
+P02276,Pakistan,Group A,61+,G086,C03,3.7
+P02277,Saudi Arabia,Group A,61+,G059,C04,3.6
+P02278,Egypt,Independent,46-60,G006,C09,4.4
+P02279,Indonesia,Group B,18-30,G022,C10,4.1
+P02280,Malaysia,Group A,61+,G068,C02,3.8
+P02281,Nigeria,Group C,46-60,G021,C08,4.0
+P02282,Indonesia,Group C,31-45,G047,C06,5.0
+P02283,Indonesia,Independent,18-30,G015,C05,3.8
+P02284,Nigeria,Independent,46-60,G096,C09,3.8
+P02285,Malaysia,Independent,61+,G076,C03,3.0
+P02286,Nigeria,Group C,18-30,G095,C10,4.1
+P02287,Bangladesh,Group B,18-30,G007,C05,4.5
+P02288,Nigeria,Independent,31-45,G046,C02,4.6
+P02289,Bangladesh,Group B,46-60,G033,C10,4.2
+P02290,Pakistan,Group B,31-45,G075,C11,4.7
+P02291,Pakistan,Independent,31-45,G099,C07,4.6
+P02292,Indonesia,Independent,31-45,G028,C09,4.8
+P02293,Saudi Arabia,Group B,18-30,G093,C02,4.7
+P02294,Malaysia,Group C,18-30,G070,C05,5.0
+P02295,Malaysia,Independent,18-30,G099,C05,4.0
+P02296,Nigeria,Independent,46-60,G010,C10,3.2
+P02297,Saudi Arabia,Group A,61+,G119,C05,4.5
+P02298,Pakistan,Group C,31-45,G053,C09,4.6
+P02299,Saudi Arabia,Group A,18-30,G034,C04,5.0
+P02300,Bangladesh,Independent,31-45,G022,C08,4.9
+P02301,Indonesia,Group A,61+,G119,C03,5.0
+P02302,Saudi Arabia,Independent,18-30,G107,C07,4.5
+P02303,Turkey,Group A,31-45,G016,C01,4.2
+P02304,Bangladesh,Group B,46-60,G054,C09,3.2
+P02305,Bangladesh,Group A,31-45,G089,C01,4.3
+P02306,Egypt,Independent,31-45,G071,C12,3.7
+P02307,Indonesia,Group B,31-45,G023,C11,4.2
+P02308,Saudi Arabia,Group C,31-45,G044,C07,4.1
+P02309,Indonesia,Group A,46-60,G045,C11,4.4
+P02310,Turkey,Group B,46-60,G035,C10,4.0
+P02311,Indonesia,Independent,18-30,G116,C02,4.7
+P02312,Egypt,Independent,18-30,G025,C09,2.3
+P02313,Turkey,Group A,31-45,G085,C05,4.2
+P02314,Egypt,Group B,61+,G110,C11,4.9
+P02315,Saudi Arabia,Group B,18-30,G096,C11,5.0
+P02316,Egypt,Group C,18-30,G096,C12,4.6
+P02317,Egypt,Group C,46-60,G020,C06,5.0
+P02318,Pakistan,Group A,31-45,G016,C03,4.2
+P02319,Nigeria,Independent,18-30,G094,C02,4.1
+P02320,Nigeria,Group A,18-30,G090,C02,4.4
+P02321,Egypt,Group B,46-60,G090,C12,4.1
+P02322,Egypt,Independent,46-60,G051,C08,3.6
+P02323,Indonesia,Group C,46-60,G063,C05,3.8
+P02324,Malaysia,Group B,31-45,G002,C06,3.4
+P02325,Malaysia,Independent,46-60,G035,C03,4.4
+P02326,Nigeria,Group B,61+,G064,C07,4.1
+P02327,Indonesia,Group C,31-45,G016,C06,3.9
+P02328,Saudi Arabia,Group A,31-45,G016,C10,3.7
+P02329,Egypt,Group A,18-30,G006,C01,4.4
+P02330,Saudi Arabia,Group B,46-60,G026,C12,4.6
+P02331,Egypt,Group C,18-30,G120,C01,3.4
+P02332,Nigeria,Independent,18-30,G084,C06,3.3
+P02333,Indonesia,Group B,46-60,G114,C05,4.7
+P02334,Nigeria,Independent,18-30,G031,C09,3.2
+P02335,Turkey,Group C,61+,G072,C08,4.5
+P02336,Turkey,Group A,31-45,G108,C03,5.0
+P02337,Pakistan,Group C,31-45,G043,C06,5.0
+P02338,Nigeria,Group C,46-60,G079,C07,4.6
+P02339,Egypt,Group B,46-60,G084,C06,4.6
+P02340,Egypt,Group B,31-45,G100,C01,5.0
+P02341,Pakistan,Group B,61+,G117,C03,2.6
+P02342,Pakistan,Group C,61+,G074,C07,3.8
+P02343,Turkey,Group C,18-30,G070,C04,4.7
+P02344,Malaysia,Group B,46-60,G105,C07,3.9
+P02345,Turkey,Group B,31-45,G083,C02,4.9
+P02346,Indonesia,Group B,61+,G044,C09,4.1
+P02347,Indonesia,Group B,31-45,G076,C03,4.2
+P02348,Nigeria,Group B,31-45,G066,C08,3.9
+P02349,Saudi Arabia,Group B,46-60,G028,C11,3.8
+P02350,Turkey,Group C,61+,G062,C05,3.7
+P02351,Turkey,Group A,18-30,G075,C02,4.3
+P02352,Nigeria,Group C,46-60,G109,C01,3.6
+P02353,Malaysia,Group A,31-45,G070,C05,4.7
+P02354,Pakistan,Group B,46-60,G020,C02,4.5
+P02355,Indonesia,Independent,46-60,G119,C11,4.8
+P02356,Indonesia,Independent,61+,G070,C12,3.4
+P02357,Pakistan,Group C,61+,G035,C12,3.0
+P02358,Saudi Arabia,Group C,46-60,G091,C12,4.1
+P02359,Malaysia,Group A,46-60,G047,C08,5.0
+P02360,Saudi Arabia,Group B,61+,G045,C04,4.9
+P02361,Malaysia,Group C,18-30,G101,C06,3.7
+P02362,Nigeria,Independent,46-60,G105,C04,4.4
+P02363,Bangladesh,Group C,61+,G063,C11,4.6
+P02364,Egypt,Independent,18-30,G045,C06,3.2
+P02365,Nigeria,Group B,61+,G104,C05,5.0
+P02366,Egypt,Group A,46-60,G021,C09,4.0
+P02367,Indonesia,Group A,31-45,G090,C05,4.0
+P02368,Saudi Arabia,Group C,31-45,G071,C05,4.1
+P02369,Saudi Arabia,Group C,31-45,G103,C03,4.8
+P02370,Saudi Arabia,Group B,61+,G051,C01,3.6
+P02371,Egypt,Independent,61+,G100,C01,3.0
+P02372,Nigeria,Group C,61+,G002,C05,4.3
+P02373,Egypt,Group B,46-60,G091,C12,2.8
+P02374,Pakistan,Group A,18-30,G009,C04,3.9
+P02375,Malaysia,Group C,61+,G078,C08,4.9
+P02376,Bangladesh,Group C,18-30,G024,C04,4.5
+P02377,Nigeria,Group A,18-30,G116,C04,4.8
+P02378,Saudi Arabia,Group B,18-30,G093,C02,4.5
+P02379,Bangladesh,Group B,61+,G013,C07,5.0
+P02380,Malaysia,Group C,31-45,G108,C08,3.7
+P02381,Saudi Arabia,Group A,18-30,G031,C05,4.4
+P02382,Pakistan,Independent,18-30,G066,C07,3.8
+P02383,Bangladesh,Group B,31-45,G011,C06,4.7
+P02384,Pakistan,Group B,46-60,G013,C04,4.1
+P02385,Saudi Arabia,Group A,61+,G029,C09,5.0
+P02386,Bangladesh,Independent,46-60,G065,C07,3.8
+P02387,Bangladesh,Group A,46-60,G066,C01,5.0
+P02388,Bangladesh,Independent,61+,G103,C06,4.5
+P02389,Bangladesh,Group B,61+,G020,C05,4.1
+P02390,Nigeria,Independent,31-45,G090,C10,4.5
+P02391,Pakistan,Group A,61+,G001,C04,4.3
+P02392,Saudi Arabia,Group A,46-60,G035,C12,4.3
+P02393,Turkey,Independent,61+,G022,C08,4.0
+P02394,Saudi Arabia,Independent,18-30,G015,C02,3.6
+P02395,Pakistan,Group C,18-30,G071,C05,3.9
+P02396,Malaysia,Group A,61+,G109,C11,3.0
+P02397,Bangladesh,Independent,46-60,G081,C04,4.6
+P02398,Indonesia,Group B,18-30,G103,C09,3.3
+P02399,Indonesia,Independent,61+,G071,C10,4.0
+P02400,Malaysia,Independent,18-30,G007,C09,4.5
+P02401,Egypt,Independent,46-60,G042,C02,4.6
+P02402,Turkey,Group C,18-30,G099,C05,2.9
+P02403,Malaysia,Group C,18-30,G006,C05,4.0
+P02404,Turkey,Group C,61+,G012,C05,4.4
+P02405,Pakistan,Group A,61+,G101,C11,4.1
+P02406,Nigeria,Group B,18-30,G008,C01,5.0
+P02407,Indonesia,Group C,18-30,G116,C07,3.6
+P02408,Malaysia,Independent,46-60,G092,C12,2.8
+P02409,Pakistan,Group C,18-30,G080,C11,4.6
+P02410,Egypt,Group C,46-60,G065,C08,3.8
+P02411,Turkey,Group A,61+,G011,C12,3.0
+P02412,Egypt,Group B,61+,G050,C05,4.0
+P02413,Bangladesh,Group C,18-30,G097,C08,4.9
+P02414,Turkey,Independent,18-30,G109,C07,3.3
+P02415,Indonesia,Group B,46-60,G054,C01,5.0
+P02416,Pakistan,Group A,18-30,G101,C01,3.6
+P02417,Turkey,Group B,46-60,G094,C11,4.2
+P02418,Indonesia,Group A,31-45,G007,C03,3.3
+P02419,Indonesia,Group C,46-60,G075,C05,4.1
+P02420,Pakistan,Group C,18-30,G074,C08,4.0
+P02421,Indonesia,Independent,61+,G066,C07,3.1
+P02422,Nigeria,Independent,46-60,G093,C07,5.0
+P02423,Egypt,Group A,18-30,G107,C12,3.8
+P02424,Nigeria,Group A,31-45,G067,C10,3.8
+P02425,Indonesia,Group B,18-30,G039,C12,4.7
+P02426,Turkey,Group A,31-45,G118,C08,5.0
+P02427,Saudi Arabia,Independent,31-45,G116,C12,4.8
+P02428,Pakistan,Group A,18-30,G083,C08,3.3
+P02429,Nigeria,Group A,46-60,G077,C07,4.2
+P02430,Indonesia,Independent,46-60,G013,C10,2.9
+P02431,Saudi Arabia,Independent,18-30,G049,C11,4.7
+P02432,Turkey,Group A,18-30,G024,C01,3.0
+P02433,Saudi Arabia,Group B,18-30,G062,C11,3.6
+P02434,Indonesia,Group C,46-60,G100,C09,4.1
+P02435,Pakistan,Group C,31-45,G027,C11,4.4
+P02436,Turkey,Independent,18-30,G120,C09,3.9
+P02437,Malaysia,Group B,18-30,G016,C12,5.0
+P02438,Malaysia,Group A,61+,G012,C04,4.6
+P02439,Nigeria,Group B,31-45,G117,C03,4.5
+P02440,Egypt,Group C,46-60,G013,C03,3.3
+P02441,Indonesia,Group C,31-45,G089,C04,5.0
+P02442,Egypt,Group C,18-30,G092,C03,3.6
+P02443,Egypt,Independent,31-45,G040,C06,5.0
+P02444,Saudi Arabia,Independent,18-30,G008,C03,5.0
+P02445,Turkey,Group B,46-60,G038,C02,4.4
+P02446,Bangladesh,Group B,31-45,G009,C07,4.8
+P02447,Nigeria,Group C,31-45,G081,C10,2.1
+P02448,Malaysia,Group B,18-30,G107,C02,4.0
+P02449,Nigeria,Group B,61+,G120,C07,4.8
+P02450,Saudi Arabia,Group A,18-30,G097,C08,4.7
+P02451,Nigeria,Group B,46-60,G093,C09,3.3
+P02452,Bangladesh,Group C,61+,G106,C02,3.9
+P02453,Egypt,Independent,46-60,G093,C09,2.5
+P02454,Pakistan,Independent,46-60,G079,C01,4.4
+P02455,Nigeria,Group B,61+,G120,C03,2.9
+P02456,Pakistan,Group A,18-30,G039,C04,4.8
+P02457,Nigeria,Group A,61+,G050,C11,4.9
+P02458,Bangladesh,Group B,46-60,G109,C03,3.8
+P02459,Pakistan,Group C,31-45,G038,C10,4.4
+P02460,Egypt,Independent,31-45,G036,C12,4.0
+P02461,Indonesia,Independent,46-60,G019,C12,4.3
+P02462,Saudi Arabia,Group A,61+,G034,C04,3.4
+P02463,Pakistan,Group C,46-60,G072,C02,4.5
+P02464,Turkey,Group B,18-30,G107,C03,3.0
+P02465,Pakistan,Group A,31-45,G017,C10,2.9
+P02466,Saudi Arabia,Group C,46-60,G082,C03,4.0
+P02467,Indonesia,Group A,31-45,G092,C08,4.0
+P02468,Malaysia,Group B,61+,G108,C05,4.3
+P02469,Egypt,Group C,46-60,G091,C10,3.7
+P02470,Saudi Arabia,Group B,18-30,G019,C08,5.0
+P02471,Bangladesh,Group C,46-60,G059,C08,4.2
+P02472,Egypt,Group B,18-30,G115,C10,4.3
+P02473,Pakistan,Independent,31-45,G110,C12,4.2
+P02474,Saudi Arabia,Group A,31-45,G074,C05,4.8
+P02475,Egypt,Group A,61+,G116,C07,4.5
+P02476,Pakistan,Group C,61+,G081,C08,4.4
+P02477,Turkey,Group B,31-45,G008,C10,4.6
+P02478,Saudi Arabia,Group C,46-60,G110,C06,2.9
+P02479,Egypt,Group A,46-60,G021,C05,2.9
+P02480,Saudi Arabia,Group C,46-60,G046,C11,4.1
+P02481,Malaysia,Independent,46-60,G029,C12,4.0
+P02482,Nigeria,Group A,61+,G087,C07,4.5
+P02483,Saudi Arabia,Group B,61+,G004,C02,4.1
+P02484,Indonesia,Independent,61+,G077,C04,4.5
+P02485,Indonesia,Group C,18-30,G104,C06,3.3
+P02486,Indonesia,Group A,31-45,G095,C09,4.1
+P02487,Saudi Arabia,Group A,31-45,G037,C09,3.2
+P02488,Egypt,Independent,46-60,G108,C10,4.4
+P02489,Turkey,Independent,46-60,G044,C01,2.9
+P02490,Indonesia,Group B,46-60,G082,C06,4.3
+P02491,Indonesia,Group B,31-45,G061,C09,3.1
+P02492,Indonesia,Independent,31-45,G009,C12,3.9
+P02493,Bangladesh,Group A,31-45,G001,C02,4.7
+P02494,Turkey,Group A,61+,G022,C11,4.2
+P02495,Pakistan,Independent,31-45,G113,C01,3.0
+P02496,Saudi Arabia,Group A,18-30,G115,C03,3.7
+P02497,Nigeria,Independent,61+,G050,C11,3.1
+P02498,Bangladesh,Group B,18-30,G117,C10,3.0
+P02499,Egypt,Independent,46-60,G006,C12,4.2
+P02500,Bangladesh,Group A,61+,G117,C08,4.5
+P02501,Malaysia,Independent,31-45,G028,C08,4.4
+P02502,Egypt,Group A,31-45,G005,C07,4.5
+P02503,Nigeria,Group A,31-45,G091,C07,4.1
+P02504,Egypt,Group C,18-30,G046,C07,3.9
+P02505,Egypt,Group C,18-30,G036,C04,3.4
+P02506,Egypt,Independent,18-30,G092,C11,3.8
+P02507,Pakistan,Group A,31-45,G040,C05,3.2
+P02508,Turkey,Group A,46-60,G091,C08,3.6
+P02509,Pakistan,Group C,18-30,G024,C09,4.2
+P02510,Egypt,Independent,61+,G011,C07,4.0
+P02511,Saudi Arabia,Group B,46-60,G039,C08,5.0
+P02512,Nigeria,Independent,18-30,G074,C01,3.2
+P02513,Bangladesh,Independent,61+,G027,C04,4.0
+P02514,Nigeria,Independent,18-30,G018,C06,3.2
+P02515,Egypt,Group C,46-60,G090,C05,3.8
+P02516,Nigeria,Group C,31-45,G060,C11,3.9
+P02517,Malaysia,Group C,46-60,G052,C11,4.6
+P02518,Turkey,Group C,61+,G029,C09,3.8
+P02519,Saudi Arabia,Group C,61+,G003,C05,4.0
+P02520,Bangladesh,Group C,31-45,G007,C01,3.8
+P02521,Pakistan,Group B,46-60,G082,C10,3.2
+P02522,Egypt,Group C,61+,G010,C11,3.7
+P02523,Saudi Arabia,Independent,46-60,G030,C06,3.9
+P02524,Pakistan,Independent,61+,G110,C10,4.1
+P02525,Egypt,Group C,31-45,G042,C12,4.5
+P02526,Indonesia,Group A,31-45,G090,C07,3.9
+P02527,Pakistan,Group C,46-60,G042,C03,3.9
+P02528,Bangladesh,Group B,61+,G112,C01,3.0
+P02529,Egypt,Group A,61+,G099,C10,4.5
+P02530,Turkey,Group A,46-60,G057,C07,3.6
+P02531,Bangladesh,Group C,46-60,G083,C02,4.6
+P02532,Nigeria,Independent,46-60,G050,C01,5.0
+P02533,Bangladesh,Group C,31-45,G114,C12,4.0
+P02534,Saudi Arabia,Group B,31-45,G044,C04,3.4
+P02535,Nigeria,Group A,31-45,G101,C04,4.1
+P02536,Bangladesh,Group C,61+,G074,C08,4.3
+P02537,Indonesia,Group A,46-60,G078,C05,3.9
+P02538,Pakistan,Independent,61+,G043,C11,3.7
+P02539,Turkey,Independent,18-30,G100,C09,4.5
+P02540,Pakistan,Independent,61+,G090,C05,4.4
+P02541,Indonesia,Group B,46-60,G098,C04,3.9
+P02542,Bangladesh,Group A,61+,G097,C11,3.0
+P02543,Bangladesh,Group B,31-45,G019,C08,4.4
+P02544,Pakistan,Independent,31-45,G106,C12,3.6
+P02545,Nigeria,Group A,18-30,G102,C05,4.2
+P02546,Pakistan,Independent,61+,G030,C01,4.2
+P02547,Nigeria,Group A,46-60,G118,C11,2.9
+P02548,Turkey,Group A,61+,G064,C03,4.2
+P02549,Pakistan,Group A,18-30,G039,C11,4.4
+P02550,Saudi Arabia,Independent,18-30,G027,C09,4.5
+P02551,Malaysia,Group C,61+,G044,C03,4.2
+P02552,Indonesia,Group B,18-30,G005,C10,2.8
+P02553,Saudi Arabia,Group C,46-60,G083,C01,4.9
+P02554,Saudi Arabia,Group C,31-45,G085,C05,4.4
+P02555,Bangladesh,Group C,61+,G081,C05,3.3
+P02556,Egypt,Group C,61+,G066,C08,3.6
+P02557,Nigeria,Group A,61+,G044,C07,4.3
+P02558,Nigeria,Group B,31-45,G087,C08,4.5
+P02559,Egypt,Group C,46-60,G105,C06,3.8
+P02560,Turkey,Group A,46-60,G011,C09,4.6
+P02561,Turkey,Group B,61+,G046,C02,2.9
+P02562,Indonesia,Group A,18-30,G120,C09,3.4
+P02563,Malaysia,Independent,61+,G104,C01,2.8
+P02564,Pakistan,Group A,31-45,G120,C02,3.5
+P02565,Pakistan,Group A,18-30,G022,C09,5.0
+P02566,Pakistan,Group C,46-60,G056,C02,5.0
+P02567,Nigeria,Group A,61+,G016,C10,4.3
+P02568,Malaysia,Group B,18-30,G104,C02,3.7
+P02569,Pakistan,Group B,18-30,G063,C02,4.0
+P02570,Bangladesh,Group A,61+,G030,C12,4.4
+P02571,Nigeria,Independent,61+,G011,C03,3.1
+P02572,Bangladesh,Group C,18-30,G089,C11,3.7
+P02573,Malaysia,Group A,61+,G098,C05,5.0
+P02574,Pakistan,Group C,61+,G106,C10,3.4
+P02575,Nigeria,Group C,61+,G117,C12,3.6
+P02576,Indonesia,Group C,18-30,G098,C02,4.1
+P02577,Indonesia,Group C,46-60,G095,C04,4.3
+P02578,Pakistan,Independent,61+,G098,C07,3.7
+P02579,Bangladesh,Group B,61+,G120,C11,4.2
+P02580,Turkey,Group B,46-60,G056,C03,4.5
+P02581,Pakistan,Group C,18-30,G092,C03,5.0
+P02582,Pakistan,Independent,18-30,G099,C05,4.0
+P02583,Indonesia,Group C,31-45,G014,C03,4.1
+P02584,Malaysia,Group A,18-30,G083,C04,5.0
+P02585,Indonesia,Group B,18-30,G041,C02,3.7
+P02586,Turkey,Group C,18-30,G016,C10,3.2
+P02587,Indonesia,Group A,61+,G021,C10,4.3
+P02588,Indonesia,Independent,46-60,G014,C02,4.8
+P02589,Bangladesh,Independent,46-60,G108,C07,4.3
+P02590,Indonesia,Independent,61+,G093,C08,4.0
+P02591,Egypt,Group A,31-45,G013,C08,3.2
+P02592,Pakistan,Group C,31-45,G076,C12,4.1
+P02593,Turkey,Group C,18-30,G080,C08,4.9
+P02594,Egypt,Group C,31-45,G063,C09,3.3
+P02595,Indonesia,Independent,18-30,G073,C01,3.9
+P02596,Saudi Arabia,Group B,46-60,G109,C01,3.8
+P02597,Turkey,Group C,61+,G063,C08,3.6
+P02598,Malaysia,Group C,46-60,G080,C11,4.3
+P02599,Bangladesh,Independent,31-45,G069,C05,4.4
+P02600,Pakistan,Independent,46-60,G048,C08,4.4
+P02601,Nigeria,Group B,61+,G107,C03,3.5
+P02602,Saudi Arabia,Independent,31-45,G050,C06,3.0
+P02603,Nigeria,Group A,31-45,G096,C10,4.3
+P02604,Turkey,Group B,46-60,G073,C08,3.8
+P02605,Nigeria,Group C,18-30,G083,C02,5.0
+P02606,Nigeria,Group A,61+,G092,C11,5.0
+P02607,Turkey,Group B,31-45,G089,C12,5.0
+P02608,Indonesia,Group C,31-45,G068,C06,3.5
+P02609,Turkey,Group C,46-60,G074,C05,4.5
+P02610,Nigeria,Group A,18-30,G062,C07,4.7
+P02611,Bangladesh,Group B,18-30,G041,C10,4.6
+P02612,Bangladesh,Group A,18-30,G088,C06,3.9
+P02613,Saudi Arabia,Group C,31-45,G106,C01,4.9
+P02614,Turkey,Group B,46-60,G085,C01,4.1
+P02615,Egypt,Group C,18-30,G093,C10,4.2
+P02616,Malaysia,Group C,31-45,G100,C10,3.1
+P02617,Bangladesh,Independent,61+,G045,C10,4.5
+P02618,Egypt,Group A,61+,G008,C02,3.9
+P02619,Malaysia,Independent,18-30,G041,C03,4.4
+P02620,Bangladesh,Group A,46-60,G091,C05,4.3
+P02621,Nigeria,Group A,18-30,G098,C03,4.2
+P02622,Pakistan,Group A,46-60,G062,C05,4.1
+P02623,Egypt,Group A,61+,G094,C07,4.6
+P02624,Bangladesh,Independent,61+,G009,C04,4.0
+P02625,Bangladesh,Group A,18-30,G078,C02,3.2
+P02626,Turkey,Group C,31-45,G082,C05,4.5
+P02627,Bangladesh,Group B,61+,G061,C09,3.6
+P02628,Egypt,Group A,61+,G086,C08,3.2
+P02629,Turkey,Group B,31-45,G059,C04,3.4
+P02630,Egypt,Group A,18-30,G063,C04,4.3
+P02631,Bangladesh,Group B,31-45,G073,C08,4.0
+P02632,Malaysia,Group C,46-60,G096,C03,2.7
+P02633,Bangladesh,Group C,31-45,G030,C11,3.9
+P02634,Turkey,Group B,61+,G037,C11,4.9
+P02635,Egypt,Independent,61+,G051,C01,3.8
+P02636,Egypt,Group C,61+,G025,C12,4.0
+P02637,Indonesia,Group B,18-30,G041,C01,4.8
+P02638,Malaysia,Group B,61+,G043,C06,4.6
+P02639,Saudi Arabia,Group A,61+,G038,C09,4.8
+P02640,Nigeria,Independent,31-45,G050,C04,2.3
+P02641,Saudi Arabia,Independent,46-60,G061,C03,5.0
+P02642,Pakistan,Group B,61+,G084,C01,4.5
+P02643,Saudi Arabia,Group C,61+,G037,C09,5.0
+P02644,Pakistan,Group C,46-60,G102,C01,3.6
+P02645,Pakistan,Group C,18-30,G058,C06,3.0
+P02646,Egypt,Group A,46-60,G087,C05,4.1
+P02647,Turkey,Independent,46-60,G014,C12,3.9
+P02648,Nigeria,Independent,18-30,G021,C12,4.5
+P02649,Bangladesh,Independent,61+,G055,C10,4.8
+P02650,Indonesia,Independent,18-30,G044,C09,4.0
+P02651,Bangladesh,Independent,61+,G060,C07,3.9
+P02652,Bangladesh,Group C,46-60,G020,C05,4.4
+P02653,Bangladesh,Group A,31-45,G057,C02,3.9
+P02654,Indonesia,Group B,18-30,G083,C12,3.9
+P02655,Nigeria,Group A,18-30,G088,C05,4.8
+P02656,Turkey,Group A,46-60,G030,C06,4.9
+P02657,Egypt,Independent,31-45,G042,C02,4.8
+P02658,Indonesia,Independent,61+,G064,C04,4.0
+P02659,Malaysia,Group C,18-30,G063,C08,2.7
+P02660,Saudi Arabia,Group C,61+,G096,C06,4.0
+P02661,Pakistan,Group A,61+,G047,C08,3.6
+P02662,Nigeria,Group A,18-30,G081,C03,4.0
+P02663,Saudi Arabia,Independent,46-60,G107,C01,3.7
+P02664,Pakistan,Group B,61+,G036,C11,4.1
+P02665,Saudi Arabia,Group C,31-45,G099,C06,3.4
+P02666,Turkey,Group B,18-30,G040,C05,3.3
+P02667,Saudi Arabia,Group A,61+,G041,C04,4.9
+P02668,Bangladesh,Independent,31-45,G079,C08,3.5
+P02669,Egypt,Independent,18-30,G075,C07,4.1
+P02670,Bangladesh,Group C,61+,G066,C05,4.7
+P02671,Nigeria,Group B,46-60,G028,C12,4.7
+P02672,Nigeria,Group C,18-30,G012,C11,4.6
+P02673,Nigeria,Independent,31-45,G110,C03,4.3
+P02674,Saudi Arabia,Group C,18-30,G105,C08,4.6
+P02675,Bangladesh,Group B,61+,G107,C12,5.0
+P02676,Turkey,Group B,18-30,G062,C06,4.4
+P02677,Bangladesh,Group C,61+,G107,C01,2.9
+P02678,Bangladesh,Group B,46-60,G057,C02,3.8
+P02679,Turkey,Group C,46-60,G010,C09,4.6
+P02680,Indonesia,Group A,61+,G024,C11,3.7
+P02681,Egypt,Group A,61+,G033,C02,5.0
+P02682,Egypt,Independent,18-30,G046,C07,4.1
+P02683,Pakistan,Group B,18-30,G113,C06,4.2
+P02684,Nigeria,Group B,18-30,G040,C04,4.8
+P02685,Turkey,Group C,46-60,G074,C08,4.0
+P02686,Pakistan,Group B,46-60,G033,C11,4.2
+P02687,Saudi Arabia,Independent,18-30,G078,C03,4.7
+P02688,Turkey,Group A,18-30,G069,C01,3.1
+P02689,Malaysia,Independent,46-60,G019,C05,3.9
+P02690,Bangladesh,Group A,46-60,G056,C04,4.6
+P02691,Malaysia,Group B,31-45,G013,C09,4.1
+P02692,Turkey,Group C,61+,G107,C07,5.0
+P02693,Bangladesh,Independent,61+,G085,C01,3.1
+P02694,Pakistan,Group A,61+,G113,C05,3.0
+P02695,Bangladesh,Group C,31-45,G106,C09,4.6
+P02696,Indonesia,Group A,61+,G027,C06,4.7
+P02697,Saudi Arabia,Group A,46-60,G085,C07,4.0
+P02698,Pakistan,Independent,46-60,G013,C04,4.4
+P02699,Saudi Arabia,Group C,31-45,G116,C04,4.6
+P02700,Egypt,Group B,61+,G095,C02,3.6
+P02701,Bangladesh,Group C,46-60,G082,C01,3.6
+P02702,Nigeria,Group B,18-30,G120,C01,4.2
+P02703,Saudi Arabia,Group B,61+,G102,C08,4.7
+P02704,Nigeria,Group B,18-30,G104,C02,3.3
+P02705,Egypt,Group B,46-60,G013,C07,4.0
+P02706,Indonesia,Independent,46-60,G003,C12,3.9
+P02707,Malaysia,Group B,46-60,G116,C09,4.4
+P02708,Indonesia,Group B,18-30,G031,C07,4.1
+P02709,Malaysia,Group C,31-45,G052,C02,3.7
+P02710,Nigeria,Independent,61+,G006,C06,4.9
+P02711,Egypt,Group B,18-30,G075,C11,3.7
+P02712,Egypt,Independent,46-60,G099,C05,3.9
+P02713,Bangladesh,Group B,61+,G102,C10,3.1
+P02714,Turkey,Group C,61+,G070,C09,3.6
+P02715,Turkey,Independent,46-60,G080,C04,4.4
+P02716,Pakistan,Group B,31-45,G062,C02,4.3
+P02717,Pakistan,Group A,46-60,G054,C01,4.5
+P02718,Malaysia,Group C,31-45,G067,C04,4.5
+P02719,Turkey,Group A,46-60,G113,C04,5.0
+P02720,Saudi Arabia,Group B,46-60,G031,C08,3.6
+P02721,Malaysia,Independent,46-60,G057,C07,3.0
+P02722,Malaysia,Group B,18-30,G073,C06,3.4
+P02723,Egypt,Group C,61+,G069,C09,3.6
+P02724,Pakistan,Group C,46-60,G004,C10,3.5
+P02725,Nigeria,Group A,61+,G035,C09,4.2
+P02726,Turkey,Group B,46-60,G078,C11,4.9
+P02727,Saudi Arabia,Group C,61+,G084,C05,5.0
+P02728,Egypt,Group A,61+,G089,C10,4.4
+P02729,Turkey,Group B,61+,G119,C06,5.0
+P02730,Pakistan,Group B,46-60,G081,C03,3.9
+P02731,Bangladesh,Independent,46-60,G070,C02,3.0
+P02732,Turkey,Group A,18-30,G040,C02,4.8
+P02733,Bangladesh,Independent,31-45,G045,C12,2.9
+P02734,Saudi Arabia,Group B,31-45,G100,C03,3.6
+P02735,Pakistan,Group C,61+,G057,C11,4.4
+P02736,Saudi Arabia,Group C,46-60,G086,C10,4.0
+P02737,Turkey,Group B,31-45,G015,C06,4.0
+P02738,Saudi Arabia,Independent,18-30,G016,C11,3.3
+P02739,Pakistan,Group A,46-60,G026,C11,4.1
+P02740,Indonesia,Group A,31-45,G024,C12,4.8
+P02741,Saudi Arabia,Independent,18-30,G073,C06,4.1
+P02742,Egypt,Group C,31-45,G077,C04,3.6
+P02743,Turkey,Independent,61+,G067,C01,3.3
+P02744,Bangladesh,Group B,18-30,G035,C11,3.6
+P02745,Saudi Arabia,Group A,31-45,G070,C11,4.4
+P02746,Pakistan,Group A,46-60,G015,C07,4.3
+P02747,Saudi Arabia,Group B,18-30,G057,C01,3.6
+P02748,Nigeria,Group A,18-30,G019,C10,2.7
+P02749,Pakistan,Independent,61+,G010,C04,4.4
+P02750,Bangladesh,Group A,46-60,G020,C07,3.5
+P02751,Saudi Arabia,Independent,18-30,G014,C08,4.5
+P02752,Egypt,Group A,18-30,G058,C02,3.6
+P02753,Turkey,Group A,31-45,G066,C01,3.5
+P02754,Malaysia,Group B,46-60,G073,C01,4.2
+P02755,Bangladesh,Group A,46-60,G053,C12,5.0
+P02756,Nigeria,Group B,18-30,G022,C12,4.6
+P02757,Bangladesh,Group B,46-60,G003,C06,4.2
+P02758,Malaysia,Group C,61+,G086,C06,4.3
+P02759,Indonesia,Group C,18-30,G118,C05,3.0
+P02760,Pakistan,Group A,18-30,G034,C05,3.4
+P02761,Saudi Arabia,Group A,61+,G025,C07,2.5
+P02762,Pakistan,Group A,46-60,G038,C05,5.0
+P02763,Indonesia,Group A,61+,G026,C08,5.0
+P02764,Egypt,Group A,31-45,G027,C05,4.4
+P02765,Saudi Arabia,Group B,31-45,G060,C08,4.2
+P02766,Turkey,Group C,18-30,G095,C12,3.1
+P02767,Indonesia,Group B,18-30,G086,C03,4.0
+P02768,Bangladesh,Group B,31-45,G116,C01,5.0
+P02769,Pakistan,Group B,18-30,G043,C07,4.2
+P02770,Bangladesh,Group C,61+,G060,C02,3.7
+P02771,Malaysia,Group B,46-60,G046,C03,3.0
+P02772,Egypt,Group A,61+,G006,C10,5.0
+P02773,Saudi Arabia,Group B,46-60,G047,C06,4.1
+P02774,Malaysia,Group A,31-45,G032,C07,3.0
+P02775,Turkey,Group B,46-60,G058,C10,3.5
+P02776,Indonesia,Independent,18-30,G019,C02,3.3
+P02777,Turkey,Group B,61+,G089,C06,4.0
+P02778,Bangladesh,Group A,46-60,G102,C01,4.2
+P02779,Pakistan,Group C,18-30,G116,C06,3.8
+P02780,Egypt,Group A,46-60,G011,C03,4.6
+P02781,Indonesia,Group A,46-60,G015,C11,4.2
+P02782,Bangladesh,Group A,18-30,G116,C04,4.8
+P02783,Nigeria,Independent,18-30,G102,C03,3.9
+P02784,Nigeria,Independent,61+,G071,C01,5.0
+P02785,Bangladesh,Group C,31-45,G039,C02,3.7
+P02786,Egypt,Group C,46-60,G063,C03,3.5
+P02787,Indonesia,Group C,18-30,G065,C03,3.4
+P02788,Egypt,Group C,46-60,G102,C09,4.0
+P02789,Egypt,Group C,18-30,G064,C11,3.0
+P02790,Nigeria,Independent,31-45,G004,C11,4.3
+P02791,Bangladesh,Group C,46-60,G084,C12,2.9
+P02792,Saudi Arabia,Group A,31-45,G094,C11,4.2
+P02793,Malaysia,Group B,46-60,G036,C06,3.2
+P02794,Turkey,Independent,18-30,G014,C05,3.9
+P02795,Egypt,Group B,31-45,G018,C08,4.5
+P02796,Bangladesh,Group A,61+,G101,C04,5.0
+P02797,Nigeria,Independent,31-45,G054,C08,3.4
+P02798,Turkey,Group C,18-30,G064,C12,4.0
+P02799,Malaysia,Group C,61+,G116,C03,3.6
+P02800,Pakistan,Group B,61+,G008,C10,3.5
+P02801,Nigeria,Group A,46-60,G025,C12,3.6
+P02802,Pakistan,Group B,61+,G100,C07,4.6
+P02803,Bangladesh,Group B,61+,G065,C05,3.8
+P02804,Egypt,Independent,46-60,G004,C04,5.0
+P02805,Saudi Arabia,Group B,46-60,G085,C03,4.4
+P02806,Bangladesh,Group A,18-30,G017,C04,3.4
+P02807,Indonesia,Group B,46-60,G094,C09,3.9
+P02808,Indonesia,Independent,31-45,G096,C07,3.6
+P02809,Nigeria,Group B,61+,G099,C03,4.6
+P02810,Saudi Arabia,Group B,31-45,G056,C07,3.0
+P02811,Turkey,Group C,61+,G033,C10,3.2
+P02812,Indonesia,Group C,46-60,G106,C01,3.7
+P02813,Saudi Arabia,Group B,46-60,G068,C01,4.5
+P02814,Bangladesh,Independent,61+,G077,C12,4.9
+P02815,Saudi Arabia,Group C,31-45,G017,C09,5.0
+P02816,Egypt,Group A,31-45,G075,C07,4.4
+P02817,Malaysia,Group B,31-45,G070,C11,4.0
+P02818,Nigeria,Independent,61+,G036,C08,4.6
+P02819,Saudi Arabia,Group B,61+,G093,C07,3.4
+P02820,Malaysia,Group C,18-30,G017,C03,2.9
+P02821,Turkey,Group C,31-45,G087,C10,4.4
+P02822,Nigeria,Group C,31-45,G116,C10,3.4
+P02823,Saudi Arabia,Independent,46-60,G069,C04,4.1
+P02824,Bangladesh,Group A,18-30,G013,C09,4.2
+P02825,Turkey,Group C,46-60,G067,C09,4.3
+P02826,Nigeria,Group C,46-60,G064,C02,4.7
+P02827,Indonesia,Group A,18-30,G067,C02,4.6
+P02828,Bangladesh,Group C,18-30,G033,C08,4.2
+P02829,Malaysia,Group A,46-60,G076,C08,3.8
+P02830,Saudi Arabia,Group B,31-45,G032,C08,4.2
+P02831,Bangladesh,Group B,61+,G067,C05,3.7
+P02832,Nigeria,Group A,61+,G072,C11,4.0
+P02833,Indonesia,Independent,61+,G078,C06,5.0
+P02834,Turkey,Group A,46-60,G096,C03,4.2
+P02835,Pakistan,Group B,61+,G106,C02,4.4
+P02836,Turkey,Independent,18-30,G094,C11,3.6
+P02837,Bangladesh,Independent,31-45,G096,C09,4.8
+P02838,Bangladesh,Group A,18-30,G105,C06,4.6
+P02839,Saudi Arabia,Group B,46-60,G030,C03,4.6
+P02840,Bangladesh,Group C,46-60,G036,C02,4.2
+P02841,Pakistan,Independent,31-45,G064,C02,4.8
+P02842,Malaysia,Independent,31-45,G056,C02,4.9
+P02843,Nigeria,Group C,46-60,G085,C07,4.3
+P02844,Pakistan,Group A,18-30,G002,C03,4.0
+P02845,Pakistan,Independent,46-60,G017,C02,4.7
+P02846,Pakistan,Group A,46-60,G090,C04,3.5
+P02847,Nigeria,Group A,18-30,G099,C09,3.6
+P02848,Pakistan,Group C,18-30,G037,C06,4.1
+P02849,Indonesia,Group C,31-45,G038,C02,3.0
+P02850,Indonesia,Group A,46-60,G068,C09,4.6
+P02851,Saudi Arabia,Group A,31-45,G058,C06,3.5
+P02852,Pakistan,Group C,31-45,G021,C03,3.8
+P02853,Egypt,Group B,46-60,G061,C09,4.0
+P02854,Egypt,Group C,18-30,G099,C12,4.1
+P02855,Malaysia,Group B,46-60,G088,C07,3.9
+P02856,Egypt,Group C,18-30,G099,C02,4.1
+P02857,Turkey,Group B,18-30,G078,C04,4.1
+P02858,Nigeria,Group B,18-30,G106,C08,3.8
+P02859,Malaysia,Group B,31-45,G030,C12,3.6
+P02860,Pakistan,Group C,18-30,G006,C12,4.8
+P02861,Saudi Arabia,Group C,61+,G014,C12,2.7
+P02862,Bangladesh,Group C,31-45,G120,C10,4.0
+P02863,Nigeria,Group C,61+,G077,C07,3.8
+P02864,Turkey,Group A,61+,G030,C08,4.4
+P02865,Egypt,Independent,61+,G103,C09,3.2
+P02866,Egypt,Group C,61+,G038,C09,3.8
+P02867,Indonesia,Group C,18-30,G072,C08,4.0
+P02868,Saudi Arabia,Independent,31-45,G030,C02,4.8
+P02869,Nigeria,Independent,46-60,G012,C11,4.3
+P02870,Saudi Arabia,Group C,46-60,G033,C01,3.3
+P02871,Indonesia,Independent,18-30,G028,C06,3.8
+P02872,Bangladesh,Group B,46-60,G067,C06,4.7
+P02873,Nigeria,Group C,61+,G003,C12,3.3
+P02874,Saudi Arabia,Group B,61+,G029,C02,4.0
+P02875,Pakistan,Group C,31-45,G069,C06,4.1
+P02876,Turkey,Group A,18-30,G048,C05,3.8
+P02877,Malaysia,Independent,31-45,G077,C02,5.0
+P02878,Bangladesh,Group A,31-45,G079,C03,3.8
+P02879,Nigeria,Group C,31-45,G116,C06,4.4
+P02880,Bangladesh,Group A,31-45,G101,C11,3.6
+P02881,Egypt,Group A,31-45,G028,C05,4.4
+P02882,Saudi Arabia,Independent,18-30,G084,C11,4.7
+P02883,Turkey,Independent,31-45,G076,C09,3.7
+P02884,Egypt,Group A,31-45,G072,C10,4.1
+P02885,Indonesia,Group A,18-30,G096,C11,3.5
+P02886,Saudi Arabia,Independent,61+,G018,C09,3.4
+P02887,Bangladesh,Independent,46-60,G046,C09,4.8
+P02888,Egypt,Group A,61+,G098,C02,3.7
+P02889,Saudi Arabia,Group C,46-60,G108,C09,2.5
+P02890,Saudi Arabia,Group B,18-30,G005,C01,5.0
+P02891,Saudi Arabia,Group C,61+,G057,C09,3.6
+P02892,Turkey,Group B,31-45,G032,C08,3.9
+P02893,Indonesia,Group A,46-60,G021,C10,5.0
+P02894,Bangladesh,Group B,31-45,G007,C08,4.0
+P02895,Indonesia,Group C,31-45,G065,C05,4.0
+P02896,Turkey,Independent,31-45,G081,C05,3.3
+P02897,Malaysia,Group A,31-45,G064,C08,3.0
+P02898,Malaysia,Independent,46-60,G045,C06,4.0
+P02899,Nigeria,Group C,46-60,G093,C05,4.3
+P02900,Saudi Arabia,Independent,18-30,G079,C06,4.3
+P02901,Turkey,Independent,18-30,G110,C07,3.8
+P02902,Nigeria,Group A,61+,G042,C03,4.1
+P02903,Nigeria,Group A,46-60,G029,C08,2.9
+P02904,Turkey,Independent,61+,G055,C04,4.4
+P02905,Malaysia,Group A,46-60,G061,C04,4.2
+P02906,Nigeria,Group A,46-60,G055,C06,5.0
+P02907,Turkey,Group B,61+,G100,C02,4.1
+P02908,Bangladesh,Independent,46-60,G006,C08,3.5
+P02909,Saudi Arabia,Independent,31-45,G064,C09,4.1
+P02910,Indonesia,Group C,46-60,G052,C12,3.9
+P02911,Egypt,Group A,18-30,G026,C04,4.4
+P02912,Egypt,Group B,31-45,G077,C07,4.1
+P02913,Pakistan,Group C,46-60,G097,C07,3.3
+P02914,Saudi Arabia,Group A,18-30,G066,C09,3.0
+P02915,Pakistan,Group C,46-60,G011,C08,4.3
+P02916,Pakistan,Group A,46-60,G010,C10,5.0
+P02917,Turkey,Group B,31-45,G051,C11,4.2
+P02918,Bangladesh,Group A,18-30,G081,C02,4.6
+P02919,Nigeria,Group C,46-60,G038,C05,4.8
+P02920,Pakistan,Independent,61+,G038,C08,4.3
+P02921,Indonesia,Group A,46-60,G104,C07,3.6
+P02922,Nigeria,Independent,31-45,G002,C06,4.2
+P02923,Egypt,Group C,46-60,G010,C03,4.9
+P02924,Turkey,Independent,31-45,G019,C07,4.4
+P02925,Pakistan,Independent,31-45,G119,C09,4.6
+P02926,Saudi Arabia,Group A,31-45,G060,C01,3.8
+P02927,Turkey,Group C,18-30,G019,C08,4.0
+P02928,Indonesia,Group C,61+,G038,C11,4.0
+P02929,Saudi Arabia,Group A,46-60,G117,C07,4.1
+P02930,Malaysia,Group B,18-30,G084,C12,4.9
+P02931,Saudi Arabia,Independent,61+,G027,C05,2.6
+P02932,Malaysia,Group C,18-30,G029,C01,4.1
+P02933,Saudi Arabia,Group B,46-60,G009,C09,4.0
+P02934,Pakistan,Group B,18-30,G093,C03,3.2
+P02935,Nigeria,Independent,31-45,G017,C01,4.5
+P02936,Saudi Arabia,Group B,46-60,G035,C03,3.6
+P02937,Nigeria,Group A,61+,G042,C12,3.9
+P02938,Malaysia,Group C,61+,G075,C10,5.0
+P02939,Bangladesh,Independent,61+,G073,C04,4.8
+P02940,Saudi Arabia,Group A,18-30,G096,C08,4.5
+P02941,Malaysia,Group B,18-30,G036,C05,4.3
+P02942,Bangladesh,Group B,61+,G047,C03,4.0
+P02943,Nigeria,Group A,61+,G047,C12,5.0
+P02944,Saudi Arabia,Group C,31-45,G006,C10,4.6
+P02945,Nigeria,Group B,18-30,G089,C05,3.6
+P02946,Egypt,Group A,46-60,G065,C05,3.2
+P02947,Turkey,Group B,18-30,G058,C10,4.5
+P02948,Pakistan,Independent,18-30,G120,C06,4.1
+P02949,Turkey,Independent,61+,G022,C05,3.2
+P02950,Turkey,Group C,31-45,G117,C05,4.4
+P02951,Egypt,Group B,18-30,G082,C06,3.9
+P02952,Turkey,Independent,46-60,G027,C07,4.4
+P02953,Bangladesh,Group A,31-45,G082,C01,4.4
+P02954,Pakistan,Group C,46-60,G091,C06,3.7
+P02955,Indonesia,Group C,61+,G044,C06,4.5
+P02956,Bangladesh,Group C,18-30,G042,C04,3.8
+P02957,Egypt,Group A,46-60,G101,C05,3.8
+P02958,Pakistan,Group C,61+,G020,C06,3.8
+P02959,Turkey,Group C,31-45,G002,C05,4.8
+P02960,Pakistan,Independent,61+,G080,C11,3.9
+P02961,Bangladesh,Group A,31-45,G109,C07,5.0
+P02962,Pakistan,Group C,31-45,G061,C07,5.0
+P02963,Bangladesh,Independent,61+,G017,C04,3.6
+P02964,Egypt,Group B,46-60,G065,C11,2.2
+P02965,Malaysia,Group C,61+,G031,C01,4.8
+P02966,Turkey,Group A,61+,G100,C07,3.9
+P02967,Saudi Arabia,Group C,46-60,G074,C03,3.5
+P02968,Saudi Arabia,Group C,18-30,G041,C10,3.7
+P02969,Malaysia,Group A,31-45,G075,C05,3.8
+P02970,Malaysia,Group A,61+,G081,C04,4.9
+P02971,Turkey,Group C,46-60,G082,C01,4.2
+P02972,Egypt,Group A,31-45,G044,C10,4.9
+P02973,Turkey,Group B,31-45,G069,C05,4.4
+P02974,Bangladesh,Group A,61+,G006,C04,3.9
+P02975,Egypt,Independent,18-30,G049,C11,3.8
+P02976,Pakistan,Group C,18-30,G046,C01,4.5
+P02977,Pakistan,Independent,61+,G065,C06,4.6
+P02978,Bangladesh,Group A,31-45,G115,C02,4.7
+P02979,Indonesia,Group A,61+,G115,C02,3.9
+P02980,Pakistan,Group C,46-60,G058,C01,4.2
+P02981,Malaysia,Group C,61+,G078,C03,4.5
+P02982,Egypt,Independent,46-60,G013,C12,3.9
+P02983,Nigeria,Independent,61+,G058,C06,3.4
+P02984,Nigeria,Independent,61+,G083,C12,3.6
+P02985,Malaysia,Group A,18-30,G082,C04,3.9
+P02986,Malaysia,Group B,61+,G116,C10,4.5
+P02987,Malaysia,Independent,46-60,G056,C02,4.9
+P02988,Nigeria,Group C,18-30,G109,C02,3.2
+P02989,Bangladesh,Independent,18-30,G118,C01,3.7
+P02990,Pakistan,Group C,31-45,G069,C11,3.9
+P02991,Pakistan,Group A,18-30,G011,C09,4.6
+P02992,Malaysia,Group B,31-45,G046,C09,3.8
+P02993,Saudi Arabia,Independent,61+,G092,C12,3.8
+P02994,Nigeria,Group C,31-45,G070,C04,3.2
+P02995,Nigeria,Group A,18-30,G113,C09,4.4
+P02996,Malaysia,Group A,31-45,G098,C07,4.0
+P02997,Indonesia,Independent,18-30,G008,C07,3.7
+P02998,Indonesia,Independent,61+,G104,C08,3.9
+P02999,Pakistan,Independent,18-30,G043,C06,4.8
+P03000,Malaysia,Group A,61+,G099,C01,3.4

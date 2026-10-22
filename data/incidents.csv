@@ -1,0 +1,1601 @@
+incident_id,pilgrim_id,incident_type,severity,day,location,response_minutes,resolved
+I00001,P02031,Medical,High,Day 3,Jamarat-Mina,15,Yes
+I00002,P01127,Delay,Low,Day 2,Mina East,13,Yes
+I00003,P01242,Transport Issue,Low,Day 2,Mina South,8,Yes
+I00004,P00896,Transport Issue,Medium,Day 1,Jamarat-Mina,42,Yes
+I00005,P01475,Delay,Low,Day 3,Jamarat-Mina,14,Yes
+I00006,P00708,Service Complaint,High,Day 3,Arafat South,37,Yes
+I00007,P00064,Overcrowding,Critical,Day 2,Muzdalifah North,2,Yes
+I00008,P00770,Delay,Medium,Day 2,Muzdalifah-Internal,2,Yes
+I00009,P01313,Overcrowding,Medium,Day 2,Arafat-Muzdalifah,11,Yes
+I00010,P00908,Service Complaint,Low,Day 1,Muzdalifah North,11,Yes
+I00011,P02473,Lost Group,Medium,Day 4,Mina Central,6,Yes
+I00012,P02334,Delay,Medium,Day 2,Mina Central,6,Yes
+I00013,P00846,Lost Group,Medium,Day 3,Mina Central,9,Yes
+I00014,P00935,Medical,Medium,Day 4,Jamarat West,3,Yes
+I00015,P01793,Lost Group,Medium,Day 5,Muzdalifah-Internal,21,Yes
+I00016,P00310,Transport Issue,Low,Day 2,Mina-Jamarat,12,Yes
+I00017,P02485,Overcrowding,Low,Day 1,Mina South,16,Yes
+I00018,P02084,Service Complaint,Low,Day 2,Mina-Arafat,5,Yes
+I00019,P00464,Medical,High,Day 3,Mina East,5,Yes
+I00020,P02588,Delay,Low,Day 1,Mina Central,12,Yes
+I00021,P00122,Medical,Low,Day 2,Muzdalifah South,10,Yes
+I00022,P00837,Service Complaint,Medium,Day 2,Mina-Jamarat,17,Yes
+I00023,P01718,Service Complaint,Medium,Day 3,Jamarat West,9,Yes
+I00024,P02327,Medical,High,Day 3,Muzdalifah-Mina,13,Yes
+I00025,P00910,Delay,Low,Day 4,Arafat Central,8,Yes
+I00026,P00977,Service Complaint,Low,Day 3,Arafat North,27,Yes
+I00027,P01313,Service Complaint,Low,Day 3,Muzdalifah Central,4,Yes
+I00028,P01312,Service Complaint,Low,Day 2,Mina-Jamarat,2,No
+I00029,P01909,Medical,Low,Day 2,Muzdalifah South,4,Yes
+I00030,P01176,Medical,High,Day 5,Mina North,14,Yes
+I00031,P00005,Service Complaint,Low,Day 3,Jamarat West,21,Yes
+I00032,P00818,Service Complaint,Medium,Day 5,Muzdalifah-Mina,5,Yes
+I00033,P01945,Service Complaint,Low,Day 1,Arafat North,17,Yes
+I00034,P00169,Overcrowding,High,Day 4,Muzdalifah North,9,Yes
+I00035,P02868,Transport Issue,Low,Day 2,Jamarat-Mina,13,Yes
+I00036,P02365,Medical,Low,Day 1,Jamarat East,7,Yes
+I00037,P00855,Medical,Low,Day 4,Mina East,3,Yes
+I00038,P02294,Medical,High,Day 3,Arafat South,19,Yes
+I00039,P00923,Overcrowding,Medium,Day 3,Mina-Arafat,14,Yes
+I00040,P00671,Delay,High,Day 1,Muzdalifah South,15,No
+I00041,P00736,Delay,Low,Day 5,Muzdalifah South,14,Yes
+I00042,P02037,Overcrowding,Low,Day 4,Muzdalifah-Mina,10,Yes
+I00043,P01885,Lost Group,Medium,Day 3,Muzdalifah-Internal,7,Yes
+I00044,P00453,Medical,Medium,Day 1,Mina North,21,Yes
+I00045,P00831,Medical,Medium,Day 2,Arafat North,7,Yes
+I00046,P00071,Overcrowding,Low,Day 1,Mina-Internal,4,Yes
+I00047,P02825,Medical,High,Day 4,Muzdalifah-Mina,9,Yes
+I00048,P01324,Service Complaint,High,Day 1,Muzdalifah South,4,Yes
+I00049,P02086,Transport Issue,Critical,Day 3,Arafat Central,15,Yes
+I00050,P01934,Overcrowding,Low,Day 3,Muzdalifah South,15,Yes
+I00051,P01545,Delay,Medium,Day 5,Arafat South,12,Yes
+I00052,P00851,Medical,Low,Day 1,Muzdalifah Central,15,Yes
+I00053,P02522,Delay,Low,Day 5,Arafat Central,22,Yes
+I00054,P02338,Overcrowding,Medium,Day 4,Muzdalifah-Internal,13,Yes
+I00055,P02278,Medical,Low,Day 3,Arafat Central,14,Yes
+I00056,P01251,Transport Issue,Low,Day 1,Mina-Jamarat,8,Yes
+I00057,P00856,Medical,Medium,Day 1,Mina-Jamarat,7,Yes
+I00058,P02152,Transport Issue,Medium,Day 2,Jamarat-Mina,5,Yes
+I00059,P01492,Delay,Medium,Day 5,Arafat-Internal,7,Yes
+I00060,P02583,Lost Group,Low,Day 5,Arafat South,10,Yes
+I00061,P00022,Transport Issue,High,Day 3,Mina South,8,Yes
+I00062,P00811,Lost Group,Medium,Day 2,Arafat-Internal,6,Yes
+I00063,P01250,Delay,Low,Day 5,Arafat-Muzdalifah,9,Yes
+I00064,P00927,Overcrowding,Low,Day 3,Jamarat East,9,Yes
+I00065,P00382,Service Complaint,Critical,Day 1,Jamarat East,16,Yes
+I00066,P02212,Service Complaint,High,Day 3,Arafat-Internal,18,Yes
+I00067,P02717,Medical,Low,Day 4,Jamarat-Mina,22,Yes
+I00068,P01219,Delay,High,Day 3,Mina East,2,No
+I00069,P01638,Transport Issue,Low,Day 5,Jamarat East,11,Yes
+I00070,P02379,Medical,Medium,Day 2,Arafat-Internal,2,Yes
+I00071,P01871,Transport Issue,Medium,Day 3,Arafat-Muzdalifah,9,Yes
+I00072,P01192,Lost Group,High,Day 1,Mina Central,21,Yes
+I00073,P02439,Delay,Low,Day 1,Mina-Internal,16,Yes
+I00074,P00069,Overcrowding,Low,Day 5,Muzdalifah South,22,Yes
+I00075,P00818,Service Complaint,Medium,Day 5,Mina-Jamarat,2,Yes
+I00076,P00720,Transport Issue,High,Day 5,Mina South,14,Yes
+I00077,P02001,Delay,Medium,Day 4,Arafat North,2,Yes
+I00078,P00061,Overcrowding,Critical,Day 5,Mina-Jamarat,8,Yes
+I00079,P00481,Service Complaint,Low,Day 1,Mina East,26,Yes
+I00080,P01171,Lost Group,Low,Day 1,Arafat North,15,Yes
+I00081,P01945,Transport Issue,Critical,Day 2,Mina-Arafat,17,Yes
+I00082,P02787,Overcrowding,Medium,Day 2,Muzdalifah North,12,Yes
+I00083,P01118,Overcrowding,Medium,Day 3,Mina Central,4,Yes
+I00084,P01354,Transport Issue,Low,Day 4,Arafat North,14,Yes
+I00085,P02729,Overcrowding,Low,Day 2,Muzdalifah-Internal,20,Yes
+I00086,P01597,Medical,Critical,Day 1,Mina-Internal,7,Yes
+I00087,P01249,Medical,Medium,Day 3,Mina South,22,Yes
+I00088,P02952,Overcrowding,High,Day 5,Jamarat-Mina,2,Yes
+I00089,P01500,Transport Issue,Medium,Day 5,Mina-Arafat,4,Yes
+I00090,P00236,Delay,Low,Day 5,Jamarat West,4,Yes
+I00091,P02593,Overcrowding,Critical,Day 4,Mina-Arafat,7,Yes
+I00092,P01190,Lost Group,Low,Day 1,Mina-Jamarat,17,Yes
+I00093,P02569,Medical,High,Day 1,Arafat North,2,Yes
+I00094,P00176,Overcrowding,Low,Day 4,Arafat North,17,Yes
+I00095,P01390,Medical,Critical,Day 2,Muzdalifah-Mina,15,Yes
+I00096,P00319,Overcrowding,Low,Day 2,Jamarat West,3,Yes
+I00097,P02011,Delay,Low,Day 3,Muzdalifah North,4,Yes
+I00098,P01122,Service Complaint,Low,Day 4,Muzdalifah Central,3,Yes
+I00099,P02401,Service Complaint,Low,Day 5,Arafat South,2,Yes
+I00100,P02188,Medical,High,Day 4,Muzdalifah North,5,Yes
+I00101,P02094,Lost Group,Medium,Day 3,Arafat-Internal,2,Yes
+I00102,P00219,Transport Issue,Low,Day 2,Muzdalifah South,10,Yes
+I00103,P00677,Medical,Low,Day 4,Jamarat East,5,Yes
+I00104,P00094,Service Complaint,Low,Day 4,Mina East,6,Yes
+I00105,P01896,Delay,High,Day 3,Mina Central,2,Yes
+I00106,P01719,Medical,Medium,Day 2,Mina South,9,Yes
+I00107,P00465,Overcrowding,High,Day 5,Mina-Internal,11,Yes
+I00108,P01626,Delay,Low,Day 3,Arafat-Muzdalifah,3,Yes
+I00109,P02818,Overcrowding,High,Day 5,Mina East,9,Yes
+I00110,P02108,Service Complaint,Low,Day 2,Arafat South,10,Yes
+I00111,P01070,Medical,Low,Day 3,Jamarat East,63,Yes
+I00112,P00094,Delay,Medium,Day 1,Mina North,10,Yes
+I00113,P00844,Transport Issue,Low,Day 5,Muzdalifah Central,21,Yes
+I00114,P01580,Overcrowding,Medium,Day 3,Jamarat West,18,Yes
+I00115,P02018,Delay,High,Day 4,Mina Central,16,Yes
+I00116,P01751,Delay,Medium,Day 1,Muzdalifah North,6,Yes
+I00117,P01396,Service Complaint,Medium,Day 4,Muzdalifah-Internal,17,Yes
+I00118,P02603,Service Complaint,Low,Day 1,Mina East,5,Yes
+I00119,P01634,Lost Group,Medium,Day 2,Arafat Central,4,Yes
+I00120,P00703,Delay,Low,Day 5,Mina-Internal,16,Yes
+I00121,P01676,Overcrowding,Low,Day 3,Arafat-Muzdalifah,20,Yes
+I00122,P01798,Delay,Medium,Day 5,Arafat-Muzdalifah,7,Yes
+I00123,P00255,Delay,Low,Day 2,Mina North,7,Yes
+I00124,P01805,Medical,Medium,Day 3,Muzdalifah-Internal,10,Yes
+I00125,P00441,Lost Group,Medium,Day 1,Muzdalifah-Internal,17,Yes
+I00126,P00208,Service Complaint,Medium,Day 3,Muzdalifah-Internal,13,Yes
+I00127,P00179,Delay,Low,Day 2,Mina-Jamarat,25,Yes
+I00128,P02513,Delay,High,Day 3,Mina North,14,Yes
+I00129,P01169,Lost Group,Low,Day 5,Muzdalifah-Internal,2,Yes
+I00130,P02334,Delay,High,Day 5,Mina-Internal,6,Yes
+I00131,P02820,Lost Group,Medium,Day 2,Mina Central,7,Yes
+I00132,P02418,Delay,Medium,Day 3,Jamarat West,9,Yes
+I00133,P00777,Overcrowding,Low,Day 1,Mina Central,5,Yes
+I00134,P00044,Overcrowding,Medium,Day 3,Arafat South,5,No
+I00135,P01569,Overcrowding,Low,Day 4,Arafat-Muzdalifah,13,Yes
+I00136,P00207,Overcrowding,High,Day 3,Muzdalifah-Internal,15,Yes
+I00137,P01803,Overcrowding,Medium,Day 5,Jamarat-Mina,8,Yes
+I00138,P00090,Medical,Medium,Day 3,Muzdalifah-Internal,20,Yes
+I00139,P02267,Overcrowding,Medium,Day 5,Mina-Internal,7,Yes
+I00140,P02268,Overcrowding,Critical,Day 3,Jamarat East,8,Yes
+I00141,P02618,Transport Issue,Medium,Day 3,Mina-Jamarat,5,Yes
+I00142,P01359,Delay,High,Day 5,Arafat South,5,Yes
+I00143,P01404,Delay,Low,Day 1,Muzdalifah-Internal,4,Yes
+I00144,P01013,Delay,Medium,Day 2,Arafat South,4,Yes
+I00145,P01334,Lost Group,Low,Day 1,Muzdalifah North,2,Yes
+I00146,P01828,Transport Issue,High,Day 5,Jamarat East,10,Yes
+I00147,P01636,Service Complaint,Low,Day 5,Jamarat-Mina,10,Yes
+I00148,P00168,Medical,Medium,Day 3,Jamarat West,13,Yes
+I00149,P02159,Service Complaint,High,Day 5,Muzdalifah-Mina,6,Yes
+I00150,P02176,Service Complaint,High,Day 2,Muzdalifah South,10,Yes
+I00151,P02812,Overcrowding,Low,Day 3,Arafat-Internal,10,Yes
+I00152,P02675,Overcrowding,Low,Day 1,Jamarat East,7,Yes
+I00153,P00636,Delay,Medium,Day 2,Muzdalifah North,4,Yes
+I00154,P01103,Overcrowding,High,Day 5,Arafat South,6,Yes
+I00155,P01811,Overcrowding,Low,Day 4,Mina Central,27,Yes
+I00156,P01915,Lost Group,Low,Day 3,Jamarat-Mina,16,Yes
+I00157,P00793,Overcrowding,Low,Day 5,Muzdalifah-Mina,7,Yes
+I00158,P00299,Service Complaint,High,Day 4,Jamarat West,4,No
+I00159,P01224,Delay,High,Day 5,Arafat South,31,No
+I00160,P01880,Service Complaint,Medium,Day 4,Muzdalifah North,13,Yes
+I00161,P00580,Overcrowding,Low,Day 4,Arafat North,5,Yes
+I00162,P01702,Delay,Medium,Day 1,Jamarat-Mina,25,Yes
+I00163,P01576,Delay,Medium,Day 2,Jamarat West,9,Yes
+I00164,P02103,Overcrowding,Low,Day 1,Mina-Jamarat,12,Yes
+I00165,P00679,Lost Group,Low,Day 1,Mina North,17,Yes
+I00166,P01684,Service Complaint,Critical,Day 4,Muzdalifah-Mina,9,Yes
+I00167,P00067,Delay,Medium,Day 5,Mina North,2,Yes
+I00168,P02321,Transport Issue,Medium,Day 3,Mina Central,3,Yes
+I00169,P01588,Lost Group,Low,Day 3,Jamarat-Mina,5,Yes
+I00170,P00323,Medical,Medium,Day 2,Arafat Central,14,Yes
+I00171,P00011,Transport Issue,Critical,Day 1,Muzdalifah-Mina,20,Yes
+I00172,P02934,Medical,High,Day 2,Muzdalifah Central,11,Yes
+I00173,P02638,Service Complaint,High,Day 5,Mina-Arafat,16,Yes
+I00174,P00901,Lost Group,Low,Day 5,Mina South,5,No
+I00175,P01950,Transport Issue,Low,Day 4,Muzdalifah-Mina,7,Yes
+I00176,P01934,Transport Issue,High,Day 1,Mina North,5,Yes
+I00177,P00863,Transport Issue,Low,Day 1,Jamarat-Mina,11,Yes
+I00178,P00707,Lost Group,Low,Day 5,Arafat Central,20,Yes
+I00179,P00718,Medical,Low,Day 5,Muzdalifah South,14,Yes
+I00180,P01769,Transport Issue,High,Day 4,Muzdalifah South,5,Yes
+I00181,P00235,Transport Issue,High,Day 5,Muzdalifah Central,5,Yes
+I00182,P01845,Service Complaint,Low,Day 2,Muzdalifah North,10,Yes
+I00183,P02596,Lost Group,Medium,Day 2,Mina-Arafat,8,Yes
+I00184,P02059,Transport Issue,Low,Day 3,Mina-Internal,2,Yes
+I00185,P01323,Lost Group,Medium,Day 2,Muzdalifah-Internal,5,Yes
+I00186,P01833,Lost Group,Low,Day 4,Mina-Jamarat,15,Yes
+I00187,P00596,Lost Group,Medium,Day 2,Arafat-Internal,3,Yes
+I00188,P01472,Medical,High,Day 2,Mina-Jamarat,7,No
+I00189,P01626,Delay,High,Day 1,Muzdalifah Central,17,Yes
+I00190,P01285,Service Complaint,Low,Day 4,Mina East,8,Yes
+I00191,P02786,Transport Issue,Medium,Day 3,Mina-Jamarat,3,Yes
+I00192,P02046,Service Complaint,Low,Day 3,Mina-Internal,9,Yes
+I00193,P00209,Lost Group,Medium,Day 2,Arafat-Muzdalifah,2,Yes
+I00194,P01990,Overcrowding,High,Day 2,Muzdalifah-Internal,2,Yes
+I00195,P02652,Transport Issue,Low,Day 5,Jamarat East,16,Yes
+I00196,P01110,Medical,Low,Day 5,Muzdalifah Central,12,Yes
+I00197,P02729,Service Complaint,Critical,Day 4,Arafat North,5,Yes
+I00198,P02143,Overcrowding,Low,Day 1,Jamarat East,11,Yes
+I00199,P00652,Transport Issue,Medium,Day 2,Muzdalifah Central,14,Yes
+I00200,P01792,Overcrowding,Low,Day 4,Muzdalifah Central,5,Yes
+I00201,P02980,Overcrowding,Low,Day 3,Muzdalifah North,22,Yes
+I00202,P02197,Medical,High,Day 3,Arafat North,10,Yes
+I00203,P00484,Overcrowding,Medium,Day 1,Arafat North,2,Yes
+I00204,P01992,Lost Group,Critical,Day 2,Arafat North,9,Yes
+I00205,P01091,Delay,Low,Day 1,Mina-Jamarat,5,Yes
+I00206,P01393,Transport Issue,Low,Day 1,Arafat South,10,Yes
+I00207,P02226,Lost Group,Low,Day 2,Jamarat-Mina,15,Yes
+I00208,P02131,Transport Issue,Low,Day 3,Muzdalifah North,3,Yes
+I00209,P01048,Overcrowding,High,Day 5,Mina East,11,Yes
+I00210,P02284,Delay,Low,Day 4,Mina Central,24,Yes
+I00211,P02035,Overcrowding,Critical,Day 1,Muzdalifah South,8,Yes
+I00212,P02958,Delay,Low,Day 5,Mina South,4,Yes
+I00213,P02740,Service Complaint,High,Day 4,Jamarat-Mina,12,Yes
+I00214,P01822,Overcrowding,Low,Day 5,Mina-Arafat,2,Yes
+I00215,P01553,Lost Group,Low,Day 4,Muzdalifah South,3,No
+I00216,P01897,Overcrowding,Medium,Day 1,Mina-Arafat,4,Yes
+I00217,P01964,Medical,Low,Day 2,Mina North,6,Yes
+I00218,P00628,Service Complaint,Low,Day 4,Mina East,9,No
+I00219,P02964,Medical,Medium,Day 3,Jamarat East,18,Yes
+I00220,P01695,Lost Group,Low,Day 1,Arafat North,12,Yes
+I00221,P00489,Medical,High,Day 4,Mina-Internal,14,Yes
+I00222,P02117,Medical,Low,Day 4,Jamarat East,16,Yes
+I00223,P02097,Overcrowding,Medium,Day 4,Mina-Jamarat,6,Yes
+I00224,P01305,Lost Group,High,Day 4,Arafat-Muzdalifah,16,Yes
+I00225,P02997,Lost Group,Low,Day 1,Jamarat West,5,Yes
+I00226,P01939,Service Complaint,High,Day 1,Arafat-Internal,7,No
+I00227,P01553,Delay,Low,Day 2,Jamarat East,9,Yes
+I00228,P00387,Overcrowding,Low,Day 1,Arafat-Internal,9,Yes
+I00229,P02776,Lost Group,Medium,Day 2,Mina North,17,Yes
+I00230,P00913,Overcrowding,Low,Day 5,Arafat South,25,Yes
+I00231,P00220,Lost Group,Medium,Day 5,Mina East,9,Yes
+I00232,P02150,Delay,Low,Day 1,Arafat Central,33,Yes
+I00233,P02884,Overcrowding,Low,Day 4,Muzdalifah North,11,Yes
+I00234,P02785,Transport Issue,Low,Day 2,Muzdalifah North,11,Yes
+I00235,P01649,Service Complaint,Medium,Day 4,Jamarat-Mina,13,Yes
+I00236,P01525,Medical,High,Day 4,Mina-Internal,15,Yes
+I00237,P01202,Delay,Medium,Day 1,Jamarat West,19,Yes
+I00238,P00344,Overcrowding,Low,Day 3,Arafat North,8,Yes
+I00239,P02754,Lost Group,Medium,Day 4,Arafat Central,11,Yes
+I00240,P01167,Delay,Medium,Day 2,Mina-Jamarat,4,No
+I00241,P00381,Overcrowding,Low,Day 2,Mina North,9,Yes
+I00242,P02994,Overcrowding,Medium,Day 5,Arafat Central,4,Yes
+I00243,P00131,Delay,Medium,Day 1,Muzdalifah-Internal,6,Yes
+I00244,P00729,Lost Group,Medium,Day 4,Jamarat East,17,Yes
+I00245,P00605,Medical,High,Day 1,Jamarat East,20,Yes
+I00246,P02405,Service Complaint,High,Day 3,Muzdalifah South,4,Yes
+I00247,P02260,Lost Group,High,Day 2,Mina-Internal,3,Yes
+I00248,P01716,Delay,Medium,Day 5,Muzdalifah-Mina,18,Yes
+I00249,P01475,Medical,High,Day 3,Muzdalifah North,16,Yes
+I00250,P02789,Lost Group,Critical,Day 5,Arafat-Muzdalifah,7,Yes
+I00251,P00566,Service Complaint,Low,Day 5,Arafat-Muzdalifah,3,Yes
+I00252,P01632,Medical,Low,Day 3,Jamarat East,28,Yes
+I00253,P00651,Lost Group,Medium,Day 2,Mina Central,18,Yes
+I00254,P02431,Medical,High,Day 4,Jamarat West,30,Yes
+I00255,P00791,Lost Group,Medium,Day 3,Muzdalifah North,19,No
+I00256,P01860,Service Complaint,Medium,Day 2,Mina-Arafat,22,Yes
+I00257,P02973,Delay,Medium,Day 4,Mina-Jamarat,10,Yes
+I00258,P00384,Service Complaint,Low,Day 1,Jamarat-Mina,11,Yes
+I00259,P00413,Lost Group,Medium,Day 3,Arafat-Internal,16,Yes
+I00260,P01564,Lost Group,High,Day 2,Arafat Central,13,Yes
+I00261,P00318,Transport Issue,High,Day 2,Muzdalifah Central,5,Yes
+I00262,P01472,Overcrowding,High,Day 5,Muzdalifah Central,3,Yes
+I00263,P00805,Medical,Medium,Day 1,Arafat North,21,Yes
+I00264,P02540,Service Complaint,Low,Day 2,Mina-Arafat,7,Yes
+I00265,P01096,Lost Group,Medium,Day 2,Jamarat-Mina,15,Yes
+I00266,P02827,Overcrowding,Low,Day 1,Muzdalifah-Internal,14,Yes
+I00267,P02166,Service Complaint,Medium,Day 5,Mina North,19,Yes
+I00268,P02138,Lost Group,High,Day 3,Mina-Jamarat,8,Yes
+I00269,P02330,Overcrowding,Medium,Day 3,Arafat North,14,Yes
+I00270,P01266,Medical,Medium,Day 2,Mina-Jamarat,21,Yes
+I00271,P01541,Lost Group,Medium,Day 1,Arafat North,9,Yes
+I00272,P00741,Delay,Low,Day 3,Mina East,3,Yes
+I00273,P00196,Delay,Medium,Day 1,Jamarat East,8,Yes
+I00274,P00889,Medical,Medium,Day 5,Muzdalifah-Mina,7,Yes
+I00275,P00315,Transport Issue,Medium,Day 4,Mina East,4,Yes
+I00276,P00614,Overcrowding,Low,Day 4,Mina Central,5,Yes
+I00277,P02008,Lost Group,Medium,Day 3,Mina-Arafat,12,Yes
+I00278,P00465,Lost Group,High,Day 1,Mina North,21,Yes
+I00279,P02721,Delay,Medium,Day 3,Muzdalifah South,22,Yes
+I00280,P00258,Medical,High,Day 5,Muzdalifah Central,9,Yes
+I00281,P01937,Transport Issue,Medium,Day 1,Mina North,3,Yes
+I00282,P01743,Lost Group,Medium,Day 1,Mina-Jamarat,10,Yes
+I00283,P01677,Lost Group,Low,Day 3,Mina North,10,Yes
+I00284,P02980,Service Complaint,Medium,Day 2,Mina-Jamarat,5,Yes
+I00285,P00250,Overcrowding,Low,Day 2,Muzdalifah-Internal,13,Yes
+I00286,P01988,Delay,Low,Day 3,Arafat North,18,Yes
+I00287,P01981,Service Complaint,High,Day 2,Jamarat-Mina,15,Yes
+I00288,P02839,Transport Issue,High,Day 4,Arafat North,5,Yes
+I00289,P02618,Overcrowding,High,Day 4,Mina-Arafat,9,Yes
+I00290,P01517,Lost Group,Low,Day 5,Jamarat-Mina,7,Yes
+I00291,P02985,Overcrowding,Low,Day 4,Muzdalifah-Mina,7,No
+I00292,P01956,Medical,Medium,Day 3,Muzdalifah-Mina,27,Yes
+I00293,P00202,Lost Group,High,Day 5,Mina-Arafat,3,Yes
+I00294,P00569,Transport Issue,Medium,Day 3,Muzdalifah-Mina,2,Yes
+I00295,P02123,Medical,Medium,Day 1,Jamarat-Mina,10,Yes
+I00296,P00034,Service Complaint,Medium,Day 4,Mina East,13,Yes
+I00297,P02058,Medical,Medium,Day 5,Arafat North,4,Yes
+I00298,P00279,Delay,Medium,Day 1,Arafat-Internal,6,Yes
+I00299,P02942,Medical,High,Day 4,Mina East,10,Yes
+I00300,P01084,Delay,Low,Day 4,Mina-Internal,2,Yes
+I00301,P00821,Delay,Low,Day 1,Mina East,19,Yes
+I00302,P02926,Medical,Medium,Day 2,Arafat South,22,Yes
+I00303,P01065,Delay,Medium,Day 1,Mina North,2,Yes
+I00304,P01197,Overcrowding,Medium,Day 2,Arafat-Muzdalifah,9,Yes
+I00305,P00224,Transport Issue,Low,Day 2,Arafat-Muzdalifah,11,Yes
+I00306,P00194,Service Complaint,Medium,Day 2,Mina-Internal,7,Yes
+I00307,P01567,Lost Group,Medium,Day 5,Mina-Jamarat,21,Yes
+I00308,P00596,Overcrowding,Low,Day 1,Mina-Jamarat,45,Yes
+I00309,P02454,Lost Group,High,Day 2,Muzdalifah South,10,Yes
+I00310,P01527,Overcrowding,Critical,Day 2,Jamarat East,15,Yes
+I00311,P01047,Transport Issue,Medium,Day 2,Arafat-Muzdalifah,8,Yes
+I00312,P01842,Service Complaint,Medium,Day 4,Mina East,16,Yes
+I00313,P01437,Lost Group,Medium,Day 2,Mina East,7,Yes
+I00314,P02717,Overcrowding,Low,Day 5,Arafat North,17,Yes
+I00315,P02632,Medical,High,Day 2,Muzdalifah-Internal,7,Yes
+I00316,P02422,Lost Group,Low,Day 2,Arafat Central,14,Yes
+I00317,P02806,Delay,Low,Day 4,Muzdalifah North,8,Yes
+I00318,P01223,Lost Group,Low,Day 3,Mina East,14,Yes
+I00319,P02941,Transport Issue,Low,Day 2,Jamarat East,11,Yes
+I00320,P02094,Medical,Low,Day 3,Muzdalifah-Mina,4,Yes
+I00321,P00148,Transport Issue,Low,Day 3,Mina-Internal,29,Yes
+I00322,P01292,Lost Group,Medium,Day 3,Arafat North,5,Yes
+I00323,P02479,Lost Group,Medium,Day 1,Arafat North,21,Yes
+I00324,P01782,Lost Group,Low,Day 5,Mina East,9,Yes
+I00325,P02663,Overcrowding,Medium,Day 2,Arafat South,10,Yes
+I00326,P02178,Medical,High,Day 4,Muzdalifah North,2,Yes
+I00327,P01311,Transport Issue,Low,Day 3,Arafat Central,32,Yes
+I00328,P00381,Lost Group,Medium,Day 5,Mina Central,8,Yes
+I00329,P01825,Overcrowding,Low,Day 5,Muzdalifah-Mina,4,Yes
+I00330,P00951,Overcrowding,Medium,Day 4,Mina-Jamarat,4,Yes
+I00331,P02352,Medical,Low,Day 5,Mina East,19,Yes
+I00332,P01049,Service Complaint,Low,Day 1,Mina-Jamarat,24,No
+I00333,P01494,Transport Issue,Low,Day 3,Arafat Central,5,Yes
+I00334,P00970,Medical,Low,Day 1,Arafat-Muzdalifah,8,Yes
+I00335,P02920,Medical,Critical,Day 5,Mina-Jamarat,2,Yes
+I00336,P02537,Lost Group,Medium,Day 4,Mina North,12,Yes
+I00337,P01035,Overcrowding,High,Day 4,Muzdalifah North,6,Yes
+I00338,P02948,Medical,High,Day 5,Mina East,11,Yes
+I00339,P02543,Transport Issue,Low,Day 1,Mina-Arafat,26,Yes
+I00340,P00897,Transport Issue,Low,Day 4,Muzdalifah-Internal,14,Yes
+I00341,P01296,Lost Group,Low,Day 3,Mina South,8,Yes
+I00342,P00086,Service Complaint,High,Day 2,Mina-Arafat,19,Yes
+I00343,P02077,Service Complaint,Medium,Day 4,Muzdalifah Central,9,Yes
+I00344,P02263,Overcrowding,Medium,Day 3,Muzdalifah North,6,Yes
+I00345,P00193,Overcrowding,Critical,Day 4,Muzdalifah-Internal,20,Yes
+I00346,P01287,Overcrowding,Medium,Day 2,Arafat-Muzdalifah,14,Yes
+I00347,P00121,Transport Issue,High,Day 1,Jamarat West,16,Yes
+I00348,P01542,Medical,Medium,Day 2,Mina Central,14,Yes
+I00349,P00641,Delay,High,Day 1,Arafat-Internal,6,Yes
+I00350,P01358,Overcrowding,High,Day 5,Arafat-Muzdalifah,17,Yes
+I00351,P00497,Delay,Low,Day 1,Jamarat East,2,No
+I00352,P00353,Transport Issue,Medium,Day 5,Muzdalifah-Internal,23,Yes
+I00353,P01259,Service Complaint,Low,Day 3,Mina-Arafat,2,Yes
+I00354,P02296,Lost Group,Medium,Day 2,Mina East,16,Yes
+I00355,P00340,Lost Group,Low,Day 1,Mina Central,23,Yes
+I00356,P02697,Transport Issue,Medium,Day 1,Muzdalifah Central,13,Yes
+I00357,P02843,Overcrowding,Low,Day 3,Arafat-Internal,12,No
+I00358,P01534,Transport Issue,Low,Day 1,Arafat South,28,Yes
+I00359,P00582,Medical,Low,Day 1,Jamarat West,2,Yes
+I00360,P01517,Transport Issue,Medium,Day 2,Arafat North,13,Yes
+I00361,P02853,Overcrowding,Medium,Day 5,Arafat-Muzdalifah,12,Yes
+I00362,P00580,Overcrowding,Medium,Day 4,Jamarat East,15,Yes
+I00363,P00463,Overcrowding,Medium,Day 4,Mina Central,4,Yes
+I00364,P02634,Delay,High,Day 2,Muzdalifah-Internal,5,Yes
+I00365,P00563,Lost Group,Low,Day 4,Mina-Arafat,12,Yes
+I00366,P02084,Service Complaint,Low,Day 5,Jamarat East,10,Yes
+I00367,P01853,Service Complaint,Medium,Day 2,Mina North,10,Yes
+I00368,P02175,Service Complaint,Medium,Day 1,Mina North,8,Yes
+I00369,P00269,Overcrowding,Medium,Day 1,Mina South,8,Yes
+I00370,P01302,Service Complaint,Low,Day 3,Mina-Jamarat,3,Yes
+I00371,P02683,Transport Issue,Low,Day 5,Arafat-Muzdalifah,5,Yes
+I00372,P02838,Service Complaint,Medium,Day 4,Muzdalifah-Mina,6,Yes
+I00373,P00368,Overcrowding,Critical,Day 1,Mina South,6,Yes
+I00374,P02531,Service Complaint,Medium,Day 2,Muzdalifah-Mina,4,Yes
+I00375,P01328,Service Complaint,Medium,Day 4,Muzdalifah Central,9,Yes
+I00376,P00639,Lost Group,Medium,Day 4,Muzdalifah-Internal,21,Yes
+I00377,P02701,Transport Issue,Low,Day 2,Mina-Arafat,6,Yes
+I00378,P02051,Delay,Medium,Day 3,Mina-Internal,9,Yes
+I00379,P00502,Overcrowding,High,Day 3,Arafat South,19,Yes
+I00380,P01983,Delay,Low,Day 4,Muzdalifah South,13,Yes
+I00381,P02340,Transport Issue,Low,Day 3,Mina South,16,Yes
+I00382,P02340,Delay,Critical,Day 2,Muzdalifah South,16,Yes
+I00383,P02289,Overcrowding,High,Day 4,Arafat Central,12,Yes
+I00384,P00470,Transport Issue,High,Day 5,Mina Central,5,Yes
+I00385,P01250,Overcrowding,Low,Day 1,Arafat Central,5,Yes
+I00386,P01609,Lost Group,Medium,Day 1,Mina-Arafat,17,Yes
+I00387,P02294,Service Complaint,Low,Day 4,Muzdalifah-Mina,4,Yes
+I00388,P01455,Lost Group,Medium,Day 2,Muzdalifah North,4,Yes
+I00389,P01333,Transport Issue,Critical,Day 4,Jamarat-Mina,12,Yes
+I00390,P00430,Transport Issue,Low,Day 2,Muzdalifah-Mina,4,Yes
+I00391,P01393,Delay,Medium,Day 5,Mina-Internal,13,Yes
+I00392,P02324,Lost Group,Medium,Day 1,Jamarat West,12,Yes
+I00393,P00019,Service Complaint,Low,Day 5,Jamarat-Mina,21,Yes
+I00394,P00092,Overcrowding,Low,Day 2,Muzdalifah Central,6,Yes
+I00395,P02203,Delay,High,Day 1,Arafat Central,21,Yes
+I00396,P00241,Overcrowding,Low,Day 5,Jamarat West,6,Yes
+I00397,P01742,Lost Group,Critical,Day 4,Mina Central,17,Yes
+I00398,P02138,Lost Group,High,Day 4,Arafat Central,20,Yes
+I00399,P02348,Transport Issue,Low,Day 1,Mina-Jamarat,29,Yes
+I00400,P02755,Medical,Low,Day 5,Muzdalifah Central,11,Yes
+I00401,P01762,Service Complaint,Low,Day 5,Jamarat-Mina,9,Yes
+I00402,P00226,Medical,High,Day 3,Arafat South,27,Yes
+I00403,P00166,Overcrowding,Low,Day 4,Arafat South,2,Yes
+I00404,P01628,Overcrowding,Low,Day 3,Jamarat-Mina,4,Yes
+I00405,P00325,Transport Issue,Low,Day 2,Arafat-Internal,8,Yes
+I00406,P01835,Overcrowding,Medium,Day 1,Mina South,11,Yes
+I00407,P00410,Medical,Medium,Day 5,Arafat North,5,Yes
+I00408,P01334,Medical,Medium,Day 2,Arafat-Muzdalifah,15,Yes
+I00409,P02927,Delay,Low,Day 1,Mina South,23,No
+I00410,P01429,Service Complaint,High,Day 5,Mina South,8,Yes
+I00411,P00078,Medical,Medium,Day 5,Mina East,2,Yes
+I00412,P01358,Transport Issue,Medium,Day 5,Muzdalifah Central,13,Yes
+I00413,P02084,Medical,Medium,Day 1,Muzdalifah North,24,Yes
+I00414,P02507,Overcrowding,Low,Day 4,Arafat Central,5,Yes
+I00415,P02559,Transport Issue,Low,Day 5,Mina Central,6,Yes
+I00416,P02732,Medical,Low,Day 2,Arafat-Internal,7,Yes
+I00417,P00540,Medical,Low,Day 3,Mina North,14,Yes
+I00418,P00222,Medical,Critical,Day 5,Jamarat West,10,Yes
+I00419,P02557,Overcrowding,Medium,Day 4,Mina-Jamarat,15,No
+I00420,P00321,Medical,Medium,Day 4,Jamarat West,11,Yes
+I00421,P02087,Transport Issue,Low,Day 4,Jamarat-Mina,3,Yes
+I00422,P01382,Overcrowding,Medium,Day 2,Muzdalifah-Mina,9,Yes
+I00423,P00751,Transport Issue,Low,Day 3,Jamarat East,25,Yes
+I00424,P01948,Transport Issue,Medium,Day 3,Mina-Arafat,9,Yes
+I00425,P02511,Transport Issue,Medium,Day 5,Arafat Central,4,Yes
+I00426,P01941,Lost Group,Low,Day 3,Mina Central,7,Yes
+I00427,P01963,Medical,Critical,Day 3,Arafat North,7,Yes
+I00428,P02488,Transport Issue,High,Day 5,Jamarat West,7,Yes
+I00429,P00176,Medical,Medium,Day 5,Muzdalifah North,2,Yes
+I00430,P02701,Overcrowding,High,Day 1,Jamarat-Mina,14,Yes
+I00431,P02292,Medical,Low,Day 1,Muzdalifah-Internal,5,Yes
+I00432,P01427,Medical,Low,Day 1,Arafat-Internal,6,No
+I00433,P00175,Transport Issue,Low,Day 3,Mina East,24,Yes
+I00434,P02479,Delay,Medium,Day 1,Mina South,11,Yes
+I00435,P00037,Service Complaint,Low,Day 4,Jamarat East,8,Yes
+I00436,P01442,Overcrowding,Low,Day 5,Mina South,10,Yes
+I00437,P00700,Delay,Medium,Day 4,Muzdalifah-Mina,2,Yes
+I00438,P02942,Delay,Low,Day 1,Jamarat-Mina,18,Yes
+I00439,P01447,Medical,Medium,Day 5,Mina-Jamarat,14,Yes
+I00440,P01201,Service Complaint,Low,Day 2,Mina East,2,Yes
+I00441,P02761,Delay,Low,Day 3,Mina South,2,Yes
+I00442,P00913,Overcrowding,Low,Day 2,Mina Central,16,Yes
+I00443,P01261,Transport Issue,High,Day 4,Arafat South,4,Yes
+I00444,P02288,Lost Group,Low,Day 2,Mina-Arafat,20,Yes
+I00445,P01131,Delay,Medium,Day 4,Mina Central,6,No
+I00446,P00369,Transport Issue,Medium,Day 5,Arafat South,8,Yes
+I00447,P02915,Transport Issue,Medium,Day 2,Jamarat-Mina,10,Yes
+I00448,P02631,Overcrowding,Low,Day 5,Arafat-Internal,19,Yes
+I00449,P00388,Transport Issue,High,Day 3,Muzdalifah-Mina,12,Yes
+I00450,P02411,Overcrowding,Medium,Day 2,Mina North,24,Yes
+I00451,P02225,Overcrowding,Low,Day 2,Mina Central,16,Yes
+I00452,P02323,Overcrowding,Medium,Day 3,Muzdalifah South,14,Yes
+I00453,P02508,Medical,Low,Day 4,Mina-Arafat,23,Yes
+I00454,P01101,Transport Issue,Medium,Day 2,Mina South,11,Yes
+I00455,P01853,Lost Group,Medium,Day 3,Jamarat East,9,Yes
+I00456,P01725,Transport Issue,Medium,Day 5,Muzdalifah-Mina,12,Yes
+I00457,P00442,Medical,Medium,Day 4,Muzdalifah North,14,Yes
+I00458,P02925,Medical,Low,Day 2,Muzdalifah-Internal,11,Yes
+I00459,P01750,Lost Group,Medium,Day 1,Arafat South,15,Yes
+I00460,P00404,Transport Issue,Medium,Day 5,Muzdalifah-Mina,6,Yes
+I00461,P01094,Transport Issue,High,Day 1,Arafat Central,22,Yes
+I00462,P00909,Lost Group,High,Day 1,Arafat Central,41,Yes
+I00463,P02481,Delay,Critical,Day 3,Muzdalifah South,6,Yes
+I00464,P02631,Overcrowding,Medium,Day 2,Mina Central,8,No
+I00465,P00595,Service Complaint,Medium,Day 1,Arafat-Muzdalifah,7,Yes
+I00466,P02034,Lost Group,High,Day 1,Mina North,2,Yes
+I00467,P02273,Transport Issue,Critical,Day 1,Jamarat West,19,Yes
+I00468,P00346,Lost Group,Medium,Day 3,Arafat-Muzdalifah,16,No
+I00469,P02162,Delay,Low,Day 3,Mina-Arafat,2,Yes
+I00470,P01820,Delay,Low,Day 1,Mina-Arafat,12,Yes
+I00471,P02986,Transport Issue,Medium,Day 5,Jamarat West,9,Yes
+I00472,P00776,Overcrowding,Low,Day 1,Arafat-Muzdalifah,12,Yes
+I00473,P00127,Service Complaint,Medium,Day 2,Arafat-Muzdalifah,11,Yes
+I00474,P02682,Service Complaint,Medium,Day 2,Arafat-Internal,12,Yes
+I00475,P02604,Medical,High,Day 2,Jamarat-Mina,11,Yes
+I00476,P02084,Overcrowding,Medium,Day 5,Mina South,9,Yes
+I00477,P01554,Service Complaint,Low,Day 2,Muzdalifah Central,10,Yes
+I00478,P01545,Medical,Low,Day 2,Jamarat-Mina,10,No
+I00479,P01089,Lost Group,Low,Day 3,Mina North,25,Yes
+I00480,P01342,Overcrowding,Low,Day 1,Arafat-Muzdalifah,3,Yes
+I00481,P00281,Transport Issue,Low,Day 4,Arafat North,11,Yes
+I00482,P01920,Service Complaint,Low,Day 4,Muzdalifah South,2,Yes
+I00483,P00919,Service Complaint,Low,Day 1,Mina Central,19,Yes
+I00484,P02822,Overcrowding,Low,Day 4,Mina Central,14,No
+I00485,P01407,Lost Group,Critical,Day 4,Jamarat East,11,Yes
+I00486,P00647,Service Complaint,Low,Day 5,Muzdalifah Central,21,Yes
+I00487,P00414,Overcrowding,Medium,Day 2,Mina East,5,Yes
+I00488,P01397,Delay,Low,Day 5,Arafat North,7,Yes
+I00489,P01613,Delay,Low,Day 1,Arafat South,7,Yes
+I00490,P01322,Delay,Low,Day 5,Jamarat-Mina,11,Yes
+I00491,P01071,Transport Issue,High,Day 3,Jamarat West,9,Yes
+I00492,P02914,Delay,Low,Day 4,Arafat-Muzdalifah,14,Yes
+I00493,P02532,Service Complaint,Medium,Day 5,Mina South,10,Yes
+I00494,P00710,Overcrowding,Medium,Day 5,Muzdalifah Central,16,Yes
+I00495,P02916,Transport Issue,Medium,Day 5,Mina-Internal,4,Yes
+I00496,P00858,Medical,Medium,Day 4,Muzdalifah-Mina,24,Yes
+I00497,P00001,Service Complaint,Low,Day 4,Arafat South,3,Yes
+I00498,P02945,Delay,Medium,Day 3,Muzdalifah North,12,Yes
+I00499,P00901,Overcrowding,Medium,Day 4,Mina South,3,Yes
+I00500,P01751,Transport Issue,Low,Day 1,Jamarat East,17,Yes
+I00501,P01321,Delay,High,Day 4,Muzdalifah North,10,Yes
+I00502,P02566,Service Complaint,Low,Day 3,Mina South,2,Yes
+I00503,P02494,Lost Group,Low,Day 3,Mina North,4,Yes
+I00504,P02789,Medical,High,Day 4,Jamarat East,28,Yes
+I00505,P02774,Service Complaint,Low,Day 5,Mina North,11,Yes
+I00506,P00385,Overcrowding,Critical,Day 3,Muzdalifah-Internal,5,Yes
+I00507,P00104,Transport Issue,Medium,Day 2,Jamarat West,8,Yes
+I00508,P02708,Service Complaint,Medium,Day 5,Arafat-Internal,10,Yes
+I00509,P02816,Transport Issue,Low,Day 1,Arafat Central,4,Yes
+I00510,P02440,Service Complaint,Critical,Day 5,Muzdalifah South,3,No
+I00511,P00961,Service Complaint,Medium,Day 3,Muzdalifah North,5,Yes
+I00512,P00057,Transport Issue,Low,Day 2,Muzdalifah South,7,Yes
+I00513,P00254,Transport Issue,Medium,Day 4,Mina-Arafat,2,Yes
+I00514,P01792,Lost Group,Low,Day 3,Arafat North,10,Yes
+I00515,P00088,Lost Group,Medium,Day 3,Mina-Internal,10,Yes
+I00516,P01656,Medical,Low,Day 2,Jamarat-Mina,9,Yes
+I00517,P01219,Lost Group,Low,Day 1,Muzdalifah North,10,Yes
+I00518,P00680,Delay,Low,Day 3,Mina Central,23,Yes
+I00519,P01882,Overcrowding,Low,Day 1,Mina-Arafat,3,Yes
+I00520,P01387,Medical,Low,Day 1,Muzdalifah-Internal,7,Yes
+I00521,P02328,Overcrowding,High,Day 4,Muzdalifah South,4,Yes
+I00522,P00722,Overcrowding,Low,Day 4,Arafat-Muzdalifah,12,Yes
+I00523,P02607,Overcrowding,Low,Day 3,Muzdalifah Central,6,Yes
+I00524,P02537,Transport Issue,Low,Day 5,Arafat South,2,Yes
+I00525,P01086,Transport Issue,High,Day 2,Muzdalifah North,24,Yes
+I00526,P00121,Delay,Medium,Day 2,Mina-Arafat,3,Yes
+I00527,P00093,Transport Issue,Low,Day 1,Jamarat-Mina,6,Yes
+I00528,P02317,Delay,Medium,Day 1,Mina-Internal,15,Yes
+I00529,P01498,Lost Group,Low,Day 2,Muzdalifah Central,11,Yes
+I00530,P00692,Medical,Low,Day 1,Mina-Jamarat,3,Yes
+I00531,P02502,Overcrowding,Low,Day 5,Mina East,10,Yes
+I00532,P02310,Medical,Low,Day 3,Mina East,15,Yes
+I00533,P00268,Lost Group,Low,Day 4,Mina-Jamarat,9,Yes
+I00534,P02638,Service Complaint,Low,Day 4,Jamarat East,18,Yes
+I00535,P02017,Service Complaint,Medium,Day 5,Jamarat West,11,No
+I00536,P02693,Transport Issue,Medium,Day 1,Jamarat East,9,Yes
+I00537,P00027,Service Complaint,Low,Day 3,Muzdalifah South,11,Yes
+I00538,P01210,Medical,High,Day 3,Jamarat East,23,Yes
+I00539,P01184,Medical,Low,Day 2,Arafat North,10,No
+I00540,P00306,Delay,Medium,Day 4,Mina Central,5,Yes
+I00541,P00689,Delay,High,Day 3,Mina East,13,Yes
+I00542,P02454,Lost Group,Low,Day 4,Mina Central,17,Yes
+I00543,P02385,Medical,Medium,Day 2,Mina-Arafat,2,Yes
+I00544,P00909,Service Complaint,High,Day 4,Mina-Internal,17,Yes
+I00545,P02476,Lost Group,Low,Day 2,Mina Central,10,No
+I00546,P02733,Medical,Low,Day 5,Mina East,13,Yes
+I00547,P00328,Overcrowding,Low,Day 1,Mina North,22,Yes
+I00548,P00575,Delay,High,Day 5,Arafat North,2,Yes
+I00549,P01017,Overcrowding,Low,Day 4,Arafat Central,8,Yes
+I00550,P00901,Medical,Medium,Day 2,Muzdalifah North,11,Yes
+I00551,P02407,Transport Issue,Low,Day 4,Mina-Arafat,7,Yes
+I00552,P01758,Medical,High,Day 2,Jamarat-Mina,18,Yes
+I00553,P01776,Service Complaint,Low,Day 2,Arafat North,2,Yes
+I00554,P01588,Service Complaint,Medium,Day 1,Arafat South,18,Yes
+I00555,P02851,Lost Group,Medium,Day 1,Mina-Arafat,15,Yes
+I00556,P01874,Overcrowding,Low,Day 5,Arafat North,2,Yes
+I00557,P02454,Overcrowding,Low,Day 5,Mina South,5,Yes
+I00558,P02157,Service Complaint,Low,Day 4,Muzdalifah-Internal,12,Yes
+I00559,P01686,Delay,High,Day 1,Jamarat East,5,Yes
+I00560,P01461,Delay,High,Day 5,Mina-Internal,5,Yes
+I00561,P00274,Overcrowding,Low,Day 4,Arafat-Internal,16,Yes
+I00562,P02771,Medical,Low,Day 1,Mina North,7,Yes
+I00563,P00821,Delay,Low,Day 1,Muzdalifah South,2,Yes
+I00564,P01972,Service Complaint,Low,Day 3,Jamarat East,3,Yes
+I00565,P00605,Medical,Low,Day 3,Muzdalifah Central,2,Yes
+I00566,P00169,Overcrowding,Medium,Day 5,Jamarat East,3,Yes
+I00567,P00515,Overcrowding,Low,Day 4,Muzdalifah North,4,Yes
+I00568,P02832,Delay,Low,Day 3,Muzdalifah South,8,Yes
+I00569,P00955,Lost Group,Low,Day 1,Arafat-Internal,8,Yes
+I00570,P00274,Medical,Low,Day 4,Arafat South,16,Yes
+I00571,P02391,Medical,High,Day 3,Arafat South,19,Yes
+I00572,P02824,Lost Group,High,Day 5,Muzdalifah-Mina,10,Yes
+I00573,P00905,Delay,High,Day 5,Muzdalifah South,4,Yes
+I00574,P00125,Overcrowding,Medium,Day 2,Muzdalifah North,8,Yes
+I00575,P01774,Service Complaint,Critical,Day 4,Arafat South,11,No
+I00576,P01368,Medical,Medium,Day 2,Mina-Jamarat,6,Yes
+I00577,P01954,Lost Group,Medium,Day 2,Mina South,19,Yes
+I00578,P01503,Service Complaint,Medium,Day 5,Mina North,17,Yes
+I00579,P02470,Service Complaint,Low,Day 4,Muzdalifah North,11,Yes
+I00580,P01053,Overcrowding,Medium,Day 4,Arafat Central,7,Yes
+I00581,P02053,Service Complaint,Medium,Day 4,Mina-Jamarat,4,Yes
+I00582,P00675,Overcrowding,Medium,Day 2,Arafat South,8,Yes
+I00583,P01633,Lost Group,Medium,Day 4,Arafat-Internal,13,Yes
+I00584,P01047,Lost Group,Medium,Day 1,Mina North,22,Yes
+I00585,P00319,Medical,High,Day 4,Muzdalifah North,4,No
+I00586,P01129,Lost Group,Medium,Day 4,Arafat North,20,Yes
+I00587,P00777,Delay,Low,Day 3,Mina South,23,Yes
+I00588,P00700,Service Complaint,Low,Day 4,Arafat-Muzdalifah,12,Yes
+I00589,P00122,Overcrowding,Low,Day 3,Arafat Central,12,Yes
+I00590,P01261,Medical,Low,Day 1,Mina East,6,Yes
+I00591,P02711,Medical,High,Day 3,Muzdalifah-Internal,6,Yes
+I00592,P01886,Service Complaint,Low,Day 3,Muzdalifah-Mina,19,Yes
+I00593,P01405,Medical,Low,Day 3,Mina-Jamarat,4,Yes
+I00594,P00881,Medical,Low,Day 2,Muzdalifah-Internal,8,Yes
+I00595,P00043,Lost Group,Low,Day 1,Arafat-Internal,6,Yes
+I00596,P02739,Transport Issue,Low,Day 4,Jamarat East,9,Yes
+I00597,P02759,Medical,Medium,Day 2,Mina-Arafat,16,Yes
+I00598,P02531,Service Complaint,High,Day 5,Mina East,2,Yes
+I00599,P00746,Medical,Low,Day 1,Arafat-Internal,9,Yes
+I00600,P02764,Service Complaint,Low,Day 2,Jamarat West,17,Yes
+I00601,P02960,Service Complaint,Medium,Day 5,Mina-Arafat,4,Yes
+I00602,P00609,Overcrowding,Medium,Day 1,Arafat South,18,Yes
+I00603,P02225,Delay,Low,Day 2,Muzdalifah South,3,Yes
+I00604,P02741,Overcrowding,High,Day 1,Mina North,6,Yes
+I00605,P02428,Transport Issue,Low,Day 4,Jamarat East,9,Yes
+I00606,P01028,Delay,Medium,Day 5,Jamarat East,15,Yes
+I00607,P01162,Delay,Low,Day 2,Jamarat-Mina,19,Yes
+I00608,P01040,Service Complaint,High,Day 4,Mina-Arafat,6,Yes
+I00609,P00151,Service Complaint,Medium,Day 3,Muzdalifah-Internal,17,Yes
+I00610,P01212,Delay,High,Day 3,Mina Central,17,Yes
+I00611,P01091,Delay,Low,Day 2,Mina Central,2,Yes
+I00612,P01714,Medical,Critical,Day 3,Muzdalifah North,12,Yes
+I00613,P02254,Delay,High,Day 4,Mina North,11,Yes
+I00614,P00230,Transport Issue,High,Day 3,Jamarat West,27,Yes
+I00615,P02413,Transport Issue,Low,Day 3,Mina Central,6,No
+I00616,P02848,Overcrowding,Low,Day 5,Arafat South,8,Yes
+I00617,P01241,Delay,Low,Day 3,Arafat-Muzdalifah,4,Yes
+I00618,P00210,Delay,Low,Day 4,Muzdalifah-Mina,11,Yes
+I00619,P00259,Delay,Low,Day 5,Jamarat East,21,Yes
+I00620,P00280,Delay,Critical,Day 4,Mina North,7,Yes
+I00621,P02376,Lost Group,Medium,Day 4,Jamarat-Mina,17,Yes
+I00622,P01697,Transport Issue,Medium,Day 1,Muzdalifah South,8,Yes
+I00623,P02571,Medical,High,Day 3,Muzdalifah Central,8,Yes
+I00624,P00813,Overcrowding,Medium,Day 5,Arafat-Internal,2,Yes
+I00625,P02310,Delay,Medium,Day 1,Arafat South,2,Yes
+I00626,P01275,Overcrowding,Medium,Day 3,Jamarat-Mina,18,Yes
+I00627,P00313,Lost Group,Low,Day 1,Arafat-Internal,15,Yes
+I00628,P01478,Delay,High,Day 1,Jamarat-Mina,5,Yes
+I00629,P01080,Lost Group,Low,Day 4,Jamarat-Mina,2,Yes
+I00630,P01254,Delay,Low,Day 4,Mina South,10,Yes
+I00631,P02363,Delay,Medium,Day 4,Mina East,9,Yes
+I00632,P00053,Lost Group,Medium,Day 4,Mina South,9,Yes
+I00633,P01300,Transport Issue,Low,Day 1,Muzdalifah-Internal,13,Yes
+I00634,P00181,Delay,Low,Day 4,Muzdalifah-Mina,5,Yes
+I00635,P02459,Service Complaint,Medium,Day 2,Mina-Jamarat,32,Yes
+I00636,P01241,Overcrowding,Low,Day 2,Mina-Jamarat,4,Yes
+I00637,P02718,Medical,Low,Day 3,Mina South,10,No
+I00638,P01915,Delay,Medium,Day 3,Arafat North,13,Yes
+I00639,P02113,Service Complaint,High,Day 1,Mina South,2,Yes
+I00640,P02122,Transport Issue,Low,Day 4,Arafat Central,3,Yes
+I00641,P01446,Delay,Low,Day 4,Muzdalifah-Internal,2,Yes
+I00642,P01468,Lost Group,Low,Day 1,Mina-Jamarat,2,Yes
+I00643,P02672,Delay,High,Day 4,Mina Central,25,Yes
+I00644,P01276,Overcrowding,Low,Day 2,Muzdalifah North,5,Yes
+I00645,P02283,Overcrowding,Low,Day 3,Jamarat East,6,Yes
+I00646,P01521,Lost Group,Medium,Day 5,Arafat-Muzdalifah,8,Yes
+I00647,P02941,Overcrowding,Medium,Day 5,Arafat North,13,Yes
+I00648,P02906,Lost Group,Medium,Day 1,Muzdalifah South,10,Yes
+I00649,P01765,Delay,Low,Day 2,Jamarat East,7,Yes
+I00650,P01416,Transport Issue,Low,Day 2,Arafat-Internal,3,Yes
+I00651,P02397,Medical,Low,Day 2,Jamarat East,3,Yes
+I00652,P02572,Medical,Low,Day 1,Mina-Jamarat,30,Yes
+I00653,P00683,Lost Group,Medium,Day 3,Jamarat East,30,Yes
+I00654,P02900,Transport Issue,Critical,Day 2,Mina-Arafat,2,No
+I00655,P02726,Medical,Low,Day 3,Arafat North,10,Yes
+I00656,P00893,Medical,Low,Day 3,Mina North,3,Yes
+I00657,P00070,Delay,High,Day 2,Muzdalifah South,4,Yes
+I00658,P01075,Delay,Medium,Day 5,Arafat-Internal,6,Yes
+I00659,P02753,Overcrowding,Low,Day 1,Mina-Arafat,7,Yes
+I00660,P02225,Service Complaint,Low,Day 4,Jamarat West,18,Yes
+I00661,P00119,Medical,Low,Day 2,Mina Central,10,No
+I00662,P02123,Overcrowding,Low,Day 3,Mina East,15,Yes
+I00663,P00996,Transport Issue,Low,Day 3,Muzdalifah South,2,Yes
+I00664,P00693,Delay,Medium,Day 4,Mina-Arafat,8,Yes
+I00665,P00342,Medical,High,Day 5,Muzdalifah North,15,Yes
+I00666,P01876,Service Complaint,Low,Day 3,Muzdalifah-Mina,5,Yes
+I00667,P02047,Overcrowding,Low,Day 1,Mina North,2,Yes
+I00668,P01456,Transport Issue,Low,Day 1,Arafat-Internal,6,Yes
+I00669,P00585,Delay,Critical,Day 3,Mina East,21,Yes
+I00670,P02732,Transport Issue,High,Day 3,Arafat South,8,Yes
+I00671,P02674,Medical,Low,Day 4,Arafat Central,8,Yes
+I00672,P02968,Overcrowding,Medium,Day 4,Muzdalifah North,8,Yes
+I00673,P01119,Lost Group,Medium,Day 4,Jamarat-Mina,9,Yes
+I00674,P00437,Medical,Critical,Day 4,Muzdalifah-Mina,30,No
+I00675,P02002,Overcrowding,Low,Day 4,Arafat North,2,Yes
+I00676,P00559,Service Complaint,High,Day 1,Arafat-Internal,10,Yes
+I00677,P00152,Overcrowding,High,Day 2,Arafat North,19,Yes
+I00678,P01081,Medical,Medium,Day 4,Muzdalifah-Internal,11,Yes
+I00679,P02384,Lost Group,Low,Day 1,Arafat South,12,Yes
+I00680,P02560,Transport Issue,Critical,Day 1,Jamarat East,2,Yes
+I00681,P01567,Medical,High,Day 1,Arafat-Muzdalifah,24,Yes
+I00682,P02982,Service Complaint,Low,Day 1,Arafat Central,5,Yes
+I00683,P02782,Service Complaint,Medium,Day 1,Muzdalifah Central,7,No
+I00684,P01974,Overcrowding,Low,Day 1,Mina East,8,Yes
+I00685,P02250,Service Complaint,Low,Day 3,Muzdalifah-Mina,16,Yes
+I00686,P02613,Medical,High,Day 3,Mina North,9,Yes
+I00687,P02652,Delay,Low,Day 4,Mina-Jamarat,2,Yes
+I00688,P01178,Delay,Medium,Day 1,Mina-Internal,13,Yes
+I00689,P02605,Lost Group,Medium,Day 5,Mina South,13,Yes
+I00690,P00841,Transport Issue,High,Day 1,Muzdalifah-Internal,12,Yes
+I00691,P00925,Medical,Medium,Day 1,Mina South,4,Yes
+I00692,P00417,Medical,Medium,Day 3,Mina-Jamarat,8,Yes
+I00693,P00956,Medical,Medium,Day 3,Jamarat East,26,Yes
+I00694,P00449,Service Complaint,Low,Day 5,Mina-Jamarat,2,Yes
+I00695,P00217,Transport Issue,Low,Day 5,Arafat-Internal,15,Yes
+I00696,P01185,Service Complaint,Medium,Day 5,Mina-Arafat,13,Yes
+I00697,P02732,Service Complaint,Medium,Day 4,Arafat Central,9,Yes
+I00698,P00320,Lost Group,Low,Day 3,Mina-Internal,7,Yes
+I00699,P01480,Medical,Low,Day 1,Muzdalifah-Mina,9,Yes
+I00700,P00573,Overcrowding,Low,Day 1,Arafat South,2,Yes
+I00701,P02458,Lost Group,Low,Day 4,Mina-Internal,10,Yes
+I00702,P02734,Lost Group,Low,Day 3,Jamarat East,4,No
+I00703,P01234,Service Complaint,High,Day 5,Arafat South,2,Yes
+I00704,P02206,Overcrowding,High,Day 1,Mina South,14,Yes
+I00705,P01728,Transport Issue,Low,Day 4,Arafat-Internal,8,Yes
+I00706,P00662,Service Complaint,Low,Day 1,Mina-Jamarat,17,Yes
+I00707,P01923,Overcrowding,Medium,Day 1,Arafat-Muzdalifah,9,Yes
+I00708,P00283,Delay,Critical,Day 1,Mina-Internal,24,Yes
+I00709,P01269,Overcrowding,Low,Day 2,Muzdalifah Central,26,Yes
+I00710,P01097,Lost Group,High,Day 3,Mina Central,10,Yes
+I00711,P00683,Lost Group,Medium,Day 4,Arafat-Muzdalifah,21,Yes
+I00712,P00357,Overcrowding,Medium,Day 2,Arafat North,2,Yes
+I00713,P01391,Service Complaint,Low,Day 5,Muzdalifah South,8,Yes
+I00714,P00076,Delay,Low,Day 3,Muzdalifah-Mina,16,Yes
+I00715,P02254,Overcrowding,Low,Day 5,Arafat Central,11,Yes
+I00716,P02446,Overcrowding,High,Day 3,Mina East,4,Yes
+I00717,P02139,Overcrowding,Medium,Day 4,Mina Central,2,Yes
+I00718,P02834,Transport Issue,High,Day 5,Arafat South,15,No
+I00719,P02441,Medical,High,Day 3,Muzdalifah-Mina,22,No
+I00720,P01515,Medical,Medium,Day 1,Mina North,3,Yes
+I00721,P01870,Transport Issue,Medium,Day 1,Arafat-Internal,14,Yes
+I00722,P02560,Delay,Medium,Day 2,Muzdalifah North,18,Yes
+I00723,P00654,Delay,Medium,Day 2,Arafat North,11,Yes
+I00724,P01248,Medical,Medium,Day 5,Muzdalifah-Internal,15,Yes
+I00725,P00339,Transport Issue,Medium,Day 4,Mina East,10,Yes
+I00726,P02872,Delay,Critical,Day 2,Muzdalifah Central,7,Yes
+I00727,P01579,Transport Issue,Critical,Day 3,Muzdalifah-Internal,6,Yes
+I00728,P02358,Service Complaint,Medium,Day 3,Muzdalifah Central,11,Yes
+I00729,P00888,Delay,Low,Day 1,Jamarat East,20,Yes
+I00730,P02513,Overcrowding,Low,Day 5,Muzdalifah-Internal,17,Yes
+I00731,P00822,Service Complaint,Low,Day 3,Mina North,18,Yes
+I00732,P00594,Transport Issue,High,Day 4,Mina-Arafat,7,Yes
+I00733,P00248,Overcrowding,Low,Day 4,Jamarat West,20,Yes
+I00734,P02017,Overcrowding,Low,Day 4,Mina Central,3,Yes
+I00735,P00007,Overcrowding,Medium,Day 5,Mina Central,8,Yes
+I00736,P02988,Service Complaint,Low,Day 2,Arafat-Internal,26,Yes
+I00737,P01006,Service Complaint,Medium,Day 2,Muzdalifah-Internal,3,Yes
+I00738,P02728,Service Complaint,Medium,Day 4,Arafat-Muzdalifah,14,Yes
+I00739,P02691,Overcrowding,High,Day 2,Mina North,8,Yes
+I00740,P02850,Medical,Medium,Day 4,Arafat-Muzdalifah,14,Yes
+I00741,P02723,Transport Issue,High,Day 5,Arafat-Muzdalifah,2,Yes
+I00742,P02947,Delay,High,Day 3,Muzdalifah-Mina,9,Yes
+I00743,P00732,Overcrowding,Low,Day 3,Muzdalifah North,4,Yes
+I00744,P01214,Transport Issue,Medium,Day 5,Arafat Central,8,No
+I00745,P00308,Service Complaint,Medium,Day 5,Mina-Internal,19,Yes
+I00746,P00566,Transport Issue,Low,Day 3,Muzdalifah-Internal,8,Yes
+I00747,P02532,Medical,Low,Day 4,Mina South,9,Yes
+I00748,P00755,Overcrowding,Medium,Day 4,Mina-Jamarat,17,Yes
+I00749,P01615,Delay,Critical,Day 4,Jamarat East,23,No
+I00750,P01632,Delay,Low,Day 1,Mina East,7,Yes
+I00751,P01932,Overcrowding,High,Day 4,Muzdalifah-Internal,5,Yes
+I00752,P02280,Transport Issue,Low,Day 1,Jamarat East,26,Yes
+I00753,P02567,Service Complaint,Medium,Day 5,Mina East,5,Yes
+I00754,P01102,Delay,Low,Day 5,Mina Central,16,Yes
+I00755,P01988,Overcrowding,High,Day 3,Mina North,2,Yes
+I00756,P00637,Lost Group,Medium,Day 1,Mina North,7,Yes
+I00757,P02470,Overcrowding,High,Day 1,Mina East,10,Yes
+I00758,P00043,Overcrowding,High,Day 1,Arafat-Muzdalifah,10,Yes
+I00759,P00276,Service Complaint,Low,Day 1,Jamarat East,7,Yes
+I00760,P00964,Medical,Low,Day 5,Arafat South,5,Yes
+I00761,P00279,Overcrowding,Low,Day 1,Arafat North,22,Yes
+I00762,P00682,Service Complaint,High,Day 1,Muzdalifah North,3,Yes
+I00763,P01002,Delay,Low,Day 3,Mina East,9,Yes
+I00764,P02816,Service Complaint,Medium,Day 3,Mina-Jamarat,11,Yes
+I00765,P01197,Medical,Critical,Day 5,Arafat South,17,Yes
+I00766,P02731,Delay,Medium,Day 3,Muzdalifah Central,7,Yes
+I00767,P02176,Delay,Medium,Day 2,Jamarat-Mina,7,Yes
+I00768,P00861,Overcrowding,Low,Day 3,Muzdalifah-Mina,23,Yes
+I00769,P01568,Delay,Medium,Day 3,Mina Central,7,Yes
+I00770,P01069,Delay,Low,Day 4,Muzdalifah-Mina,21,Yes
+I00771,P01830,Delay,High,Day 2,Jamarat-Mina,5,Yes
+I00772,P00812,Transport Issue,High,Day 1,Muzdalifah-Mina,4,Yes
+I00773,P02831,Delay,High,Day 1,Mina-Jamarat,6,Yes
+I00774,P01026,Lost Group,Critical,Day 5,Muzdalifah Central,17,Yes
+I00775,P02999,Medical,Medium,Day 5,Mina-Jamarat,16,Yes
+I00776,P01182,Transport Issue,Low,Day 4,Muzdalifah South,27,Yes
+I00777,P00262,Transport Issue,Low,Day 1,Muzdalifah-Internal,25,Yes
+I00778,P00674,Overcrowding,Low,Day 4,Muzdalifah Central,7,Yes
+I00779,P00979,Service Complaint,High,Day 4,Mina-Internal,8,Yes
+I00780,P00150,Overcrowding,Medium,Day 4,Arafat Central,7,Yes
+I00781,P00610,Transport Issue,Low,Day 3,Muzdalifah-Internal,2,Yes
+I00782,P02335,Service Complaint,Low,Day 3,Mina North,12,Yes
+I00783,P02346,Medical,Medium,Day 1,Mina North,13,Yes
+I00784,P00613,Lost Group,Medium,Day 1,Mina Central,3,Yes
+I00785,P02999,Overcrowding,Medium,Day 5,Arafat-Internal,12,Yes
+I00786,P02555,Overcrowding,Low,Day 3,Mina Central,2,Yes
+I00787,P02354,Medical,Low,Day 1,Jamarat-Mina,7,Yes
+I00788,P02814,Delay,Critical,Day 4,Arafat Central,11,Yes
+I00789,P00959,Transport Issue,High,Day 2,Muzdalifah North,5,Yes
+I00790,P01694,Transport Issue,Low,Day 3,Jamarat East,2,Yes
+I00791,P02687,Delay,Low,Day 2,Mina-Arafat,5,Yes
+I00792,P01638,Medical,High,Day 1,Mina-Arafat,22,Yes
+I00793,P00682,Transport Issue,Low,Day 1,Mina North,9,Yes
+I00794,P00613,Delay,Medium,Day 5,Arafat North,5,Yes
+I00795,P00374,Transport Issue,High,Day 2,Mina-Jamarat,11,Yes
+I00796,P01305,Lost Group,Medium,Day 1,Arafat South,3,Yes
+I00797,P02741,Service Complaint,Medium,Day 3,Jamarat West,15,Yes
+I00798,P01359,Service Complaint,Low,Day 2,Arafat-Internal,6,Yes
+I00799,P00514,Service Complaint,Medium,Day 3,Muzdalifah Central,21,Yes
+I00800,P02425,Delay,Medium,Day 5,Muzdalifah South,25,Yes
+I00801,P02288,Overcrowding,Medium,Day 1,Mina South,9,Yes
+I00802,P01063,Delay,Medium,Day 1,Muzdalifah Central,10,Yes
+I00803,P01073,Lost Group,Medium,Day 3,Muzdalifah North,14,Yes
+I00804,P00980,Overcrowding,High,Day 4,Arafat-Muzdalifah,19,Yes
+I00805,P01482,Overcrowding,Medium,Day 4,Arafat Central,12,Yes
+I00806,P02959,Overcrowding,High,Day 3,Mina-Jamarat,18,Yes
+I00807,P02046,Overcrowding,Medium,Day 1,Mina-Internal,15,Yes
+I00808,P01638,Overcrowding,Low,Day 1,Arafat South,9,Yes
+I00809,P02031,Medical,Medium,Day 3,Mina South,5,Yes
+I00810,P02201,Delay,Low,Day 3,Muzdalifah Central,11,Yes
+I00811,P02228,Delay,Medium,Day 2,Mina South,12,Yes
+I00812,P01928,Overcrowding,Low,Day 3,Arafat Central,8,Yes
+I00813,P00976,Transport Issue,Low,Day 3,Mina-Internal,4,No
+I00814,P01870,Overcrowding,Medium,Day 5,Mina-Arafat,3,Yes
+I00815,P01134,Medical,High,Day 2,Jamarat West,19,Yes
+I00816,P01601,Medical,Medium,Day 1,Muzdalifah-Internal,13,Yes
+I00817,P02036,Delay,High,Day 5,Arafat-Muzdalifah,5,Yes
+I00818,P00634,Service Complaint,High,Day 2,Arafat North,14,Yes
+I00819,P02925,Medical,Critical,Day 2,Arafat-Internal,13,Yes
+I00820,P00795,Delay,Medium,Day 4,Muzdalifah-Internal,27,Yes
+I00821,P02000,Lost Group,Medium,Day 2,Mina-Jamarat,10,Yes
+I00822,P02658,Service Complaint,Medium,Day 4,Muzdalifah-Mina,31,Yes
+I00823,P02150,Transport Issue,High,Day 1,Mina South,5,Yes
+I00824,P01882,Medical,Low,Day 3,Arafat-Internal,9,Yes
+I00825,P02113,Delay,Medium,Day 3,Mina North,10,Yes
+I00826,P02222,Delay,Medium,Day 5,Jamarat West,20,Yes
+I00827,P01888,Medical,Low,Day 4,Mina East,8,Yes
+I00828,P02831,Medical,High,Day 5,Mina-Arafat,9,Yes
+I00829,P00471,Transport Issue,Low,Day 3,Jamarat West,9,Yes
+I00830,P00692,Medical,Medium,Day 2,Mina-Jamarat,7,Yes
+I00831,P01568,Medical,Medium,Day 2,Mina South,3,No
+I00832,P02978,Lost Group,Medium,Day 2,Muzdalifah South,2,Yes
+I00833,P00209,Service Complaint,Medium,Day 4,Mina Central,20,Yes
+I00834,P00873,Transport Issue,Low,Day 2,Mina-Jamarat,5,Yes
+I00835,P01376,Transport Issue,Low,Day 2,Muzdalifah North,6,Yes
+I00836,P00704,Transport Issue,Medium,Day 5,Arafat-Muzdalifah,7,Yes
+I00837,P01524,Delay,Low,Day 1,Arafat Central,11,Yes
+I00838,P00480,Service Complaint,Low,Day 1,Muzdalifah-Mina,11,Yes
+I00839,P02904,Medical,Low,Day 5,Arafat-Internal,8,Yes
+I00840,P02163,Service Complaint,Low,Day 3,Jamarat West,18,Yes
+I00841,P00941,Lost Group,Low,Day 5,Muzdalifah North,4,Yes
+I00842,P01740,Service Complaint,Low,Day 1,Arafat South,10,No
+I00843,P00582,Service Complaint,Low,Day 2,Mina Central,8,Yes
+I00844,P02858,Overcrowding,Low,Day 1,Arafat-Internal,29,Yes
+I00845,P02186,Service Complaint,Medium,Day 4,Mina-Jamarat,7,No
+I00846,P00649,Lost Group,Low,Day 3,Muzdalifah-Internal,22,Yes
+I00847,P02842,Transport Issue,High,Day 1,Arafat-Muzdalifah,10,Yes
+I00848,P01009,Medical,Low,Day 4,Mina Central,7,Yes
+I00849,P01916,Lost Group,Medium,Day 1,Jamarat East,14,Yes
+I00850,P00582,Delay,High,Day 5,Arafat Central,9,Yes
+I00851,P02851,Transport Issue,Low,Day 3,Mina-Jamarat,7,Yes
+I00852,P01049,Service Complaint,High,Day 3,Mina Central,8,No
+I00853,P02997,Lost Group,Low,Day 3,Arafat-Internal,3,Yes
+I00854,P01158,Overcrowding,Medium,Day 4,Arafat North,18,Yes
+I00855,P02970,Medical,Low,Day 5,Mina North,5,Yes
+I00856,P00073,Service Complaint,High,Day 5,Mina North,14,Yes
+I00857,P00126,Lost Group,Medium,Day 4,Arafat South,16,Yes
+I00858,P00870,Lost Group,Medium,Day 1,Arafat Central,7,No
+I00859,P02906,Lost Group,Medium,Day 5,Arafat South,14,Yes
+I00860,P02552,Delay,Medium,Day 4,Mina-Jamarat,9,Yes
+I00861,P00225,Transport Issue,High,Day 4,Mina Central,8,Yes
+I00862,P00348,Delay,Low,Day 1,Mina Central,2,Yes
+I00863,P00339,Medical,Medium,Day 5,Mina Central,5,Yes
+I00864,P02250,Overcrowding,Critical,Day 1,Jamarat-Mina,6,Yes
+I00865,P02441,Transport Issue,Medium,Day 5,Mina-Internal,15,Yes
+I00866,P00421,Transport Issue,Medium,Day 1,Jamarat East,13,Yes
+I00867,P02206,Overcrowding,Low,Day 1,Jamarat West,20,Yes
+I00868,P02061,Service Complaint,Low,Day 3,Jamarat West,10,Yes
+I00869,P00571,Transport Issue,Low,Day 4,Jamarat East,3,Yes
+I00870,P00505,Medical,Low,Day 5,Mina North,9,Yes
+I00871,P01302,Medical,Medium,Day 1,Mina-Arafat,12,Yes
+I00872,P02145,Overcrowding,Medium,Day 1,Muzdalifah Central,25,No
+I00873,P01961,Transport Issue,Medium,Day 3,Mina-Internal,2,Yes
+I00874,P00678,Lost Group,Medium,Day 4,Muzdalifah-Mina,19,Yes
+I00875,P01241,Delay,Low,Day 3,Mina-Internal,7,Yes
+I00876,P00074,Lost Group,Medium,Day 5,Muzdalifah South,11,Yes
+I00877,P01496,Medical,High,Day 5,Arafat South,17,Yes
+I00878,P01233,Medical,Medium,Day 2,Mina-Arafat,6,Yes
+I00879,P01141,Medical,Medium,Day 1,Mina Central,4,Yes
+I00880,P00383,Service Complaint,Medium,Day 1,Arafat Central,7,Yes
+I00881,P00977,Medical,Medium,Day 3,Jamarat West,28,Yes
+I00882,P00231,Lost Group,High,Day 3,Arafat Central,4,Yes
+I00883,P00336,Transport Issue,High,Day 4,Muzdalifah North,3,Yes
+I00884,P01992,Delay,Low,Day 1,Arafat North,2,Yes
+I00885,P01963,Transport Issue,Low,Day 5,Mina Central,7,Yes
+I00886,P01736,Overcrowding,High,Day 3,Mina North,11,Yes
+I00887,P02826,Medical,Medium,Day 2,Muzdalifah-Internal,17,Yes
+I00888,P02217,Overcrowding,Medium,Day 5,Muzdalifah Central,8,Yes
+I00889,P02827,Delay,Medium,Day 5,Arafat North,5,Yes
+I00890,P00249,Delay,Critical,Day 5,Jamarat-Mina,6,Yes
+I00891,P00916,Medical,High,Day 5,Muzdalifah South,9,Yes
+I00892,P00736,Medical,Medium,Day 4,Mina-Internal,13,Yes
+I00893,P02293,Transport Issue,Low,Day 2,Mina-Internal,7,Yes
+I00894,P01811,Lost Group,Medium,Day 2,Jamarat East,16,Yes
+I00895,P02922,Lost Group,High,Day 3,Mina-Jamarat,4,Yes
+I00896,P02481,Overcrowding,Low,Day 3,Jamarat East,2,Yes
+I00897,P02232,Medical,Medium,Day 3,Mina South,10,Yes
+I00898,P01205,Service Complaint,High,Day 2,Arafat North,15,Yes
+I00899,P02548,Lost Group,Low,Day 2,Jamarat West,2,Yes
+I00900,P01419,Transport Issue,Low,Day 1,Jamarat West,45,Yes
+I00901,P01751,Delay,Low,Day 5,Muzdalifah South,12,Yes
+I00902,P01028,Transport Issue,Low,Day 4,Jamarat East,13,Yes
+I00903,P01368,Delay,Low,Day 4,Muzdalifah-Internal,12,Yes
+I00904,P02215,Transport Issue,Medium,Day 2,Jamarat West,7,Yes
+I00905,P00038,Transport Issue,Low,Day 1,Mina Central,10,Yes
+I00906,P00231,Delay,Low,Day 2,Mina-Arafat,8,Yes
+I00907,P02294,Delay,Critical,Day 5,Arafat Central,11,Yes
+I00908,P02643,Overcrowding,Medium,Day 4,Muzdalifah-Internal,6,Yes
+I00909,P01946,Lost Group,Low,Day 4,Jamarat West,15,Yes
+I00910,P02760,Lost Group,Low,Day 4,Muzdalifah Central,9,Yes
+I00911,P02176,Overcrowding,High,Day 5,Jamarat East,15,Yes
+I00912,P00878,Transport Issue,High,Day 2,Jamarat East,9,Yes
+I00913,P01753,Medical,Low,Day 4,Mina-Jamarat,3,Yes
+I00914,P02259,Transport Issue,High,Day 1,Muzdalifah South,27,Yes
+I00915,P00129,Overcrowding,Medium,Day 3,Mina South,3,No
+I00916,P01428,Lost Group,Low,Day 1,Muzdalifah South,11,Yes
+I00917,P01584,Delay,Medium,Day 4,Arafat Central,3,Yes
+I00918,P01183,Service Complaint,High,Day 5,Jamarat-Mina,21,Yes
+I00919,P00024,Delay,Medium,Day 1,Arafat North,18,Yes
+I00920,P00527,Service Complaint,Medium,Day 1,Arafat North,9,Yes
+I00921,P02560,Service Complaint,Medium,Day 3,Muzdalifah-Internal,5,Yes
+I00922,P02947,Transport Issue,Low,Day 5,Arafat-Internal,4,Yes
+I00923,P01912,Transport Issue,Medium,Day 4,Mina-Internal,13,Yes
+I00924,P02241,Service Complaint,Low,Day 2,Arafat North,5,Yes
+I00925,P02345,Medical,Low,Day 2,Arafat-Muzdalifah,14,Yes
+I00926,P02530,Delay,Low,Day 2,Arafat-Internal,18,Yes
+I00927,P02182,Transport Issue,Medium,Day 1,Jamarat-Mina,7,Yes
+I00928,P01621,Lost Group,Medium,Day 3,Muzdalifah North,2,Yes
+I00929,P02353,Medical,Medium,Day 5,Mina East,9,Yes
+I00930,P01600,Delay,Low,Day 4,Mina Central,20,Yes
+I00931,P00181,Service Complaint,Medium,Day 5,Muzdalifah Central,14,No
+I00932,P02556,Service Complaint,Low,Day 1,Arafat-Muzdalifah,18,Yes
+I00933,P02450,Medical,Medium,Day 5,Mina-Jamarat,5,Yes
+I00934,P01275,Medical,Low,Day 5,Mina-Internal,32,Yes
+I00935,P00442,Medical,Low,Day 4,Mina East,7,Yes
+I00936,P02944,Service Complaint,Low,Day 4,Muzdalifah-Mina,11,Yes
+I00937,P02735,Service Complaint,Low,Day 1,Mina South,5,Yes
+I00938,P02062,Overcrowding,Medium,Day 3,Mina South,15,Yes
+I00939,P01662,Medical,Low,Day 2,Muzdalifah South,7,Yes
+I00940,P01636,Service Complaint,Low,Day 3,Arafat South,4,No
+I00941,P00147,Delay,High,Day 2,Arafat Central,47,Yes
+I00942,P02632,Lost Group,Medium,Day 1,Mina Central,17,Yes
+I00943,P00017,Overcrowding,Low,Day 1,Jamarat-Mina,14,Yes
+I00944,P00659,Delay,Low,Day 3,Muzdalifah-Internal,2,Yes
+I00945,P00180,Transport Issue,Medium,Day 4,Muzdalifah-Mina,3,Yes
+I00946,P00133,Delay,Low,Day 2,Mina East,22,Yes
+I00947,P00633,Lost Group,Low,Day 5,Muzdalifah South,5,Yes
+I00948,P01203,Transport Issue,Low,Day 2,Mina-Internal,46,Yes
+I00949,P02427,Transport Issue,Low,Day 5,Mina South,5,Yes
+I00950,P00489,Medical,Medium,Day 5,Mina Central,15,Yes
+I00951,P00200,Medical,Low,Day 3,Arafat-Muzdalifah,3,Yes
+I00952,P00383,Lost Group,High,Day 5,Mina North,14,Yes
+I00953,P02715,Transport Issue,Low,Day 2,Arafat-Muzdalifah,8,Yes
+I00954,P00128,Transport Issue,High,Day 3,Jamarat-Mina,9,Yes
+I00955,P00861,Service Complaint,Low,Day 3,Mina-Arafat,32,Yes
+I00956,P02596,Lost Group,High,Day 2,Muzdalifah Central,7,Yes
+I00957,P02199,Overcrowding,Low,Day 3,Mina-Internal,23,Yes
+I00958,P01334,Service Complaint,Medium,Day 2,Jamarat East,12,Yes
+I00959,P02730,Transport Issue,Medium,Day 5,Muzdalifah South,8,Yes
+I00960,P00913,Delay,Medium,Day 4,Arafat-Muzdalifah,4,Yes
+I00961,P01565,Service Complaint,Low,Day 4,Arafat South,3,Yes
+I00962,P02725,Lost Group,Low,Day 5,Mina East,3,Yes
+I00963,P02437,Transport Issue,Medium,Day 3,Muzdalifah North,2,Yes
+I00964,P00838,Lost Group,Medium,Day 1,Muzdalifah Central,21,Yes
+I00965,P00565,Delay,Low,Day 4,Jamarat West,5,Yes
+I00966,P00073,Service Complaint,Low,Day 5,Mina South,12,Yes
+I00967,P00441,Overcrowding,High,Day 4,Mina Central,3,Yes
+I00968,P02097,Medical,Low,Day 3,Arafat North,32,Yes
+I00969,P00131,Service Complaint,High,Day 2,Jamarat-Mina,12,Yes
+I00970,P00511,Overcrowding,Low,Day 1,Muzdalifah-Mina,10,Yes
+I00971,P02390,Transport Issue,Medium,Day 5,Mina North,15,Yes
+I00972,P02649,Service Complaint,Low,Day 1,Jamarat West,2,Yes
+I00973,P00801,Transport Issue,Low,Day 5,Mina North,2,Yes
+I00974,P02321,Transport Issue,Low,Day 4,Mina South,15,Yes
+I00975,P00403,Lost Group,Medium,Day 1,Arafat-Internal,3,Yes
+I00976,P00290,Medical,High,Day 3,Muzdalifah South,13,Yes
+I00977,P00095,Delay,Medium,Day 3,Muzdalifah South,32,Yes
+I00978,P02654,Medical,Low,Day 2,Mina South,9,Yes
+I00979,P01537,Transport Issue,High,Day 5,Muzdalifah South,2,Yes
+I00980,P00682,Service Complaint,Low,Day 4,Jamarat East,2,Yes
+I00981,P00378,Transport Issue,Medium,Day 3,Arafat-Muzdalifah,5,Yes
+I00982,P00037,Transport Issue,Medium,Day 4,Muzdalifah Central,9,Yes
+I00983,P01441,Lost Group,High,Day 4,Mina South,8,Yes
+I00984,P00557,Delay,Medium,Day 5,Mina Central,12,Yes
+I00985,P02462,Service Complaint,Medium,Day 1,Muzdalifah South,4,Yes
+I00986,P00705,Transport Issue,Low,Day 2,Jamarat West,9,Yes
+I00987,P02334,Service Complaint,Low,Day 1,Jamarat West,10,Yes
+I00988,P01137,Lost Group,Low,Day 4,Mina Central,2,Yes
+I00989,P02063,Lost Group,Low,Day 2,Mina North,6,Yes
+I00990,P00768,Transport Issue,Low,Day 3,Mina East,11,Yes
+I00991,P00883,Medical,High,Day 3,Mina-Arafat,4,Yes
+I00992,P01909,Overcrowding,Low,Day 4,Muzdalifah South,16,Yes
+I00993,P01019,Medical,Low,Day 4,Arafat North,18,Yes
+I00994,P01161,Transport Issue,Medium,Day 5,Mina North,2,Yes
+I00995,P02778,Delay,Medium,Day 4,Mina Central,7,Yes
+I00996,P01351,Overcrowding,Low,Day 1,Arafat-Internal,4,Yes
+I00997,P02093,Medical,Low,Day 4,Mina North,6,Yes
+I00998,P02042,Lost Group,Medium,Day 3,Arafat Central,7,Yes
+I00999,P01666,Medical,Medium,Day 5,Muzdalifah Central,5,Yes
+I01000,P01659,Service Complaint,Medium,Day 2,Arafat North,8,Yes
+I01001,P02717,Overcrowding,Low,Day 2,Mina North,7,Yes
+I01002,P00698,Service Complaint,Low,Day 4,Arafat-Internal,5,Yes
+I01003,P02804,Lost Group,High,Day 4,Jamarat West,12,Yes
+I01004,P02636,Overcrowding,Critical,Day 4,Mina East,14,Yes
+I01005,P00847,Delay,Low,Day 1,Arafat South,15,Yes
+I01006,P00168,Lost Group,Medium,Day 5,Mina South,8,Yes
+I01007,P00637,Overcrowding,Medium,Day 3,Mina South,7,Yes
+I01008,P01674,Medical,Medium,Day 4,Jamarat-Mina,10,Yes
+I01009,P02569,Overcrowding,Low,Day 1,Jamarat West,13,Yes
+I01010,P01192,Delay,Low,Day 4,Mina North,10,Yes
+I01011,P01202,Medical,High,Day 1,Mina-Jamarat,8,Yes
+I01012,P02375,Medical,Medium,Day 2,Mina North,61,Yes
+I01013,P02598,Transport Issue,Low,Day 3,Mina East,9,No
+I01014,P02984,Transport Issue,Low,Day 4,Muzdalifah-Mina,8,Yes
+I01015,P00214,Medical,Low,Day 2,Arafat North,18,Yes
+I01016,P01771,Overcrowding,High,Day 2,Mina-Internal,15,Yes
+I01017,P01138,Medical,Medium,Day 3,Arafat North,29,Yes
+I01018,P01259,Lost Group,Medium,Day 3,Arafat Central,10,Yes
+I01019,P00348,Lost Group,Medium,Day 5,Arafat-Muzdalifah,10,Yes
+I01020,P01510,Delay,Low,Day 5,Mina-Arafat,23,Yes
+I01021,P01348,Delay,Low,Day 4,Muzdalifah North,23,Yes
+I01022,P01459,Lost Group,High,Day 3,Mina-Internal,7,Yes
+I01023,P02448,Medical,Medium,Day 2,Arafat-Internal,2,Yes
+I01024,P02202,Delay,Critical,Day 4,Jamarat East,11,Yes
+I01025,P00485,Medical,Medium,Day 2,Mina-Internal,15,Yes
+I01026,P00017,Transport Issue,Medium,Day 5,Arafat-Internal,6,No
+I01027,P00855,Service Complaint,Low,Day 5,Mina North,13,Yes
+I01028,P02478,Service Complaint,Medium,Day 2,Mina Central,3,Yes
+I01029,P02876,Lost Group,Low,Day 1,Muzdalifah North,5,Yes
+I01030,P01462,Lost Group,Low,Day 2,Arafat North,3,Yes
+I01031,P00050,Transport Issue,Low,Day 1,Mina North,10,Yes
+I01032,P01535,Lost Group,Medium,Day 4,Mina-Arafat,3,Yes
+I01033,P02183,Delay,Low,Day 4,Mina Central,17,Yes
+I01034,P02501,Overcrowding,Low,Day 3,Mina Central,6,Yes
+I01035,P00274,Transport Issue,Medium,Day 5,Mina-Arafat,6,Yes
+I01036,P00089,Delay,Medium,Day 4,Mina North,8,No
+I01037,P02855,Service Complaint,High,Day 4,Jamarat East,4,Yes
+I01038,P02771,Transport Issue,Medium,Day 5,Mina North,8,Yes
+I01039,P02377,Delay,Low,Day 1,Arafat-Muzdalifah,6,Yes
+I01040,P00180,Overcrowding,Medium,Day 5,Mina-Internal,5,Yes
+I01041,P00855,Transport Issue,High,Day 4,Mina East,11,Yes
+I01042,P01215,Service Complaint,Medium,Day 2,Muzdalifah South,4,Yes
+I01043,P02451,Delay,Medium,Day 3,Mina-Jamarat,7,Yes
+I01044,P02750,Delay,High,Day 3,Muzdalifah-Internal,7,Yes
+I01045,P01674,Medical,Medium,Day 2,Mina North,10,Yes
+I01046,P02714,Delay,Low,Day 3,Arafat North,9,Yes
+I01047,P01510,Delay,Low,Day 1,Mina-Jamarat,11,Yes
+I01048,P00949,Delay,Medium,Day 5,Muzdalifah Central,5,Yes
+I01049,P02083,Overcrowding,Medium,Day 2,Mina-Internal,6,Yes
+I01050,P00201,Overcrowding,Low,Day 2,Mina North,2,Yes
+I01051,P01453,Overcrowding,Medium,Day 1,Mina-Arafat,6,Yes
+I01052,P01817,Overcrowding,Low,Day 1,Arafat South,7,Yes
+I01053,P01468,Medical,Medium,Day 2,Mina-Arafat,9,Yes
+I01054,P02197,Medical,Low,Day 4,Jamarat-Mina,4,Yes
+I01055,P01234,Lost Group,Low,Day 5,Muzdalifah South,24,Yes
+I01056,P02716,Overcrowding,Medium,Day 5,Muzdalifah-Mina,11,Yes
+I01057,P02055,Lost Group,Low,Day 5,Mina East,4,Yes
+I01058,P00105,Transport Issue,High,Day 1,Jamarat-Mina,5,No
+I01059,P00542,Overcrowding,Low,Day 4,Jamarat-Mina,6,Yes
+I01060,P00883,Service Complaint,Medium,Day 1,Arafat-Internal,12,Yes
+I01061,P00576,Transport Issue,Medium,Day 1,Mina South,7,Yes
+I01062,P02400,Delay,Low,Day 4,Jamarat West,22,Yes
+I01063,P00050,Medical,Medium,Day 3,Jamarat West,6,Yes
+I01064,P02400,Medical,Medium,Day 5,Arafat-Internal,11,Yes
+I01065,P01147,Overcrowding,High,Day 4,Muzdalifah Central,9,Yes
+I01066,P01734,Delay,Medium,Day 3,Arafat North,4,Yes
+I01067,P00582,Overcrowding,Low,Day 5,Arafat Central,5,Yes
+I01068,P00188,Medical,Medium,Day 3,Jamarat East,3,No
+I01069,P02943,Overcrowding,High,Day 4,Jamarat-Mina,25,Yes
+I01070,P01760,Transport Issue,Low,Day 3,Mina-Arafat,22,Yes
+I01071,P01584,Service Complaint,Low,Day 3,Mina North,13,Yes
+I01072,P02476,Medical,Medium,Day 4,Muzdalifah South,21,Yes
+I01073,P00920,Medical,Medium,Day 5,Arafat Central,9,Yes
+I01074,P00062,Delay,Critical,Day 4,Mina-Arafat,5,Yes
+I01075,P01317,Transport Issue,Critical,Day 2,Muzdalifah-Mina,7,Yes
+I01076,P00637,Lost Group,Low,Day 1,Jamarat East,5,Yes
+I01077,P00117,Delay,High,Day 2,Muzdalifah-Internal,24,Yes
+I01078,P02547,Overcrowding,Low,Day 3,Muzdalifah-Internal,5,Yes
+I01079,P02360,Overcrowding,Medium,Day 5,Mina North,18,Yes
+I01080,P00704,Lost Group,Low,Day 2,Mina-Jamarat,2,Yes
+I01081,P02763,Transport Issue,Low,Day 1,Arafat Central,10,Yes
+I01082,P00175,Transport Issue,High,Day 2,Mina-Arafat,5,Yes
+I01083,P00222,Overcrowding,Critical,Day 5,Mina North,4,No
+I01084,P02158,Transport Issue,Critical,Day 3,Muzdalifah North,12,Yes
+I01085,P00695,Overcrowding,High,Day 2,Mina East,9,Yes
+I01086,P02325,Lost Group,Low,Day 2,Arafat North,16,Yes
+I01087,P01829,Service Complaint,Low,Day 2,Mina South,8,No
+I01088,P01199,Service Complaint,Low,Day 1,Jamarat East,21,Yes
+I01089,P01385,Lost Group,Medium,Day 4,Jamarat West,8,Yes
+I01090,P02164,Lost Group,Critical,Day 2,Muzdalifah North,12,Yes
+I01091,P02842,Medical,High,Day 1,Mina Central,3,Yes
+I01092,P01715,Service Complaint,Medium,Day 4,Arafat-Internal,9,Yes
+I01093,P02044,Delay,High,Day 2,Muzdalifah North,3,Yes
+I01094,P00740,Overcrowding,High,Day 4,Muzdalifah South,15,Yes
+I01095,P00713,Service Complaint,High,Day 2,Mina-Arafat,7,Yes
+I01096,P01248,Delay,High,Day 2,Mina-Jamarat,2,Yes
+I01097,P01194,Overcrowding,High,Day 1,Mina-Internal,12,Yes
+I01098,P01832,Service Complaint,Low,Day 5,Muzdalifah Central,15,Yes
+I01099,P02773,Transport Issue,Low,Day 2,Mina South,9,Yes
+I01100,P02549,Medical,Low,Day 5,Muzdalifah South,6,Yes
+I01101,P02626,Delay,Critical,Day 2,Jamarat-Mina,20,Yes
+I01102,P00719,Delay,Low,Day 2,Mina North,5,Yes
+I01103,P00792,Overcrowding,Low,Day 3,Mina-Internal,17,Yes
+I01104,P00391,Medical,Medium,Day 4,Muzdalifah-Internal,14,Yes
+I01105,P02340,Service Complaint,Low,Day 4,Muzdalifah South,20,Yes
+I01106,P02606,Medical,High,Day 1,Arafat Central,3,Yes
+I01107,P01026,Lost Group,Low,Day 5,Jamarat West,2,Yes
+I01108,P02858,Transport Issue,High,Day 5,Jamarat East,14,Yes
+I01109,P02651,Medical,Medium,Day 2,Mina North,19,Yes
+I01110,P00157,Medical,Medium,Day 1,Muzdalifah-Internal,10,No
+I01111,P01863,Service Complaint,Medium,Day 2,Arafat-Muzdalifah,12,Yes
+I01112,P02887,Transport Issue,Medium,Day 5,Arafat South,7,Yes
+I01113,P00027,Transport Issue,Low,Day 5,Mina South,27,Yes
+I01114,P02227,Service Complaint,High,Day 3,Mina North,12,No
+I01115,P00553,Medical,Medium,Day 5,Muzdalifah South,6,Yes
+I01116,P02769,Lost Group,Low,Day 2,Mina South,14,Yes
+I01117,P02954,Medical,Medium,Day 1,Mina-Arafat,26,Yes
+I01118,P00075,Delay,High,Day 5,Arafat-Muzdalifah,9,Yes
+I01119,P02192,Service Complaint,Critical,Day 2,Arafat North,39,Yes
+I01120,P02827,Transport Issue,Low,Day 4,Jamarat West,6,Yes
+I01121,P01291,Delay,Medium,Day 3,Mina South,7,No
+I01122,P00544,Medical,Medium,Day 4,Muzdalifah Central,11,Yes
+I01123,P02159,Delay,Low,Day 5,Jamarat West,8,Yes
+I01124,P00238,Overcrowding,Low,Day 4,Muzdalifah-Internal,9,Yes
+I01125,P02924,Overcrowding,High,Day 2,Mina-Jamarat,11,Yes
+I01126,P02584,Overcrowding,Medium,Day 4,Muzdalifah-Internal,5,Yes
+I01127,P02931,Overcrowding,Low,Day 3,Jamarat-Mina,4,Yes
+I01128,P02388,Medical,Medium,Day 4,Mina East,14,Yes
+I01129,P02086,Transport Issue,Low,Day 1,Arafat-Muzdalifah,16,Yes
+I01130,P01343,Service Complaint,High,Day 5,Jamarat West,4,Yes
+I01131,P00237,Lost Group,High,Day 4,Muzdalifah-Mina,7,Yes
+I01132,P02544,Transport Issue,Medium,Day 2,Arafat-Muzdalifah,3,Yes
+I01133,P01121,Overcrowding,Medium,Day 4,Jamarat East,4,Yes
+I01134,P02651,Service Complaint,Low,Day 1,Mina Central,19,Yes
+I01135,P00692,Overcrowding,Medium,Day 5,Muzdalifah South,11,No
+I01136,P00028,Medical,High,Day 3,Arafat Central,16,Yes
+I01137,P00990,Transport Issue,Medium,Day 3,Muzdalifah-Mina,7,Yes
+I01138,P00185,Transport Issue,Low,Day 5,Mina East,8,No
+I01139,P02279,Delay,Medium,Day 1,Muzdalifah North,9,Yes
+I01140,P01757,Overcrowding,Low,Day 4,Jamarat West,4,Yes
+I01141,P00546,Lost Group,Low,Day 3,Muzdalifah-Mina,11,Yes
+I01142,P00127,Delay,High,Day 4,Muzdalifah-Mina,4,Yes
+I01143,P00044,Medical,Medium,Day 1,Arafat Central,7,Yes
+I01144,P01919,Lost Group,High,Day 4,Muzdalifah-Mina,5,Yes
+I01145,P02006,Lost Group,Medium,Day 4,Mina North,22,Yes
+I01146,P01033,Medical,Low,Day 4,Mina Central,17,Yes
+I01147,P02624,Overcrowding,Medium,Day 4,Muzdalifah Central,6,Yes
+I01148,P01510,Transport Issue,Medium,Day 1,Arafat North,22,Yes
+I01149,P01881,Lost Group,Medium,Day 2,Jamarat East,7,Yes
+I01150,P02751,Medical,Low,Day 2,Muzdalifah-Mina,4,Yes
+I01151,P00356,Lost Group,Low,Day 4,Arafat-Internal,2,Yes
+I01152,P02231,Overcrowding,Medium,Day 2,Arafat North,10,Yes
+I01153,P01472,Overcrowding,Medium,Day 2,Arafat South,13,Yes
+I01154,P01080,Service Complaint,Low,Day 5,Jamarat-Mina,18,Yes
+I01155,P01975,Medical,Low,Day 3,Jamarat-Mina,15,Yes
+I01156,P02705,Transport Issue,Medium,Day 4,Jamarat West,52,Yes
+I01157,P02827,Medical,Medium,Day 3,Arafat Central,6,Yes
+I01158,P01447,Lost Group,Medium,Day 4,Mina Central,6,Yes
+I01159,P01590,Transport Issue,Low,Day 4,Arafat Central,15,No
+I01160,P01143,Lost Group,High,Day 2,Muzdalifah Central,10,Yes
+I01161,P02808,Service Complaint,High,Day 2,Arafat-Muzdalifah,16,Yes
+I01162,P02821,Transport Issue,Low,Day 4,Jamarat-Mina,23,Yes
+I01163,P01503,Lost Group,Low,Day 2,Muzdalifah South,3,Yes
+I01164,P00063,Lost Group,Medium,Day 4,Muzdalifah-Mina,7,Yes
+I01165,P01093,Overcrowding,Low,Day 3,Muzdalifah Central,4,Yes
+I01166,P01650,Overcrowding,Low,Day 4,Mina-Arafat,4,No
+I01167,P02447,Overcrowding,High,Day 1,Mina Central,9,Yes
+I01168,P02809,Lost Group,Medium,Day 5,Arafat Central,6,Yes
+I01169,P00207,Service Complaint,Critical,Day 2,Muzdalifah South,9,Yes
+I01170,P02805,Medical,High,Day 5,Arafat-Internal,12,Yes
+I01171,P00632,Medical,Low,Day 3,Mina Central,12,Yes
+I01172,P00468,Medical,Critical,Day 4,Mina Central,12,Yes
+I01173,P02822,Lost Group,Medium,Day 4,Muzdalifah-Internal,27,Yes
+I01174,P02458,Lost Group,Medium,Day 3,Arafat South,27,Yes
+I01175,P02745,Delay,Low,Day 2,Jamarat East,7,Yes
+I01176,P01122,Transport Issue,Medium,Day 5,Jamarat East,34,Yes
+I01177,P01505,Medical,Medium,Day 3,Jamarat East,11,Yes
+I01178,P02311,Transport Issue,Low,Day 2,Arafat South,12,No
+I01179,P01966,Overcrowding,Medium,Day 5,Mina-Arafat,4,Yes
+I01180,P00015,Delay,Medium,Day 3,Jamarat-Mina,9,Yes
+I01181,P02471,Overcrowding,Medium,Day 4,Jamarat-Mina,19,Yes
+I01182,P00075,Transport Issue,High,Day 2,Mina-Arafat,12,Yes
+I01183,P00294,Service Complaint,High,Day 1,Mina East,18,Yes
+I01184,P00626,Transport Issue,Low,Day 4,Arafat Central,16,Yes
+I01185,P02059,Overcrowding,Medium,Day 5,Muzdalifah-Mina,3,Yes
+I01186,P01729,Transport Issue,High,Day 3,Muzdalifah South,13,Yes
+I01187,P02587,Transport Issue,Medium,Day 3,Mina-Jamarat,13,Yes
+I01188,P02823,Lost Group,Medium,Day 3,Arafat North,5,No
+I01189,P00366,Overcrowding,Medium,Day 2,Muzdalifah South,3,No
+I01190,P02441,Medical,Low,Day 2,Muzdalifah North,7,Yes
+I01191,P02303,Lost Group,Low,Day 5,Muzdalifah-Mina,7,Yes
+I01192,P00532,Medical,Medium,Day 3,Mina-Jamarat,27,Yes
+I01193,P00063,Delay,Low,Day 4,Arafat South,19,Yes
+I01194,P00557,Delay,Low,Day 4,Muzdalifah North,11,No
+I01195,P02080,Medical,Medium,Day 3,Arafat Central,10,Yes
+I01196,P02663,Overcrowding,Low,Day 4,Jamarat West,7,Yes
+I01197,P00870,Transport Issue,Low,Day 4,Mina South,19,Yes
+I01198,P02226,Delay,High,Day 5,Jamarat West,7,Yes
+I01199,P00720,Medical,Critical,Day 2,Mina North,10,Yes
+I01200,P01735,Overcrowding,Low,Day 3,Jamarat-Mina,2,Yes
+I01201,P02712,Overcrowding,Medium,Day 3,Jamarat East,14,Yes
+I01202,P00146,Service Complaint,High,Day 2,Arafat South,6,Yes
+I01203,P00733,Service Complaint,Low,Day 1,Mina-Internal,4,Yes
+I01204,P00443,Lost Group,Low,Day 4,Mina East,4,Yes
+I01205,P01190,Transport Issue,Medium,Day 2,Jamarat East,9,Yes
+I01206,P01712,Lost Group,Low,Day 3,Muzdalifah-Internal,25,Yes
+I01207,P02007,Lost Group,Low,Day 1,Muzdalifah South,14,Yes
+I01208,P02536,Service Complaint,Medium,Day 4,Muzdalifah Central,5,Yes
+I01209,P00462,Service Complaint,High,Day 5,Muzdalifah-Mina,15,Yes
+I01210,P01944,Delay,Low,Day 4,Mina North,10,Yes
+I01211,P02423,Overcrowding,Low,Day 1,Mina South,12,Yes
+I01212,P01484,Medical,High,Day 1,Jamarat-Mina,9,Yes
+I01213,P01870,Medical,Medium,Day 3,Mina North,7,Yes
+I01214,P02756,Medical,High,Day 4,Mina North,11,Yes
+I01215,P02734,Service Complaint,Medium,Day 1,Mina South,24,Yes
+I01216,P00151,Overcrowding,Medium,Day 5,Mina-Arafat,6,Yes
+I01217,P01807,Lost Group,Low,Day 4,Arafat Central,7,Yes
+I01218,P00427,Transport Issue,Low,Day 1,Muzdalifah Central,9,Yes
+I01219,P00062,Delay,Low,Day 1,Arafat North,8,Yes
+I01220,P00698,Lost Group,High,Day 4,Jamarat-Mina,6,Yes
+I01221,P00546,Medical,Medium,Day 4,Muzdalifah North,12,Yes
+I01222,P00028,Lost Group,Low,Day 3,Arafat-Internal,25,Yes
+I01223,P01485,Delay,Medium,Day 1,Mina South,24,Yes
+I01224,P01335,Medical,High,Day 2,Mina Central,2,No
+I01225,P01435,Medical,Medium,Day 2,Mina East,4,Yes
+I01226,P01173,Lost Group,Low,Day 1,Mina East,17,Yes
+I01227,P01814,Overcrowding,Low,Day 2,Arafat North,5,Yes
+I01228,P00417,Overcrowding,Low,Day 1,Muzdalifah-Mina,2,Yes
+I01229,P00625,Lost Group,Medium,Day 3,Muzdalifah North,4,Yes
+I01230,P00173,Transport Issue,High,Day 1,Mina-Arafat,7,Yes
+I01231,P00921,Delay,Medium,Day 4,Muzdalifah-Mina,11,Yes
+I01232,P00243,Medical,Medium,Day 2,Mina North,19,Yes
+I01233,P01919,Overcrowding,Medium,Day 3,Muzdalifah-Mina,6,Yes
+I01234,P01361,Service Complaint,Low,Day 3,Arafat South,2,No
+I01235,P01555,Overcrowding,Low,Day 2,Muzdalifah South,10,Yes
+I01236,P02161,Lost Group,Low,Day 3,Muzdalifah North,23,Yes
+I01237,P00764,Overcrowding,Medium,Day 5,Mina South,16,Yes
+I01238,P00428,Medical,Low,Day 5,Arafat North,9,No
+I01239,P01097,Transport Issue,High,Day 2,Mina-Jamarat,9,Yes
+I01240,P02224,Delay,Medium,Day 1,Jamarat West,5,Yes
+I01241,P00363,Transport Issue,High,Day 5,Mina-Jamarat,20,Yes
+I01242,P00507,Delay,Medium,Day 4,Muzdalifah North,4,Yes
+I01243,P02859,Transport Issue,High,Day 4,Mina-Jamarat,18,Yes
+I01244,P01728,Delay,Low,Day 5,Mina South,3,Yes
+I01245,P02570,Transport Issue,Low,Day 2,Muzdalifah Central,6,Yes
+I01246,P00959,Transport Issue,Low,Day 5,Arafat-Internal,2,Yes
+I01247,P02023,Transport Issue,Critical,Day 2,Muzdalifah Central,12,No
+I01248,P00346,Overcrowding,Low,Day 2,Arafat South,5,Yes
+I01249,P02790,Delay,Low,Day 3,Mina South,3,Yes
+I01250,P02240,Service Complaint,Medium,Day 3,Mina North,21,Yes
+I01251,P02939,Transport Issue,High,Day 5,Arafat South,11,Yes
+I01252,P01488,Delay,Medium,Day 3,Jamarat-Mina,3,Yes
+I01253,P00246,Delay,Low,Day 3,Arafat South,17,Yes
+I01254,P01447,Transport Issue,Low,Day 4,Jamarat-Mina,8,Yes
+I01255,P01063,Lost Group,Low,Day 5,Muzdalifah-Internal,3,Yes
+I01256,P01413,Medical,High,Day 1,Muzdalifah-Internal,9,Yes
+I01257,P02418,Medical,Low,Day 3,Mina South,2,Yes
+I01258,P00720,Service Complaint,Low,Day 2,Mina East,21,Yes
+I01259,P01518,Overcrowding,Low,Day 1,Arafat South,4,Yes
+I01260,P01127,Delay,High,Day 3,Jamarat-Mina,10,Yes
+I01261,P02168,Delay,Medium,Day 3,Mina-Arafat,14,Yes
+I01262,P01767,Transport Issue,Low,Day 4,Muzdalifah Central,14,Yes
+I01263,P02037,Service Complaint,Medium,Day 1,Muzdalifah-Mina,16,Yes
+I01264,P00036,Service Complaint,High,Day 4,Arafat South,7,Yes
+I01265,P02750,Overcrowding,High,Day 2,Jamarat West,4,Yes
+I01266,P02978,Medical,Low,Day 3,Arafat Central,9,No
+I01267,P00997,Lost Group,Low,Day 2,Mina-Arafat,10,Yes
+I01268,P00264,Lost Group,Medium,Day 4,Mina Central,24,Yes
+I01269,P00246,Transport Issue,Low,Day 3,Mina East,7,Yes
+I01270,P02817,Service Complaint,Medium,Day 1,Arafat North,15,Yes
+I01271,P02542,Service Complaint,High,Day 5,Arafat North,16,Yes
+I01272,P02941,Overcrowding,High,Day 3,Mina-Arafat,3,Yes
+I01273,P01792,Medical,Medium,Day 5,Mina Central,2,Yes
+I01274,P02916,Overcrowding,High,Day 4,Mina North,7,Yes
+I01275,P01792,Lost Group,High,Day 5,Jamarat West,4,Yes
+I01276,P02725,Overcrowding,Low,Day 1,Arafat Central,4,Yes
+I01277,P02947,Medical,High,Day 1,Arafat North,2,Yes
+I01278,P01884,Delay,Low,Day 4,Mina North,8,Yes
+I01279,P01150,Delay,Low,Day 2,Jamarat-Mina,8,Yes
+I01280,P00857,Service Complaint,Medium,Day 4,Muzdalifah South,2,Yes
+I01281,P01246,Delay,Medium,Day 2,Arafat South,25,Yes
+I01282,P01109,Lost Group,High,Day 4,Arafat-Internal,27,Yes
+I01283,P01016,Delay,Low,Day 3,Arafat-Muzdalifah,5,Yes
+I01284,P02551,Service Complaint,High,Day 5,Arafat-Muzdalifah,6,Yes
+I01285,P02346,Overcrowding,Low,Day 2,Arafat Central,26,Yes
+I01286,P00608,Overcrowding,Low,Day 5,Mina South,7,Yes
+I01287,P01703,Medical,Medium,Day 4,Arafat-Internal,3,Yes
+I01288,P00312,Medical,Low,Day 5,Mina-Jamarat,8,Yes
+I01289,P01555,Medical,Low,Day 4,Muzdalifah Central,11,Yes
+I01290,P00407,Service Complaint,High,Day 1,Jamarat West,5,Yes
+I01291,P01273,Lost Group,Low,Day 5,Muzdalifah Central,7,Yes
+I01292,P02754,Service Complaint,High,Day 5,Muzdalifah South,18,Yes
+I01293,P02722,Service Complaint,Low,Day 5,Arafat Central,3,No
+I01294,P01406,Delay,High,Day 5,Arafat-Internal,7,Yes
+I01295,P02479,Medical,Low,Day 1,Mina-Arafat,19,Yes
+I01296,P02799,Service Complaint,Low,Day 3,Mina North,24,Yes
+I01297,P02699,Delay,Low,Day 4,Mina North,8,Yes
+I01298,P01778,Delay,Medium,Day 4,Mina Central,18,Yes
+I01299,P01246,Delay,Low,Day 1,Arafat-Muzdalifah,17,Yes
+I01300,P01288,Lost Group,High,Day 4,Mina-Jamarat,18,Yes
+I01301,P00110,Medical,Low,Day 1,Arafat South,8,Yes
+I01302,P00807,Overcrowding,Low,Day 5,Jamarat-Mina,17,Yes
+I01303,P00653,Overcrowding,High,Day 5,Muzdalifah North,2,Yes
+I01304,P01018,Delay,Low,Day 4,Mina-Arafat,9,Yes
+I01305,P02393,Medical,High,Day 2,Muzdalifah South,7,Yes
+I01306,P00993,Overcrowding,High,Day 4,Arafat Central,11,Yes
+I01307,P02205,Delay,Low,Day 2,Jamarat West,12,Yes
+I01308,P00842,Overcrowding,High,Day 3,Muzdalifah Central,4,Yes
+I01309,P00931,Transport Issue,Medium,Day 1,Mina-Internal,2,No
+I01310,P00460,Delay,Low,Day 4,Muzdalifah-Mina,12,Yes
+I01311,P01263,Overcrowding,Low,Day 2,Arafat Central,17,Yes
+I01312,P00487,Delay,Low,Day 5,Jamarat-Mina,4,Yes
+I01313,P02031,Service Complaint,High,Day 1,Mina North,10,Yes
+I01314,P01628,Transport Issue,Medium,Day 3,Arafat-Internal,2,Yes
+I01315,P00557,Transport Issue,Medium,Day 5,Jamarat-Mina,23,Yes
+I01316,P02095,Overcrowding,Medium,Day 3,Arafat-Internal,10,Yes
+I01317,P02586,Medical,High,Day 3,Mina-Internal,3,Yes
+I01318,P00063,Transport Issue,Low,Day 5,Mina-Jamarat,12,Yes
+I01319,P00602,Overcrowding,Low,Day 1,Muzdalifah Central,16,Yes
+I01320,P01070,Service Complaint,Low,Day 2,Jamarat-Mina,12,Yes
+I01321,P00724,Lost Group,High,Day 5,Mina South,9,Yes
+I01322,P00865,Medical,Low,Day 1,Jamarat West,14,Yes
+I01323,P02910,Lost Group,Critical,Day 3,Jamarat-Mina,14,No
+I01324,P01759,Lost Group,Critical,Day 1,Muzdalifah-Internal,16,Yes
+I01325,P00643,Delay,Low,Day 4,Muzdalifah North,8,Yes
+I01326,P02062,Delay,High,Day 3,Mina South,8,Yes
+I01327,P02641,Transport Issue,Medium,Day 4,Arafat Central,20,Yes
+I01328,P02176,Medical,High,Day 1,Arafat South,2,Yes
+I01329,P02283,Medical,Low,Day 1,Mina Central,14,Yes
+I01330,P01665,Lost Group,Medium,Day 5,Mina-Jamarat,9,Yes
+I01331,P01544,Transport Issue,Medium,Day 5,Muzdalifah South,16,Yes
+I01332,P00948,Delay,Medium,Day 4,Arafat Central,22,Yes
+I01333,P00076,Delay,Low,Day 3,Arafat South,10,Yes
+I01334,P02819,Delay,Low,Day 2,Mina South,8,Yes
+I01335,P01539,Transport Issue,Medium,Day 2,Arafat South,10,Yes
+I01336,P00883,Delay,Medium,Day 2,Arafat-Muzdalifah,12,No
+I01337,P00879,Transport Issue,Low,Day 1,Arafat Central,15,Yes
+I01338,P01306,Transport Issue,Critical,Day 3,Mina Central,7,Yes
+I01339,P01373,Delay,Medium,Day 4,Mina North,3,Yes
+I01340,P01964,Service Complaint,Low,Day 1,Jamarat East,20,Yes
+I01341,P02000,Medical,High,Day 5,Mina North,2,Yes
+I01342,P01919,Overcrowding,Medium,Day 2,Mina South,7,Yes
+I01343,P00953,Lost Group,Medium,Day 4,Arafat South,8,Yes
+I01344,P01577,Medical,Medium,Day 1,Mina-Arafat,11,Yes
+I01345,P00446,Lost Group,Low,Day 1,Muzdalifah-Internal,8,Yes
+I01346,P00739,Overcrowding,Critical,Day 4,Mina North,9,Yes
+I01347,P00654,Medical,High,Day 1,Mina East,3,Yes
+I01348,P02834,Medical,High,Day 1,Mina South,6,No
+I01349,P01035,Overcrowding,Low,Day 5,Jamarat-Mina,3,Yes
+I01350,P01059,Medical,Medium,Day 2,Mina-Jamarat,12,Yes
+I01351,P01092,Service Complaint,Medium,Day 1,Muzdalifah-Mina,16,Yes
+I01352,P02104,Delay,Low,Day 4,Mina East,18,Yes
+I01353,P01733,Transport Issue,Medium,Day 2,Arafat North,15,Yes
+I01354,P01224,Medical,Low,Day 3,Jamarat West,5,Yes
+I01355,P02522,Medical,Low,Day 2,Mina-Jamarat,3,Yes
+I01356,P00544,Lost Group,Medium,Day 3,Jamarat East,6,Yes
+I01357,P00806,Medical,Medium,Day 2,Arafat-Muzdalifah,18,Yes
+I01358,P00604,Medical,High,Day 4,Muzdalifah South,8,Yes
+I01359,P01047,Transport Issue,High,Day 5,Muzdalifah South,2,Yes
+I01360,P00834,Service Complaint,Medium,Day 5,Jamarat East,28,Yes
+I01361,P02047,Transport Issue,High,Day 1,Arafat-Internal,4,Yes
+I01362,P00348,Transport Issue,Medium,Day 2,Mina Central,14,Yes
+I01363,P00191,Delay,Low,Day 5,Mina North,4,Yes
+I01364,P01933,Lost Group,Low,Day 3,Arafat-Muzdalifah,14,Yes
+I01365,P00609,Lost Group,Low,Day 4,Arafat Central,7,Yes
+I01366,P02676,Transport Issue,Low,Day 4,Arafat Central,13,Yes
+I01367,P01931,Transport Issue,Low,Day 1,Mina North,3,Yes
+I01368,P01866,Transport Issue,Medium,Day 3,Mina-Jamarat,10,Yes
+I01369,P01353,Lost Group,Medium,Day 1,Mina North,2,Yes
+I01370,P02326,Service Complaint,High,Day 1,Muzdalifah Central,9,Yes
+I01371,P01920,Medical,Low,Day 5,Muzdalifah North,4,Yes
+I01372,P01277,Lost Group,Low,Day 1,Jamarat East,5,Yes
+I01373,P02782,Overcrowding,High,Day 5,Jamarat East,8,Yes
+I01374,P00849,Delay,Low,Day 4,Mina-Internal,11,Yes
+I01375,P02011,Lost Group,Medium,Day 1,Arafat Central,2,Yes
+I01376,P00600,Overcrowding,Medium,Day 1,Arafat Central,3,Yes
+I01377,P00356,Lost Group,Low,Day 3,Muzdalifah-Mina,12,Yes
+I01378,P01882,Overcrowding,Low,Day 4,Mina North,2,Yes
+I01379,P00115,Medical,High,Day 5,Mina East,14,Yes
+I01380,P00054,Overcrowding,Medium,Day 4,Muzdalifah-Internal,8,Yes
+I01381,P01553,Transport Issue,Medium,Day 3,Jamarat West,8,Yes
+I01382,P00365,Delay,Medium,Day 5,Arafat Central,9,Yes
+I01383,P02456,Medical,Low,Day 1,Muzdalifah Central,6,Yes
+I01384,P02351,Delay,Low,Day 3,Arafat-Muzdalifah,16,Yes
+I01385,P01101,Medical,Medium,Day 3,Arafat North,2,Yes
+I01386,P02400,Overcrowding,Medium,Day 5,Mina-Internal,14,Yes
+I01387,P02864,Lost Group,High,Day 5,Mina South,7,Yes
+I01388,P02079,Overcrowding,Medium,Day 2,Muzdalifah-Internal,23,Yes
+I01389,P00703,Overcrowding,Medium,Day 5,Mina-Internal,2,Yes
+I01390,P00748,Overcrowding,High,Day 5,Muzdalifah North,4,No
+I01391,P02579,Lost Group,Critical,Day 1,Mina North,4,No
+I01392,P01332,Medical,Low,Day 1,Mina-Jamarat,3,Yes
+I01393,P00725,Transport Issue,High,Day 2,Jamarat East,11,Yes
+I01394,P00415,Service Complaint,Low,Day 3,Jamarat West,8,Yes
+I01395,P01903,Transport Issue,Medium,Day 4,Mina-Jamarat,30,Yes
+I01396,P01829,Lost Group,Medium,Day 5,Mina-Arafat,10,Yes
+I01397,P01518,Overcrowding,Low,Day 5,Muzdalifah-Mina,15,Yes
+I01398,P01612,Delay,High,Day 3,Jamarat East,2,Yes
+I01399,P01577,Lost Group,Low,Day 4,Arafat South,5,Yes
+I01400,P02612,Delay,Low,Day 5,Arafat-Internal,27,Yes
+I01401,P00522,Overcrowding,High,Day 3,Mina East,6,Yes
+I01402,P02297,Overcrowding,Medium,Day 3,Arafat-Internal,7,Yes
+I01403,P01405,Medical,Low,Day 5,Muzdalifah South,3,Yes
+I01404,P00799,Service Complaint,Medium,Day 3,Muzdalifah-Mina,6,Yes
+I01405,P01580,Medical,Low,Day 2,Mina North,9,Yes
+I01406,P00217,Medical,Low,Day 3,Mina-Arafat,2,Yes
+I01407,P01227,Service Complaint,Low,Day 5,Jamarat East,15,No
+I01408,P01433,Service Complaint,Low,Day 5,Mina North,10,Yes
+I01409,P00821,Overcrowding,Low,Day 4,Jamarat East,13,Yes
+I01410,P02088,Transport Issue,Medium,Day 5,Mina South,5,Yes
+I01411,P01939,Overcrowding,Medium,Day 2,Mina North,18,Yes
+I01412,P01144,Delay,Medium,Day 4,Muzdalifah Central,5,Yes
+I01413,P02304,Delay,Low,Day 2,Jamarat West,8,Yes
+I01414,P02984,Medical,High,Day 3,Mina North,8,Yes
+I01415,P01221,Service Complaint,High,Day 2,Arafat South,5,Yes
+I01416,P01782,Overcrowding,Low,Day 3,Mina South,9,Yes
+I01417,P01176,Delay,Medium,Day 1,Muzdalifah North,9,Yes
+I01418,P02820,Service Complaint,Low,Day 3,Arafat Central,11,Yes
+I01419,P00095,Transport Issue,Low,Day 3,Muzdalifah-Internal,4,Yes
+I01420,P02682,Medical,Medium,Day 5,Arafat Central,9,Yes
+I01421,P02930,Overcrowding,Low,Day 3,Mina East,10,Yes
+I01422,P01578,Transport Issue,Medium,Day 4,Muzdalifah Central,12,Yes
+I01423,P00443,Medical,Medium,Day 5,Jamarat West,25,Yes
+I01424,P02713,Service Complaint,Low,Day 2,Mina South,22,Yes
+I01425,P00223,Overcrowding,Medium,Day 1,Jamarat East,14,Yes
+I01426,P01476,Transport Issue,Medium,Day 5,Mina-Jamarat,9,Yes
+I01427,P01734,Service Complaint,Low,Day 4,Mina Central,11,Yes
+I01428,P02396,Overcrowding,Medium,Day 1,Jamarat-Mina,4,Yes
+I01429,P02242,Transport Issue,Medium,Day 3,Muzdalifah South,4,Yes
+I01430,P01596,Delay,Medium,Day 1,Mina-Internal,10,Yes
+I01431,P01072,Delay,Medium,Day 1,Jamarat-Mina,4,Yes
+I01432,P02481,Overcrowding,Low,Day 4,Arafat Central,11,Yes
+I01433,P02640,Lost Group,Low,Day 5,Mina-Jamarat,16,Yes
+I01434,P02110,Lost Group,Medium,Day 3,Mina North,7,No
+I01435,P02953,Lost Group,Critical,Day 1,Arafat-Internal,3,Yes
+I01436,P01058,Delay,Medium,Day 2,Arafat Central,16,Yes
+I01437,P02286,Delay,High,Day 5,Muzdalifah Central,25,Yes
+I01438,P00931,Lost Group,High,Day 3,Jamarat East,24,Yes
+I01439,P02145,Overcrowding,Medium,Day 5,Muzdalifah-Mina,23,Yes
+I01440,P02321,Overcrowding,Low,Day 3,Jamarat-Mina,21,Yes
+I01441,P02741,Transport Issue,Medium,Day 3,Arafat North,9,Yes
+I01442,P02890,Delay,Low,Day 4,Mina-Internal,9,Yes
+I01443,P01990,Lost Group,Low,Day 2,Mina North,4,Yes
+I01444,P01170,Lost Group,Medium,Day 2,Mina-Internal,25,Yes
+I01445,P00119,Transport Issue,Medium,Day 2,Mina-Internal,5,Yes
+I01446,P02567,Overcrowding,High,Day 4,Mina South,5,Yes
+I01447,P02931,Lost Group,Medium,Day 3,Mina South,2,Yes
+I01448,P01729,Medical,Medium,Day 4,Arafat Central,3,Yes
+I01449,P01962,Medical,Medium,Day 4,Muzdalifah-Internal,2,Yes
+I01450,P02692,Medical,Critical,Day 1,Mina-Jamarat,13,Yes
+I01451,P01752,Transport Issue,Medium,Day 4,Arafat Central,8,Yes
+I01452,P02825,Lost Group,Medium,Day 3,Arafat-Muzdalifah,8,Yes
+I01453,P00156,Transport Issue,Medium,Day 1,Arafat-Internal,2,Yes
+I01454,P02426,Delay,Medium,Day 1,Muzdalifah North,6,Yes
+I01455,P00478,Overcrowding,High,Day 5,Mina North,7,Yes
+I01456,P00373,Medical,Low,Day 3,Muzdalifah-Internal,3,Yes
+I01457,P02166,Transport Issue,Low,Day 1,Muzdalifah South,15,No
+I01458,P01523,Medical,Medium,Day 2,Arafat South,12,Yes
+I01459,P00333,Lost Group,Medium,Day 2,Mina North,14,Yes
+I01460,P02793,Service Complaint,Low,Day 3,Jamarat-Mina,14,Yes
+I01461,P01304,Delay,High,Day 4,Arafat North,8,Yes
+I01462,P01729,Delay,Critical,Day 2,Jamarat East,19,Yes
+I01463,P01148,Service Complaint,Critical,Day 5,Muzdalifah South,6,Yes
+I01464,P00302,Lost Group,Medium,Day 3,Muzdalifah South,6,Yes
+I01465,P01544,Transport Issue,Medium,Day 4,Jamarat-Mina,4,Yes
+I01466,P01840,Lost Group,Low,Day 2,Mina South,14,Yes
+I01467,P00053,Medical,High,Day 2,Mina North,13,Yes
+I01468,P02790,Delay,Low,Day 4,Muzdalifah-Internal,12,Yes
+I01469,P02659,Medical,Low,Day 3,Mina-Jamarat,7,Yes
+I01470,P01419,Transport Issue,High,Day 2,Jamarat East,18,Yes
+I01471,P00469,Lost Group,Medium,Day 3,Muzdalifah-Internal,5,Yes
+I01472,P02569,Lost Group,Medium,Day 3,Jamarat West,16,No
+I01473,P01796,Lost Group,Medium,Day 5,Muzdalifah North,14,Yes
+I01474,P00057,Service Complaint,Low,Day 4,Mina-Jamarat,4,Yes
+I01475,P00050,Service Complaint,Low,Day 2,Arafat-Internal,7,Yes
+I01476,P01884,Medical,Low,Day 4,Arafat Central,13,Yes
+I01477,P02684,Overcrowding,Low,Day 5,Arafat Central,8,Yes
+I01478,P02943,Medical,Medium,Day 1,Mina Central,41,Yes
+I01479,P02766,Transport Issue,Medium,Day 4,Jamarat West,14,Yes
+I01480,P00403,Transport Issue,Medium,Day 4,Mina South,7,Yes
+I01481,P00442,Delay,High,Day 4,Mina-Jamarat,4,Yes
+I01482,P01577,Service Complaint,Low,Day 4,Arafat-Muzdalifah,23,Yes
+I01483,P02538,Overcrowding,Low,Day 4,Mina East,22,Yes
+I01484,P00302,Delay,High,Day 3,Arafat-Muzdalifah,17,Yes
+I01485,P00487,Medical,Medium,Day 4,Arafat-Muzdalifah,2,No
+I01486,P01249,Transport Issue,Low,Day 3,Arafat South,11,Yes
+I01487,P02974,Lost Group,Medium,Day 4,Muzdalifah North,11,Yes
+I01488,P02208,Delay,Low,Day 3,Mina Central,7,Yes
+I01489,P01552,Lost Group,Medium,Day 5,Mina-Jamarat,12,Yes
+I01490,P02591,Overcrowding,Medium,Day 3,Mina East,7,Yes
+I01491,P01707,Medical,Medium,Day 1,Arafat Central,6,Yes
+I01492,P02619,Overcrowding,Low,Day 1,Muzdalifah-Internal,17,Yes
+I01493,P01512,Medical,Low,Day 4,Mina-Arafat,4,Yes
+I01494,P02355,Overcrowding,Low,Day 3,Mina-Internal,7,Yes
+I01495,P02146,Transport Issue,Low,Day 5,Muzdalifah North,12,Yes
+I01496,P02573,Overcrowding,Low,Day 1,Muzdalifah South,6,Yes
+I01497,P00632,Overcrowding,Low,Day 2,Muzdalifah South,20,Yes
+I01498,P01399,Lost Group,Low,Day 5,Mina South,15,Yes
+I01499,P01583,Overcrowding,High,Day 1,Mina-Internal,10,Yes
+I01500,P02386,Service Complaint,Low,Day 5,Jamarat-Mina,15,Yes
+I01501,P00231,Medical,High,Day 4,Muzdalifah Central,6,Yes
+I01502,P02373,Medical,Low,Day 5,Jamarat East,2,Yes
+I01503,P00750,Transport Issue,Low,Day 2,Muzdalifah North,9,Yes
+I01504,P01748,Overcrowding,Low,Day 5,Muzdalifah Central,12,Yes
+I01505,P00274,Lost Group,Medium,Day 1,Arafat South,8,Yes
+I01506,P00078,Medical,Low,Day 1,Mina-Arafat,6,Yes
+I01507,P02911,Transport Issue,Low,Day 2,Mina-Jamarat,3,Yes
+I01508,P00823,Overcrowding,Medium,Day 2,Arafat-Muzdalifah,11,Yes
+I01509,P00480,Transport Issue,Medium,Day 3,Muzdalifah North,12,Yes
+I01510,P01486,Medical,Low,Day 2,Arafat Central,2,Yes
+I01511,P01159,Service Complaint,High,Day 4,Jamarat East,8,Yes
+I01512,P02072,Delay,Low,Day 3,Jamarat West,9,Yes
+I01513,P00136,Service Complaint,Medium,Day 3,Mina-Internal,19,Yes
+I01514,P00246,Medical,Medium,Day 4,Mina East,17,Yes
+I01515,P00556,Transport Issue,High,Day 5,Arafat-Internal,23,Yes
+I01516,P01054,Service Complaint,Low,Day 2,Muzdalifah-Internal,7,No
+I01517,P00544,Service Complaint,Low,Day 2,Muzdalifah South,10,Yes
+I01518,P01011,Transport Issue,Low,Day 3,Jamarat East,16,Yes
+I01519,P00827,Delay,Low,Day 5,Muzdalifah North,12,Yes
+I01520,P00423,Transport Issue,Low,Day 4,Jamarat West,16,Yes
+I01521,P02759,Overcrowding,Low,Day 5,Muzdalifah-Internal,5,Yes
+I01522,P01341,Delay,Low,Day 2,Muzdalifah-Internal,25,Yes
+I01523,P02069,Medical,Low,Day 1,Muzdalifah North,21,Yes
+I01524,P02242,Medical,Low,Day 5,Jamarat East,7,Yes
+I01525,P02792,Lost Group,Low,Day 3,Arafat-Internal,10,Yes
+I01526,P02988,Transport Issue,Low,Day 3,Jamarat East,17,Yes
+I01527,P00078,Overcrowding,Medium,Day 2,Muzdalifah Central,5,Yes
+I01528,P02459,Delay,Low,Day 5,Arafat-Muzdalifah,3,Yes
+I01529,P02967,Medical,Medium,Day 4,Muzdalifah South,9,Yes
+I01530,P02557,Delay,Medium,Day 3,Jamarat West,10,Yes
+I01531,P02350,Overcrowding,Low,Day 1,Arafat South,4,Yes
+I01532,P01114,Medical,Medium,Day 3,Jamarat West,3,Yes
+I01533,P00025,Overcrowding,High,Day 4,Mina-Arafat,2,Yes
+I01534,P02419,Transport Issue,Critical,Day 5,Mina North,6,Yes
+I01535,P02755,Medical,Medium,Day 3,Muzdalifah South,16,Yes
+I01536,P02012,Lost Group,Low,Day 2,Arafat-Muzdalifah,2,Yes
+I01537,P01106,Medical,Low,Day 4,Mina East,6,Yes
+I01538,P00988,Medical,Low,Day 1,Muzdalifah South,17,Yes
+I01539,P02385,Lost Group,Low,Day 3,Mina North,7,Yes
+I01540,P01190,Lost Group,Medium,Day 5,Mina Central,8,Yes
+I01541,P01697,Medical,Low,Day 2,Mina East,9,Yes
+I01542,P02381,Overcrowding,Low,Day 3,Mina East,18,Yes
+I01543,P02754,Transport Issue,Low,Day 5,Jamarat East,4,Yes
+I01544,P00623,Overcrowding,Medium,Day 2,Mina Central,2,Yes
+I01545,P00964,Overcrowding,Medium,Day 1,Arafat-Internal,25,Yes
+I01546,P02209,Transport Issue,Medium,Day 3,Arafat South,22,Yes
+I01547,P00388,Lost Group,High,Day 4,Jamarat-Mina,14,Yes
+I01548,P01564,Lost Group,Medium,Day 3,Arafat North,2,Yes
+I01549,P02380,Delay,Medium,Day 3,Mina-Arafat,21,Yes
+I01550,P00510,Transport Issue,Low,Day 4,Muzdalifah-Internal,2,Yes
+I01551,P02251,Lost Group,Low,Day 1,Mina East,8,Yes
+I01552,P01257,Service Complaint,Medium,Day 5,Mina-Jamarat,7,Yes
+I01553,P02875,Service Complaint,Low,Day 4,Mina South,5,No
+I01554,P01904,Delay,Medium,Day 2,Arafat Central,9,Yes
+I01555,P01126,Lost Group,Low,Day 1,Mina-Jamarat,12,Yes
+I01556,P01610,Medical,Low,Day 3,Jamarat-Mina,24,Yes
+I01557,P00075,Delay,Medium,Day 5,Muzdalifah North,14,Yes
+I01558,P00019,Lost Group,Medium,Day 1,Arafat-Muzdalifah,12,Yes
+I01559,P02346,Medical,Low,Day 1,Muzdalifah North,4,Yes
+I01560,P02461,Medical,Low,Day 4,Muzdalifah Central,4,Yes
+I01561,P01116,Medical,Low,Day 5,Jamarat-Mina,9,Yes
+I01562,P02180,Transport Issue,Low,Day 2,Mina-Internal,15,Yes
+I01563,P01412,Lost Group,High,Day 1,Arafat North,16,Yes
+I01564,P00896,Overcrowding,Low,Day 2,Mina North,18,Yes
+I01565,P02641,Lost Group,Low,Day 2,Arafat-Muzdalifah,31,Yes
+I01566,P01775,Delay,Low,Day 4,Jamarat West,4,Yes
+I01567,P02958,Overcrowding,High,Day 3,Arafat-Internal,6,Yes
+I01568,P01969,Delay,Medium,Day 4,Arafat-Muzdalifah,8,Yes
+I01569,P01148,Service Complaint,Low,Day 3,Muzdalifah North,4,Yes
+I01570,P00646,Transport Issue,Low,Day 1,Jamarat-Mina,28,Yes
+I01571,P01473,Lost Group,Low,Day 1,Arafat-Internal,25,Yes
+I01572,P01673,Delay,Low,Day 5,Mina-Arafat,11,Yes
+I01573,P02766,Transport Issue,Low,Day 4,Jamarat-Mina,4,Yes
+I01574,P00360,Service Complaint,High,Day 2,Jamarat East,19,Yes
+I01575,P00274,Transport Issue,Low,Day 1,Jamarat East,8,Yes
+I01576,P01909,Delay,Low,Day 4,Muzdalifah South,27,Yes
+I01577,P01981,Medical,Low,Day 5,Arafat-Internal,5,Yes
+I01578,P02591,Lost Group,Medium,Day 3,Muzdalifah Central,10,Yes
+I01579,P00953,Lost Group,Low,Day 5,Mina-Arafat,9,Yes
+I01580,P00265,Medical,Medium,Day 2,Mina-Arafat,4,Yes
+I01581,P00436,Medical,Low,Day 1,Mina Central,10,Yes
+I01582,P02812,Transport Issue,High,Day 5,Arafat North,16,Yes
+I01583,P01396,Medical,Low,Day 2,Muzdalifah Central,16,Yes
+I01584,P00486,Service Complaint,High,Day 2,Jamarat West,7,Yes
+I01585,P00297,Medical,Medium,Day 4,Arafat North,5,Yes
+I01586,P01407,Delay,Low,Day 5,Muzdalifah Central,16,Yes
+I01587,P02737,Overcrowding,Medium,Day 1,Jamarat East,14,Yes
+I01588,P00957,Overcrowding,High,Day 5,Muzdalifah-Mina,6,Yes
+I01589,P01483,Lost Group,Low,Day 5,Jamarat-Mina,21,Yes
+I01590,P00436,Lost Group,Medium,Day 3,Arafat-Muzdalifah,9,Yes
+I01591,P00272,Service Complaint,High,Day 5,Muzdalifah Central,6,Yes
+I01592,P01130,Service Complaint,Low,Day 4,Mina-Internal,6,Yes
+I01593,P00641,Delay,Medium,Day 3,Jamarat East,12,Yes
+I01594,P01135,Overcrowding,Low,Day 4,Arafat Central,3,Yes
+I01595,P02887,Service Complaint,Low,Day 5,Mina-Arafat,22,Yes
+I01596,P02915,Lost Group,High,Day 1,Arafat South,14,Yes
+I01597,P02414,Service Complaint,Medium,Day 2,Mina East,13,Yes
+I01598,P01720,Lost Group,High,Day 3,Mina-Arafat,16,Yes
+I01599,P02641,Transport Issue,Critical,Day 4,Arafat-Muzdalifah,7,Yes
+I01600,P00883,Service Complaint,Low,Day 3,Mina East,8,Yes
