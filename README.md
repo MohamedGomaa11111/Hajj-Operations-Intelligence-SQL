@@ -1,33 +1,35 @@
-🕋 Hajj Operations Intelligence & Bottleneck Discovery
+# 🕋 Hajj Operations Intelligence & Bottleneck Discovery
+### Advanced Operational Analytics & SLA Optimization Using SQL Server
 
-Advanced Operational Analytics & SLA Optimization Using SQL Server
+![SQL Server](https://img.shields.io/badge/SQL%20Server-2022%2B-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-v17%2B-0078D4?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Analytics](https://img.shields.io/badge/Operations-Bottleneck%20Analysis-success?style=for-the-badge)
 
-📌 Project Overview
+---
 
-Managing crowd movement, transit logistics, and emergency services during the Hajj pilgrimage is one of the world's most intricate logistical challenges. This project provides an advanced relational SQL analysis using Microsoft SQL Server (SSMS) across thousands of operational records.
+## 📌 Project Overview
+Managing crowd movement, transit logistics, and emergency services during the Hajj pilgrimage is one of the world's most intricate logistical challenges. This project provides an advanced relational SQL analysis using **Microsoft SQL Server (SSMS)** across thousands of operational records.
 
 The primary goal is to isolate systemic bottlenecks across transit corridors, service stations, camp housing zones, and emergency SLA compliance—transforming relational database records into actionable operational intelligence.
 
-🗄️ Database Architecture
+---
 
+## 🗄️ Database Architecture
 The analysis connects operational records across the following entities:
+* **Journeys & Routes:** Transit schedule adherence, journey durations, and delay metrics.
+* **Services:** Timestamped request records and wait-time distributions across multiple holy sites.
+* **Camps & Pilgrims:** Housing capacity utilization and pilgrim density distribution.
+* **Incidents:** Event severity tracking, response latencies, and resolution outcomes.
 
-Journeys & Routes: Transit schedule adherence, journey durations, and delay metrics.
+---
 
-Services: Timestamped request records and wait-time distributions across multiple holy sites.
+## 🔍 Key Analytical Findings & SQL Queries
 
-Camps & Pilgrims: Housing capacity utilization and pilgrim density distribution.
+### 1. Transit Route Bottlenecks & Major Delay Impact
+* **Business Objective:** Identify routes generating the majority of transit disruptions.
+* **Finding:** Two routes (`Muzdalifah-Mina` and `Mina-Arafat`) account for **81.5% of all major transit delays (>15 mins)** and over 16,100 cumulative delay minutes.
 
-Incidents: Event severity tracking, response latencies, and resolution outcomes.
-
-🔍 Key Analytical Findings & SQL Queries
-
-1. Transit Route Bottlenecks & Major Delay Impact
-
-Business Objective: Identify routes generating the majority of transit disruptions.
-
-Finding: Two routes (Muzdalifah-Mina and Mina-Arafat) account for 81.5% of all major transit delays (>15 mins) and over 16,100 cumulative delay minutes.
-
+```sql
 -- Route Delay Analysis & Major Transit Bottlenecks
 SELECT 
     r.route_name,
@@ -40,14 +42,17 @@ FROM Journeys j
 INNER JOIN Routes r ON j.route_id = r.route_id
 GROUP BY r.route_name
 ORDER BY avg_delay_minutes DESC;
+```
 
+![Route Bottlenecks](screenshots/01_route_bottlenecks.png)
 
-2. Day-over-Day Delay Trend Analysis (LAG Window Function)
+---
 
-Business Objective: Measure the day-over-day compounding effect of delays on critical routes.
+### 2. Day-over-Day Delay Trend Analysis (`LAG` Window Function)
+* **Business Objective:** Measure the day-over-day compounding effect of delays on critical routes.
+* **Finding:** The `Muzdalifah-Mina` corridor peaked on **Day 3** with an average delay of 12.00 minutes, showing an increase of `+1.47 minutes` compared to Day 2.
 
-Finding: The Muzdalifah-Mina corridor peaked on Day 3 with an average delay of 12.00 minutes, showing an increase of +1.47 minutes compared to Day 2.
-
+```sql
 -- Day-over-Day Delay Trend Analysis Using LAG Window Function 
 WITH DailyRoutePerformance AS (
     SELECT 
@@ -75,14 +80,17 @@ SELECT
     ) AS delay_change_from_yesterday
 FROM DailyRoutePerformance
 ORDER BY route_name, day;
+```
 
+![Day over Day Trend](screenshots/02_day_over_day_lag.png)
 
-3. Critical Service Congestion Points (DENSE_RANK)
+---
 
-Business Objective: Pinpoint locations with the longest waiting times per service category.
+### 3. Critical Service Congestion Points (`DENSE_RANK`)
+* **Business Objective:** Pinpoint locations with the longest waiting times per service category.
+* **Finding:** Water stations in `Muzdalifah South` suffered the longest wait times (10.31 mins average, up to 37 mins), followed by meal distribution in `Mina North` (10.08 mins).
 
-Finding: Water stations in Muzdalifah South suffered the longest wait times (10.31 mins average, up to 37 mins), followed by meal distribution in Mina North (10.08 mins).
-
+```sql
 -- Critical Service Bottlenecks
 WITH RankedServices AS (
     SELECT 
@@ -109,14 +117,17 @@ SELECT
 FROM RankedServices
 WHERE service_rank <= 2
 ORDER BY service_type, avg_wait_minutes DESC;
+```
 
+![Service Bottlenecks](screenshots/03_critical_service_bottlenecks.png)
 
-4. Camp Capacity & Occupancy Rate (Multi-CTE)
+---
 
-Business Objective: Evaluate housing load and avoid join-duplication errors across campsite zones.
+### 4. Camp Capacity & Occupancy Rate (Multi-CTE)
+* **Business Objective:** Evaluate housing load and avoid join-duplication errors across campsite zones.
+* **Finding:** `Mina` camps experienced the highest operational occupancy rate at **19.80%**, directly feeding into transit congestion on its incoming corridors.
 
-Finding: Mina camps experienced the highest operational occupancy rate at 19.80%, directly feeding into transit congestion on its incoming corridors.
-
+```sql
 -- Camp Performance & Capacity Analysis
 WITH CampCapacity AS (
     SELECT 
@@ -146,14 +157,17 @@ SELECT
 FROM CampCapacity cc
 LEFT JOIN PilgrimCounts pc ON cc.zone = pc.zone
 ORDER BY occupancy_rate_pct DESC;
+```
 
+![Camp Occupancy](screenshots/04_camp_occupancy.png)
 
-5. Incident Resolution Rate & Response Times by Severity
+---
 
-Business Objective: Assess if field teams prioritize high-severity reports effectively.
+### 5. Incident Resolution Rate & Response Times by Severity
+* **Business Objective:** Assess if field teams prioritize high-severity reports effectively.
+* **Finding:** Incidents classified as **Critical** had the highest unresolved rate at **12.68%**, with average response latencies exceeding 11 minutes.
 
-Finding: Incidents classified as Critical had the highest unresolved rate at 12.68%, with average response latencies exceeding 11 minutes.
-
+```sql
 -- Incident Resolution Rate & Operational Response by Severity
 SELECT 
     severity,
@@ -165,14 +179,17 @@ SELECT
 FROM Incidents
 GROUP BY severity
 ORDER BY unresolved_count DESC;
+```
 
+![Incident Resolution](screenshots/05_incident_resolution_rate.png)
 
-6. Critical Incidents Deep-Dive & SLA Compliance
+---
 
-Business Objective: Identify specific high-severity issue types with SLA failures.
+### 6. Critical Incidents Deep-Dive & SLA Compliance
+* **Business Objective:** Identify specific high-severity issue types with SLA failures.
+* **Finding:** **Critical Service Complaints** showed a **25.0% unresolved rate**, while **Critical Lost Group** cases recorded a **20.0% unresolved rate**.
 
-Finding: Critical Service Complaints showed a 25.0% unresolved rate, while Critical Lost Group cases recorded a 20.0% unresolved rate.
-
+```sql
 -- Critical Incidents Deep-Dive
 SELECT TOP 5
     incident_type,
@@ -188,24 +205,27 @@ FROM Incidents
 WHERE severity IN ('Critical', 'High')
 GROUP BY incident_type, severity
 ORDER BY unresolved_pct DESC, avg_response_minutes DESC;
+```
 
+![Critical SLA Failures](screenshots/06_critical_sla_failures.png)
 
-🎯 Operational Recommendations
+---
 
-Dynamic Transit Dispatching: Introduce staggered departure slots between Muzdalifah and Mina prior to Day 3 to prevent transit peaks.
+## 🎯 Operational Recommendations
+1. **Dynamic Transit Dispatching:** Introduce staggered departure slots between Muzdalifah and Mina prior to Day 3 to prevent transit peaks.
+2. **Targeted Resource Re-allocation:** Deploy mobile support teams to `Muzdalifah South` water distribution and `Mina North` meal stations to reduce wait times.
+3. **Dedicated SLA Units:** Create dedicated rapid-response escorts for critical "Lost Group" events to reduce response times to under 10 minutes.
 
-Targeted Resource Re-allocation: Deploy mobile support teams to Muzdalifah South water distribution and Mina North meal stations to reduce wait times.
+---
 
-Dedicated SLA Units: Create dedicated rapid-response escorts for critical "Lost Group" events to reduce response times to under 10 minutes.
-
-📁 Repository Structure
-
+## 📁 Repository Structure
+```text
 ├── data/                              # Raw and structured project datasets
 ├── screenshots/                       # Output verification screenshots
 ├── hajj_operations_intelligence.sql   # Unified SQL script containing all 6 queries
 └── README.md                          # Comprehensive project documentation
+```
 
-
-Author: Mohamed Gomaa Mohamed
-
-Specialization: Software Engineering & Data Analytics
+---
+**Author:** Mohamed Gomaa Mohamed  
+**Specialization:** Software Engineering & Data Analytics
